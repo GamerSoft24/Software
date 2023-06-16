@@ -1,9 +1,10 @@
-#This is a modified version of the code made by Okmeque1.If you are copying this file,please make sure to mention Okmeque1 somewhere(even in the most obscure part).
+#This is a modified version of the code made by Okmeque1. If you are copying this file, please make sure to mention Okmeque1 somewhere (even in the most obscure part).
+#The code is below: 
 import random
 flag = True
 while flag == True:
     print("****THE SOFTWARE024'S PASSWORD SECURITY SYSTEM****")
-    print("Program version 1.18.2")
+    print("Program version 1.20.0")
     print("")
     print("1 -> Add or generate password to save file.")
     print("2 -> Retrieve password from save file.")
