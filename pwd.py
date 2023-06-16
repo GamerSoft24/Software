@@ -1,5 +1,3 @@
-#This is a modified version of the code made by Okmeque1. If you are copying this file, please make sure to mention Okmeque1 somewhere (even in the most obscure part).
-#The code is below: 
 import random
 flag = True
 while flag == True:
