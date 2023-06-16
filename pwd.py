@@ -38,7 +38,7 @@ while flag == True:
             if line.split(" -> ")[0] == set1:
                 print(line.split(" -> ")[1])
     elif option == 3:
-        del1 = input("WARNING! This option will delete all characters stored in save file and can no longer be previewed. To proceed, you must type 'YES'. To go to the previous screen,press a key...")
+        del1 = input("WARNING! This option will delete all characters stored in save file and can no longer be previewed. To proceed, you must type 'YES'. To go to the previous screen, press a key...")
         if del1 == "YES":
             passdelete = open("G:/PYTHON/DEMO/Password.txt","w")
             passdelete.write(del1 + "                                      ")
@@ -51,7 +51,7 @@ while flag == True:
         passall.close()
 
     elif option == 5:
-        print("You have quit this program and you are in Powershell. Use the 'CMD' command to goto Windows Command Processer")
+        print("You have quit this program and you are in Powershell. Use the 'CMD' command to go to Windows Command Processor")
         flag = False    
 
     
