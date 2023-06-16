@@ -12,3 +12,7 @@ All of our projects are carfully made and have been revised and scanned for **an
 ## Project versions:
 
 -pwd.py: 1.20.0
+
+## Reporting:
+
+To report any problems or issues, just click the 'Issues' tab (next to the 'Codes' tab) inside of the Python repository, then click 'New issue' and write you report or issue. When you finished, just submit and I and GitHub will be informed.
