@@ -12,6 +12,7 @@ All of our projects are carfully made and have been revised and scanned for **an
 ## Project versions:
 
 -pwd.py: 1.20.0
+-ms-dos: 4.10.0
 
 ## Reporting:
 
