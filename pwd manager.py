@@ -9,9 +9,9 @@ while flag == True:
     print("2 -> Show a password from a save file.")
     print("3 -> Show all passwords from a save file.")
     print("4 -> Show more informations about this program.")
-    print("5 -> Show a secret password for something...")
+    print("5 -> Access TCG Headquarters' Database.")
     print("6 -> Top secret!")
-    print("7 -> Quit program")
+    print("7 -> Quit program.")
     print("")
     print("Please read the whole option 4 if this is the first time you use this program or if any updates has been done on this program's version!")
     print("")
@@ -23,9 +23,9 @@ while flag == True:
     if option == 1:
 
         print("")
-        print('Welcome to your password generator! (learn more with option 4)')
+        print('Welcome to your password generator! (learn more with option 4).')
 
-        chars = '¦¬`1!23£4$€5%6^7&8*9(0-_=+qQwWeErRtTyYuUiIoOpPaAsSdDfFgGhHjJkKlL;:@~#\|zZxXcCvVbBnNmMm,<.>/?'
+        chars = '¦¬`1!23£4$€5%6^7&8*9(0-_=+q"~{[]}=+QwWeErRtTyYuUiIoOpPaAsSdDfFgGhHjJkKlL;:@~^¨µù%#\|zéèàZxXcCvVbBnNmMm,<.>/?)'
 
         number = 1
         length = input('Password length: ')
@@ -127,41 +127,42 @@ while flag == True:
     elif option == 7:
         print("")
         print("Saving data to database. Please wait...")
-        time.sleep (5)
+        time.sleep (8)
         print("")
         input("Press enter to continue...")
         flag = False
 
-
-
-
     elif option == 5:
         print("")
-        passstorg = input('Enter password: ')
-        if passstorg == 'hchi&okmeque.tcg':
+        passstorg = input('Enter TCG Admin password: ')
+        if passstorg == 'hchi&okmeque.tcg_hq':
             print("")
-            print("Correct passcode. Loading TCG Headquarters' Database...")
-            time.sleep (3)
+            print("Correct passcode. ")
+            print("Loading TCG Headquarters' Database...")
+            time.sleep (5)
+            print("")
             print("This password will be used to unlock option 6: ")
             print("s:<%,Vd62Eel!BnEv6b=4£^cB|OTp-LW4:FcJO%&,€ghOuAM8!@t>sb2-wvOTTiJDN.4Yrv")
             print("")
-            input("")
+            input("Press enter to continue...")
         else:
-            print("Wrong password! ")
+            print("Wrong password!")
             print("")
             input("Press enter to continue...")        
         
-
     elif option == 6:
         print("")
         pass1 = input('Enter password: ')
         if pass1 == 's:<%,Vd62Eel!BnEv6b=4£^cB|OTp-LW4:FcJO%&,€ghOuAM8!@t>sb2-wvOTTiJDN.4Yrv':
-            print('You found the secret password!')
             print("")
-            input("")
+            print('Correct password!')
+            print("You won! ")
+            print("")
+            input("Press enter to continue...")
         else:
-            print("You lost!")
+            print("Wrong password!")
+            print("You lost! ")
             print("")
-            input("")
+            input("Press enter to continue...")
 
 ""
