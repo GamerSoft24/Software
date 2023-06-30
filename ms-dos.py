@@ -24,8 +24,7 @@ def command():
         command()
     elif A == 'format.com':
         for h in range(11):
-            print('Formatting track')
-            print(h)
+            print('Formatting track' + str(h))
     elif A == 'autoexec.bat':
         command()
     elif A == 'command.com':
@@ -35,6 +34,7 @@ def command():
         print('1 → Add value for  File')
         print('2 → Replace value for file')
         print('3 → Erase file')
+        print('4 → List file')
         B = input('Choose an option(any invalid option to quit to DOS).')
         C = int(B)
         file = ''
@@ -66,6 +66,10 @@ def command():
             f = input('This option is IRREVERSIBLE.Type Er8s£ to erase the file.')
             if e == 'eR45€' and f == 'Er8s£':
                 file = ''
+                command()
+        if C == 4:
+            print(file)
+            command()
         else:
             command()
     elif A == 'xcopy.exe':
