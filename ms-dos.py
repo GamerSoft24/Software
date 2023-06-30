@@ -68,8 +68,11 @@ def command():
                 file = ''
                 command()
         if C == 4:
-            print(file)
-            command()
+            if file = '':
+                print('File empty.Quitting NOW...')
+            else:
+                print(file)
+                command()
         else:
             command()
     elif A == 'xcopy.exe':
