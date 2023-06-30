@@ -31,11 +31,43 @@ def command():
     elif A == 'command.com':
         command()
     elif A == 'edit.com':
-        print('@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@')
-        print('#########################################')
-        print('@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@')
-        print('#########################################')
-        command()
+        print('EDIT VERSION 1.00')
+        print('1 → Add value for  File')
+        print('2 → Replace value for file')
+        print('3 → Erase file')
+        B = input('Choose an option(any invalid option to quit to DOS).')
+        C = int(B)
+        file = ''
+        if C == 1:
+            while write == True:
+                d = input('Write anything you want.Type eX1t to quit to DOS')
+                file += d
+                if d == 'eX1t':
+                    write = False
+                    file += d
+                    command()
+                elif d == 'c0Mn4mD':
+                    write = False
+                    command()
+        if C == 2:
+            while write == True:
+                print('Please note that this option will wipe any existing file.')
+                d = input('Write anything you want.Type eX1t to quit to DOS.Type c0Mn4mD to exit without save')
+                file = d
+                if d == 'eX1t':
+                    write = False
+                    file = d
+                    command()
+                elif d == 'c0Mn4mD':
+                    write = False
+                    command
+        if C == 3:
+            e = input('This option is IRREVERSIBLE.Type eR45€ to erase the file.')
+            f = input('This option is IRREVERSIBLE.Type Er8s£ to erase the file.')
+            if e == 'eR45€' and f == 'Er8s£':
+                file = ''
+        else:
+            command()
     elif A == 'xcopy.exe':
         print('No other drives or disks have been detected. This includes Hard Disks/Drives, or other floppy disks')
         command()
