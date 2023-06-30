@@ -1,6 +1,6 @@
 from os import system
 
-print('MS-DOS Version 4.10.0')
+print('MS-DOS Version 4.10.2')
 print('Hard Disk/Drive or and 2nd floppy not detected')
 def command():
     A = input('A:>')
