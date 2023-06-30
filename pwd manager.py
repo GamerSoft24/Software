@@ -157,6 +157,7 @@ while flag == True:
             print("")
             print('Correct password!')
             print("You won! ")
+            print("The OG code is in https://github.com/Okmeque1/software but this is a good fork!")
             print("")
             input("Press enter to continue...")
         else:
