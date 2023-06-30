@@ -39,6 +39,7 @@ def command():
         C = int(B)
         file = ''
         if C == 1:
+            write = True
             while write == True:
                 d = input('Write anything you want.Type eX1t to quit to DOS')
                 file += d
@@ -50,6 +51,7 @@ def command():
                     write = False
                     command()
         if C == 2:
+            write = True
             while write == True:
                 print('Please note that this option will wipe any existing file.')
                 d = input('Write anything you want.Type eX1t to quit to DOS.Type c0Mn4mD to exit without save')
@@ -62,6 +64,7 @@ def command():
                     write = False
                     command
         if C == 3:
+            
             e = input('This option is IRREVERSIBLE.Type eR45€ to erase the file.')
             f = input('This option is IRREVERSIBLE.Type Er8s£ to erase the file.')
             if e == 'eR45€' and f == 'Er8s£':
