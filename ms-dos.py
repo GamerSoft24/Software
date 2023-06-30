@@ -68,7 +68,7 @@ def command():
                 file = ''
                 command()
         if C == 4:
-            if file = '':
+            if file == '':
                 print('File empty.Quitting NOW...')
             else:
                 print(file)
