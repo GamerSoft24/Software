@@ -1,5 +1,10 @@
 import random
 import time
+name = input("Enter your name (It will be kept private throughout entire your session): ")
+print("")
+print("Hello" + " " + name + "!")
+print("")
+time.sleep(3)
 flag = True
 while flag == True:
     print("*****|THE PASSWORD MANAGER SECURITY SYSTEM|*****")
@@ -118,6 +123,9 @@ while flag == True:
         print("2 -> Option 2.")
         print("3 -> Option 4.")
         print("4 -> Option 5.")
+        print("5 -> Option 5.")
+        print("6 -> Option 6.")
+        print("7 -> Option 7.")
         print("")
         print("Program's pre-releases: ")
         print("1 -> Option 3.")
@@ -131,6 +139,9 @@ while flag == True:
         print("")
         input("Press enter to continue...")
         flag = False
+
+
+
 
     elif option == 5:
         print("")
@@ -150,6 +161,7 @@ while flag == True:
             print("")
             input("Press enter to continue...")        
         
+
     elif option == 6:
         print("")
         pass1 = input('Enter password: ')
@@ -157,7 +169,6 @@ while flag == True:
             print("")
             print('Correct password!')
             print("You won! ")
-            print("The OG code is in https://github.com/Okmeque1/software but this is a good fork!")
             print("")
             input("Press enter to continue...")
         else:
@@ -166,4 +177,3 @@ while flag == True:
             print("")
             input("Press enter to continue...")
 
-""
