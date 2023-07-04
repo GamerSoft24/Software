@@ -102,7 +102,7 @@ while flag == True:
         input("Specifications/informations about this program: ")
         print("")
         print("-> Program name: THE PASSWORD MANAGER SECURITY SYSTEM.")
-        print("-> Manufacturers: Software24 and Okmeque1.")
+        print("-> Manufacturers: Software24TCG and Okmeque1.")
         print("-> Manufacturers' company: © TCG - Technology, Coding and Gaming Inc.™")
         print("-> Program version: 1.20.0.")
         print("-> Program description: This program is a Password Manager Security System. It can create, save, read, show and manage passcodes.")
@@ -146,7 +146,7 @@ while flag == True:
     elif option == 5:
         print("")
         passstorg = input('Enter TCG Admin password: ')
-        if passstorg == 'hchi&okmeque.tcg_hq':
+        if passstorg == 'hchi&okmeque1.tcg_hq':
             print("")
             print("Correct passcode. ")
             print("Loading TCG Headquarters' Database...")
