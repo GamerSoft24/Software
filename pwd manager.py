@@ -110,7 +110,7 @@ while flag == True:
         print("")
         input("Recommendations about this program: ")
         print("")
-        print("1 -> When creating a passcode (option 1), choose between 10 to 50 characters of length (default length is 20) as it's enough for passcode security. More characters could cause passcode loading problems, program or buffer crashing/overload or passcode failing to be saved.")
+        print("1 -> When creating a passcode (option 1), choose between 10 to 50 characters of length as it's enough for passcode security. More characters could cause passcode loading problems, program or buffer crashing/overload or passcode failing to be saved.")
         print("2 -> When showing a passcode (option 2), your file name path must be as this example path layout: 'C:\Password Manager Security System\pwd' for the the function to work.")
         print("")
         input("Problems of this program: ")
