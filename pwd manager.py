@@ -1,5 +1,6 @@
 import random
 import time
+length = 20
 name = input("Enter your name (It will be kept private throughout entire your session): ")
 print("")
 print("Hello" + " " + name + "!")
@@ -10,7 +11,7 @@ while flag == True:
     print("*****|THE PASSWORD MANAGER SECURITY SYSTEM|*****")
     print("Program version: 1.20.0.")
     print("")
-    print("1 -> Add or generate password to a save file.")
+    print("1 -> Add and generate password to a save file.")
     print("2 -> Show a password from a save file.")
     print("3 -> Show all passwords from a save file.")
     print("4 -> Show more informations about this program.")
@@ -109,7 +110,7 @@ while flag == True:
         print("")
         input("Recommendations about this program: ")
         print("")
-        print("1 -> When creating a passcode (option 1), choose between 10 to 50 characters of length as it's enough for passcode security. More characters could cause passcode loading problems, program or buffer crashing/overload or passcode failing to be saved.")
+        print("1 -> When creating a passcode (option 1), choose between 10 to 50 characters of length (default length is 20) as it's enough for passcode security. More characters could cause passcode loading problems, program or buffer crashing/overload or passcode failing to be saved.")
         print("2 -> When showing a passcode (option 2), your file name path must be as this example path layout: 'C:\Password Manager Security System\pwd' for the the function to work.")
         print("")
         input("Problems of this program: ")
