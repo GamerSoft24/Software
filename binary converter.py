@@ -1,3 +1,6 @@
+print("*****|BINARY CONVERTER|*****")
+print("Program version: 1.12.0")
+print("")
 s=input("Please enter a text that you want to convert into binary: ")
 li=list(s)
 code=""

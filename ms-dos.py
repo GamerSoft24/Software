@@ -1,6 +1,6 @@
 from os import system
-
-print('MS-DOS Version 4.10.2')
+print('*****|MS-DOS|*****')
+print("Program version: 4.10.2")
 print('Hard Disk/Drive or/and 2nd floppy not detected')
 def command():
     A = input('A:>')
@@ -19,17 +19,22 @@ def command():
         print('boot.mbr          512 3-27-22')
         print('boot.bss          745 3-27-22')
         print('fdisk.exe        4660 3-27-22')
+        print("")
         command()
     elif A == 'fdisk.exe':
         print('No fixed disks presents')
+        print("")
         command()
     elif A == 'format.com':
         for h in range(11):
             print('Formatting track' + ": " + str(h))
         print("Formatting complete! ")
+        print("")
     elif A == 'autoexec.bat':
+        print("")
         command()
     elif A == 'command.com':
+        print("")
         command()
     elif A == 'edit.com':
         print('EDIT VERSION 1.00')
@@ -75,36 +80,46 @@ def command():
         if C == 4:
             if file == '':
                 print('List empty. Quitting now...')
+                print("")
             else:
                 print(file)
+                print("")
                 command()
         else:
             command()
     elif A == 'xcopy.exe':
         print('No other drives or disks have been detected. This includes Hard Disks/Drives, or other floppy disks')
+        print("")
         command()
     elif A == 'copy':
         print('Sorry, this disk is write-protected (read-only) and cannot be copied.')
+        print("")
         command()
     elif A == 'ver':
         print('MS-DOS 4.10.0')
+        print("")
         command()
     elif A == 'version':
         print('MS-DOS 4.10.0')
+        print("")
         command()
     elif A == 'Software24TCG':
         print('Software24TCG and Okmeque1 MS-DOS 4.10.0 running on 8TB A: Drive.')
-        print('Software24TCG is the co-creator of MS-DOS')
+        print('Software24TCG is the co-creator of MS-DOS.')
+        print("")
         command()
     elif A == 'Okmeque1':
         print('Okmeque1 and Software24TCG MS-DOS 4.10.0 running on 8TB A: Drive.')
-        print('Okmeque1 is the creator of MS-DOS')
+        print('Okmeque1 is the creator of MS-DOS.')
+        print("")
         command()
     elif A == 'specs':
         print('8.74 GHz/s IBM at: 64GB RAM, 16 cores 18 threads.')
+        print("")
         command()
     elif A == 'specifications':
         print('8.74 GHz/s IBM at: 64GB RAM, 16 cores 18 threads.')
+        print("")
         command()
     elif A == 'help':
         print('fdisk.exe : Fixed disk utility.')
@@ -121,91 +136,119 @@ def command():
         print('press DELETE/DEL/SUPPR. You need a Hard Disk/Drive.')
         print('Keep this disk as if the installation fails, you may see')
         print('what caused it.')
+        print("")
         command()
 
     elif A == '':
         command()
     elif A == 'stop':
         return 'Stopped this machine.' 
+        print("")
     elif A == 'exit':
         return 'Stopped this machine.' 
+        print("")
     elif A == 'B:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'C:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'D:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'E:':
         print('Invalid drive name specification.')
         command()
     elif A == 'F:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'G:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'H:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'I:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'J:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'K:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'L:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'M:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'N:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'O:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'P:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'Q:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'R:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'S:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'T:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'U:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'V:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'W:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'X:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'Y:':
         print('Invalid drive name specification.')
+        print("")
         command()
     elif A == 'Z:':
         print('Invalid drive name specification.')
+        print("")
         command()
     else:
         print('Invalid/not recognised command or file name.')
+        print("")
         command()
     
 command()
