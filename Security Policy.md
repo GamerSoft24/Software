@@ -13,6 +13,7 @@ All of our projects are carefully made and have been revised and scanned for **a
 
 -pwd.py: 1.20.0
 -ms-dos: 4.10.2
+-binary converter: 1.12.0
 
 ## Reporting:
 
