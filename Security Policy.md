@@ -14,15 +14,25 @@ All of our projects are carefully made and have been revised and scanned for **a
 Our projects are respecting a ***security level chart*** and includes a total of *10 security levels.* Here is a layout of it:
 
 1 -> **Level 1:** Low level.
+
 2 -> **Level 2:** Standart level.
+
 3 -> **Level 3:** Moderate level.
+
 4 -> **Level 4:** Strong level.
+
 5 -> **Level 5:** Low bot protection level + Strong level.
+
 6 -> **Level 6:** Standart bot protection level + Strong level.
+
 7 -> **Level 7:** Moderate bot protection level + Strong level.
+
 8 -> **Level 8:** Strong bot protection level + Strong level.
+
 9 -> **Level 9:** Strong bot protection level + Max level.
+
 10 -> **Level 10:** Max bot protection level + Max level.
+
 
 ### Reporting:
 
