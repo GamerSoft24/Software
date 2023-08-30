@@ -1,9 +1,12 @@
 # Security Policy:
 
+### Writer(s):
+The main writer of all the programs in this repository will be me (@gamerware24).
+But, my cooperator, Okmeque1 (@Okmeque1), does not write but edits the programs.
+
 ### Copyrights ©:
 
-Please make sure to mention either Okmeque1 and Software024 in any of the projects you download for this Python repository (even in the most obscure parts of the codes).
-If you fail to do so, you could get banned permanantly for GitHub or from downloading ***any*** files from this Python repository.
+The copyrights © licenses for the programs are now desactivated. All of the existing programs and all future programs are now and will be unlicensed. Feel free to download them or copy the code in it to make your programs better. *it would be nice still if you mention either Okmeque1 or me (@gamerware24)!*
 
 ### Our Projects:
 
