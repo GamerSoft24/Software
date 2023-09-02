@@ -18,7 +18,7 @@ Our projects are respecting a ***security level chart*** and includes a total of
 
 1 -> **Level 1:** Low level.
 
-2 -> **Level 2:** Standart level.
+2 -> **Level 2:** Standard level.
 
 3 -> **Level 3:** Moderate level.
 
@@ -26,7 +26,7 @@ Our projects are respecting a ***security level chart*** and includes a total of
 
 5 -> **Level 5:** Low bot protection level + Strong level.
 
-6 -> **Level 6:** Standart bot protection level + Strong level.
+6 -> **Level 6:** Standard bot protection level + Strong level.
 
 7 -> **Level 7:** Moderate bot protection level + Strong level.
 
