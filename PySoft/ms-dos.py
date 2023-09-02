@@ -264,10 +264,6 @@ def command():
         print('8.74 GHz/s IBM at: 64GB RAM, 16 cores 18 threads.')
         print("")
         command()
-    elif A == 'specifications':
-        print('8.74 GHz/s IBM at: 64GB RAM, 16 cores 18 threads.')
-        print("")
-        command()
     elif A == 'help':
         print('fdisk.exe : Fixed disk utility.')
         print('edit.com : Edits text files.')
