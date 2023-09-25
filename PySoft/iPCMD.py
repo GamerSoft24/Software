@@ -23,8 +23,8 @@ def icmd():
                 elif prompt == 'dsc':
                     print("iPCMD - CMD in Python for bypassing computers with restricted/no access to Windows Command Prompt (cmd.exe) or Linux/Mac Terminal")
                     print("Use at your own risk - GamerSoftware & Okmeque1 Corporation is not responsible for any damages done to any computers or people using this program.")
-                    print("If iCMD gets blocked or fails to bypass then your computer is not bypassable.")
-                    print("Commands depend on your system.The prompt can be changed from the iprompt value in the code")
+                    print("If iPCMD gets blocked or fails to bypass then your computer is not bypassable.")
+                    print("Commands depend on your system. The prompt can be changed from the iprompt value in the code")
                     print("Commands may not work depending on your system.")
                     print("Current system : " + os.name)
                     print('') 
