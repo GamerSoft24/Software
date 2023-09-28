@@ -3,7 +3,7 @@ length = 20
 print("*****|THE SECURITY MANAGEMENT SYSTEM|*****")
 print("Program version: 1.30.0.")
 print("")
-print("This program and all of the accessable programs are open-source programs so you can share it anywhere on the internet, copy it on USB/CD/DVD or other medias or remix/edit it so please mention in your copy or when you share it or copy it GamerSoft24 and/or Okmeque1 so that the original code is not lost to time.")
+print("This program and all of the accessible programs are open-source programs so you can share it anywhere on the internet, copy it on USB/CD/DVD or other medias or remix/edit it so please mention in your copy or when you share it or copy it GamerSoft24 and/or Okmeque1 so that the original code is not lost to time.")
 print("")
 print("Please read option 1 if this is the first time you use this program or if any updates has been done on this program's version, as new options or functions could be added! ALSO, FOR BEST PERFORMANCE, PLEASE RUN THIS PROGRAM IN FULLSCREEN BY PRESSING F11.")
 print("")
