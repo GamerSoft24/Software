@@ -143,7 +143,7 @@ if name_for_check == 'GamerSoft24':
             print("When you are asked for a valid file name, please make sure that the directory is valid and for best compatability or/and please make sure that the file exists.")
             print("")
             defaultfile = "pwd_openscs.pwd"
-            defaultfileask = input("Do you have the default file: 'pwd_openscs.pwd'? ")
+            defaultfileask = input("Do you have the default file: 'pwd_openscs.pwd'?[Yes/No] ")
             if defaultfileask == "Yes":
                 print("")
                 input("Press enter to continue...")
