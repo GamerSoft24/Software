@@ -1,4 +1,4 @@
-def icmd():
+def ipcmd():
     try:
         import os
         iprompt = 'iPCMD>'
@@ -85,4 +85,4 @@ def icmd():
     except:
         print("ERROR: EXCEPTION_IN_EXCEPTION: The program has attempted to recover from an exception causing another exception which caused it to forcibly close.")
         return None
-icmd()
+ipcmd()
