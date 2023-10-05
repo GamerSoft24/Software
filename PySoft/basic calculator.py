@@ -3,7 +3,7 @@ import time
 print('*****|Basic Calculator|*****')
 print('Program version: 1.11.2.')
 print('')
-print('This is a basic calculator coded in Python! You can check the advanced version of it from:')
+print('This is a basic calculator coded in Python! You can check the advanced version of it from: https://github.com/GamerSoft24/Python/blob/Main/PySoft/advanced%20calculator.py')
 print("You can either type the numbers & caracters in or click the buttons. For the result, you have to press the '=' button in either cases.")
 time.sleep(3)
 def button_click(number):
