@@ -40,5 +40,5 @@ Our projects are respecting a ***security level chart*** and includes a total of
 
 
 ### Reporting:
-
+ 
 To report any problems or issues, just click the 'Issues' tab (next to the 'Codes' tab) inside of the Python repository, then click 'New issue' and write you report or issue. When you finished, just submit and we will be informed.
