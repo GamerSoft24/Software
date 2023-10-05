@@ -5,7 +5,7 @@ print('*****|Advanced Calculator|*****')
 print('Program version: 1.11.2.')
 print('')
 print('This is an advanced calculator coded in Python! You can check the basic version of it from: https://github.com/GamerSoft24/Python/blob/Main/PySoft/basic%20calculator.py')
-print("You can either type the numbers & caracters in or click the buttons. For the result, you have to press the '=' button in either cases.")
+print("You can either type the numbers & caracters in or click the buttons.")
 time.sleep(3)
 def button_click(number):
     current = entry.get()
@@ -34,6 +34,9 @@ def calculate_sqrt():
     except Exception as e:
         entry.delete(0, tk.END)
         entry.insert(0, "Error")
+
+def on_enter(event):
+    calculate()
 
 window = tk.Tk()
 window.title("Advanced Calculator")
@@ -71,5 +74,7 @@ for i in range(5):
     window.grid_columnconfigure(i, weight=1)
 for i in range(1, 6):
     window.grid_rowconfigure(i, weight=1)
+
+entry.bind('<Return>', on_enter)
 
 window.mainloop()
