@@ -6,9 +6,9 @@ But, my cooperator, Okmeque1 (@Okmeque1), does not write but edits the programs.
 
 ### Copyrights ©:
 
-The copyrights © licenses for the programs are now desactivated. All of the existing programs and all future programs are now and will be unlicensed. Feel free to download them or copy the code in it to make your programs better. *it would be nice still if you mention either Okmeque1 or me (@gamerware24)!*
+The copyrights © licenses for the programs are now desactivated. All of the existing programs and all future programs are now and will be unlicensed. Feel free to download them or copy the code in it to make your programs better. *It would be nice still if you mention either Okmeque1 or me (@GamerSoft24)!*
 
-Some programs are partly owned by OpenAI Inc © and ChatGPT. However the program names will be currently undisclosed. Thank you for your understanding
+Some programs are partly owned by OpenAI Inc © and ChatGPT. However the program names will be currently undisclosed. Thank you for your understanding!
 
 ### Our Projects:
 
