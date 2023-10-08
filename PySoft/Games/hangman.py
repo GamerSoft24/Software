@@ -1,7 +1,6 @@
 import tkinter as tk
 import random
 
-# List of words for the Hangman game
 word_list = ["apple", "banana", "cherry", "date", "elderberry", "fig", "grape", "honeydew", "kiwi", "lemon","car","chair","table","computer","dog","cat","football"]
 
 class HangmanGame:
@@ -9,13 +8,11 @@ class HangmanGame:
         self.root = root
         self.root.title("Hangman Game")
         
-        # Initialize game variables
         self.word = random.choice(word_list)
         self.guesses = []
         self.max_attempts = 6
         self.attempts = 0
         
-        # Create GUI elements
         self.word_label = tk.Label(root, text="_ " * len(self.word), font=("Arial", 24))
         self.word_label.pack()
         
