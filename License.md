@@ -6,8 +6,11 @@ The *main writer* of all the programs in this repository will be **me (@GamerSof
 ### Collaborators:
 Collaborators in this `Python` repository have the rights to edit partially but not entirely my programs. They will be chosen carefully for security purposes of this repository.
 Curently, **2** collaborators are *active*:
+
 -1: @Okmeque1
+
 -2: @GS-ST (shared account of @Okmeque1 and me)
+
 Only I can and will approve collaborators for trust reasons. No demands for collaboration will be accepted. ***Please keep that in mind!***
 
 ### Copyrights ©:
