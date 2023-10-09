@@ -1,4 +1,4 @@
-# Security Policy:
+# Security Policy
 
 ### Our Projects:
 All of our projects are carefully made and have been revised and scanned for **any types** of *sneaky viruses or script problems.* They are **100% trustable** and they are **completely safe.** As the programs are very *CPU INTENSIVE*, they may take some time to load. Please be patient with the programs.

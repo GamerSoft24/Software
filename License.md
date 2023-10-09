@@ -1,4 +1,4 @@
-# Licence terms:
+# Licence terms
 
 ### Who writes?
 The *main writer* of all the programs in this repository will be **me (@GamerSoft24)**.
