@@ -4,7 +4,7 @@
 The *main writer* of all the programs in this repository will be **me (@GamerSoft24)**.
 
 ### Collaborators:
-Collaborators in this repository have the rights to edit partially but not entirely my programs. They will be chosen carefully for security purposes of this repository.
+Collaborators in this `Python` repository have the rights to edit partially but not entirely my programs. They will be chosen carefully for security purposes of this repository.
 Curently, **2** collaborators are *active*:
 -1: @Okmeque1
 -2: @GS-ST (shared account of @Okmeque1 and me)
