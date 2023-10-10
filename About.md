@@ -1,5 +1,7 @@
-# Software
+# Software Repository
 
-### About:
-`Software` is a repository based especially for my (@GamerSoft24) and Okmeque1's programs, projects and files.
-**Please read** the *licence terms* here: https://github.com/GamerSoft24/Software/blob/Main/License.md ***and*** please read the *security policy* here https://github.com/GamerSoft24/Software/blob/Main/Security%20Policy.md.
+### PySoft:
+This is were I will be storing all of my and some of Okmeque1's Python codes and programs.
+For direct URL access, this is it: https://github.com/GamerSoft24/Software/tree/Main/PySoft.
+
+### N/A
