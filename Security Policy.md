@@ -30,4 +30,4 @@ Our projects are respecting a ***security level chart*** and includes a total of
 To *report* any problems or issues, just click the 'Issues' tab (next to the 'Codes' tab) inside of the repository, then *click* 'New issue' to *write* you report or issue. When you finished, just **submit** and we will be informed.
 
 ### Pull requests:
-To consider *changing some stuff* or codes in this `Python` repository you have to **pull request first and wait for approval** which should be *reviewed* in the **maximum dalay of ***3 days*****!
+To consider *changing some stuff* or codes in this `Software` repository you have to **pull request first and wait for approval** which should be *reviewed* in the **maximum dalay of ***3 days*****!
