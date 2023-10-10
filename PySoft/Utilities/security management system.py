@@ -2723,6 +2723,6 @@ try:
                                 print("")
                                 mixing_encrypt_decrypt_system = False
 except FileNotFoundError:
-    input("STOP : 6510B\nThe specified was not found.\nPress ENTER to exit")
+    input("STOP : 6510B\nThe specified was not found.\nPress enter to exit.")
 except BaseException:
-    input("STOP : 770A\nGeneral exception. Check parameters and try again")
+    input("STOP : 770A\nGeneral exception. Check parameters and try again.")
