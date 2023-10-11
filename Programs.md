@@ -26,6 +26,12 @@
 ## VBSoft
 ### Deadly:
 
-1 -> Auto Pressing the Backspace Key (auto press backspace.vbs): Will press the backspace at a really quick rate. Carful using it!
+1 -> Auto Pressing Backspace (auto press backspace.vbs): Will press the backspace key at a really quick rate. Careful using it!
 
-2 ->
+2 -> Auto Pressing Enter (auto press enter.vbs): Will press the enter key at a really quick rate. More deadly then Auto Pressing Backspace (auto press backspace.vbs)! Be extremely careful using it!
+
+3 -> Open Google Chrome Infinitly (open chrome infinitly.vbs): Opens Google Chrome windows at a really quick rate. The deadliest VBS script in this `Software` repository. Can *crash you RAM* in just a **VERY quickly**!
+
+### Games:
+
+1 -> Whopper Song! (whopper!.vbs): Displays the Whopper Song (song from Burger King
