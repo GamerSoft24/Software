@@ -17,10 +17,15 @@
 
 ### Utilities:
 
-1 -> iPCMD [Intelligent Python Command Prompt] (iPCMD.py): A command prompt replica with some modified functions. Works perfectly. Tip: Use it if the command prompt on your PC is blocked!
+1 -> iPCMD - Intelligent Python Command Prompt (iPCMD.py): A command prompt replica with some modified functions. Works perfectly. Tip: Use it if the command prompt on your PC is blocked!
 
 2 -> MS-DOS (ms-dos.py): Really simple replica MS-DOS (Microsoft Disk Operating System) program in Python.
 
-3 -> Security Management System [SMS]
+3 -> SMS - Security Management System (security management system.py):  This program can access programs that are useful in terms of security and protection of your personel data. More infos inside of program, option 1 in main menu.
+
 ## VBSoft
 ### Deadly:
+
+1 -> Auto Pressing the Backspace Key (auto press backspace.vbs): Will press the backspace at a really quick rate. Carful using it!
+
+2 ->
