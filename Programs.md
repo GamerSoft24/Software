@@ -7,6 +7,10 @@
 
 2 -> Basic Calculator (basic calculator.py): Do I need to explain?
 
+### Editors:
+
+1 -> GUI Text Editor (gui-text editor.py): A text editor in Python.
+
 ### Games:
 
 1 -> Hangman (hangman.py): Hangman... You understand it right..?
@@ -21,7 +25,7 @@
 
 2 -> MS-DOS (ms-dos.py): Really simple replica MS-DOS (Microsoft Disk Operating System) program in Python.
 
-3 -> SMS - Security Management System (security management system.py):  This program can access programs that are useful in terms of security and protection of your personel data. More infos inside of program, option 1 in main menu.
+3 -> SMS - Security Management System (security management system.py): This program can access programs that are useful in terms of security and protection of your personel data. More infos inside of program, option 1 in main menu.
 
 ## VBSoft
 ### Deadly:
@@ -34,4 +38,18 @@
 
 ### Games:
 
-1 -> Whopper Song! (whopper!.vbs): Displays the Whopper Song (song from Burger King
+1 -> Whopper Song! (whopper!.vbs): Displays the Whopper Song (Song from Burger King Corporation).
+
+### Text loops:
+
+1 -> Access denied! (access denied.vbs): Do I need to say anythin' about it???
+
+2 -> Hacking Computer... (hacking computer.vbs): To easy to understand. Only people with IQ = 0 wont understand...
+
+### Virus #s:
+
+1 -> Virus #1 (virus #1.vbs): ...
+
+2 -> Virus #2 (virus #2.vbs): .....
+
+3 -> Virus #3 (virus #3.vbs): Okay I'm going to explain this `/VBSoft/Virus` folder is a folder where the viruses (Virus #1 to #3) are *completely harmless* They are just to prank people. (You can test it out yourself or look at the code if you don't believe me...)
