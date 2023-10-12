@@ -1,2 +1,0 @@
-msgbox"I'm not even gonna say hi. I'm Virus #3, the third level monster and I'm here to hack your computer MORE!!! You ask me why, ask my brothers cuz I'm not feeling like talkin' right now..."
-msgbox".........."
