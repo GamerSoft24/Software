@@ -44,12 +44,4 @@
 
 1 -> Access denied! (access denied.vbs): Do I need to say anythin' about it???
 
-2 -> Hacking Computer... (hacking computer.vbs): To easy to understand. Only people with IQ = 0 wont understand...
-
-### Virus #s:
-
-1 -> Virus #1 (virus #1.vbs): ...
-
-2 -> Virus #2 (virus #2.vbs): .....
-
-3 -> Virus #3 (virus #3.vbs): Okay I'm going to explain this `/VBSoft/Virus` folder is a folder where the viruses (Virus #1 to #3) are *completely harmless* They are just to prank people. (You can test it out yourself or look at the code if you don't believe me...)
+2 -> Hacking Computer... (hacking computer.vbs): Too easy to understand. Only people with IQ = 0 don't...
