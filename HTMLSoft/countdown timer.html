@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Countdown Timer</title>
+    <title>Countdown Timer - Revision II</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Comic Sans MS, sans-serif;
         }
         #countdown {
             font-size: 2em;
@@ -13,21 +13,17 @@
     </style>
 </head>
 <body>
-    <div id="countdown"></div>
-
+    <div id="countdown"></div>-
     <script>
         const countdownElement = document.getElementById('countdown');
-
         const targetDateInput = prompt('Enter the target date and time (Format: YYYY-MM-DD HH:MM:SS):');
         const targetDate = new Date(targetDateInput).getTime();
-
         if (isNaN(targetDate)) {
             countdownElement.innerHTML = 'Invalid date format!';
         } else {
             const countdown = setInterval(function () {
                 const now = new Date().getTime();
                 const timeRemaining = targetDate - now;
-
                 if (timeRemaining < 0) {
                     clearInterval(countdown);
                     countdownElement.innerHTML = 'Timer done!';
@@ -36,8 +32,7 @@
                     const hours = Math.floor((timeRemaining % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
                     const minutes = Math.floor((timeRemaining % (1000 * 60 * 60)) / (1000 * 60));
                     const seconds = Math.floor((timeRemaining % (1000 * 60)) / 1000);
-
-                    countdownElement.innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s`;
+                    countdownElement.innerHTML = `${days}Days\n ${hours}Hours\n ${minutes}Minutes ${seconds}Seconds`;
                 }
             }, 1000);
         }
