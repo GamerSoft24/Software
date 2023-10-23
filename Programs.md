@@ -34,6 +34,7 @@
 1 -> CD Eject No Delay (cd eject no delay.vbs): Will open your CD/DVD+-RW Drive and when you close it it reopens. Effect only works on SlimLine drives as they cannot retract their disc tray.
 
 2 -> CD Eject Normal (cd eject normal.vbs): Will open your CD/DVD+-RW Drive and when you close it it stays closed for a while then reopens. The best one to prank someone. Effect only works on SlimLine drives as they cannot retract their disc tray.
+
 ### Deadly:
 
 1 -> Auto Pressing Backspace (auto press backspace.vbs): Will press the backspace key at a really quick rate. Careful using it!
