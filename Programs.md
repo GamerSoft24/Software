@@ -28,13 +28,19 @@
 3 -> SMS - Security Management System (security management system.py): This program can access programs that are useful in terms of security and protection of your personel data. More infos inside of program, option 1 in main menu.
 
 ## VBSoft
+
+### CD Ejects:
+
+1 -> CD Eject No Delay (cd eject no delay.vbs): Will open your CD/DVD+-RW Drive and when you close it it reopens. Effect only works on SlimLine drives as they cannot retract their disc tray.
+
+2 -> CD Eject Normal (cd eject normal.vbs): Will open your CD/DVD+-RW Drive and when you close it it stays closed for a while then reopens. The best one to prank someone. Effect only works on SlimLine drives as they cannot retract their disc tray.
 ### Deadly:
 
 1 -> Auto Pressing Backspace (auto press backspace.vbs): Will press the backspace key at a really quick rate. Careful using it!
 
 2 -> Auto Pressing Enter (auto press enter.vbs): Will press the enter key at a really quick rate. More deadly then Auto Pressing Backspace (auto press backspace.vbs)! Be extremely careful using it!
 
-3 -> Open Google Chrome Infinitly (open chrome infinitly.vbs): Opens Google Chrome windows at a really quick rate. The deadliest VBS script in this `Software` repository. Can *crash you RAM* in just a **VERY quickly**!
+3 -> Open Google Chrome Infinitly (open chrome infinitly.vbs): Opens Google Chrome windows at a really quick rate. The deadliest VBS script in this `Software` repository. Can *crash your RAM* in just a **VERY quickly**!
 
 ### Games:
 
