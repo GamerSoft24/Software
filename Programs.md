@@ -21,7 +21,7 @@
 
 ### Utilities:
 
-1 -> iPCMD - Intelligent Python Command Prompt (iPCMD.py): A command prompt replica with some modified functions. Works perfectly. Tip: Use it if the command prompt on your PC is blocked!
+1 -> iPCMD - Intelligent Python Command Prompt (iPCMD.py): A command prompt replica with some modified functions. Works perfectly. Tech Tip: Use it if the command prompt on your PC is blocked!
 
 2 -> MS-DOS (ms-dos.py): Really simple replica MS-DOS (Microsoft Disk Operating System) program in Python.
 
