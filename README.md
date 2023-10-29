@@ -17,3 +17,12 @@ This is **where** I will be *storing all* of ***my*** VBS (Windows Visual Basic 
 This is **where** I will be *storing all* of ***my*** HTML (HyperText Markup Language) codes.
 
 *For* **direct URL access**, this is it: https://github.com/GamerSoft24/Software/tree/Main/HTMLSoft.
+
+## C&CPPSoft:
+
+This is **where** I will be *storing all* of ***my*** C & C++ codes.
+
+The codes will be more *focused* on **C++** rather then **C** and also there will be lots of codes working with external devices, like NodeMCU boards.
+It is recommended to have Arduino IDE istalled on your PC as a lot of programs will require it. Please check the "Programs.md" (https://github.com/GamerSoft24/Software/blob/Main/Programs.md) file for informations about programs requiring Arduino IDE.
+
+*For* **direct URL access**, this is it: https://github.com/GamerSoft24/Software/tree/Main/C&CPPSoft.
