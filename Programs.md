@@ -55,4 +55,12 @@
 
 ## HTMLSoft
 
+### Timers:
+
 1 -> Countdown Timer (countdown timer.html): A countdown timer you know...
+
+## CPPSoft
+
+### NodeMCU Boards/ESP8266EX:
+
+1 -> Robotic Halloween Skull (robotic halloween skull.ino): A code for a halloween programmed human life-size skull using C++ for a NodeMCU ESP8266EX Board that controls LED lights and a gesture sensor to change LED patterns. ***THIS PROGRAMS NEEDS ARDUINO IDE!***
