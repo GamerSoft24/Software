@@ -18,9 +18,9 @@ This is **where** I will be *storing all* of ***my*** HTML (HyperText Markup Lan
 
 *For* **direct URL access**, this is it: https://github.com/GamerSoft24/Software/tree/Main/HTMLSoft.
 
-## C&C++Soft:
+## CPPSoft:
 
-This is **where** I will be *storing all* of ***my*** C & C++ codes.
+This is **where** I will be *storing all* of ***my*** C & C++ codes although it's name is CPPSoft (C++ Software).
 
 The codes will be more *focused* on **C++** rather then **C** and also there will be lots of codes working with external devices, like NodeMCU boards.
 
