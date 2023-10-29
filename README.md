@@ -16,4 +16,4 @@ This is **where** I will be *storing all* of ***my*** VBS (Windows Visual Basic 
 
 This is **where** I will be *storing all* of ***my*** HTML (HyperText Markup Language) codes.
 
-*For* **direct URL access**, this is it: https://github.com/GamerSoft24/Software/tree/Main/HTMLSoft
+*For* **direct URL access**, this is it: https://github.com/GamerSoft24/Software/tree/Main/HTMLSoft.
