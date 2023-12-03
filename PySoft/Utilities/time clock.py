@@ -62,7 +62,7 @@ def realTime():
   t.tracer(False)
   secPoint.setheading(360 / 60 * curr_second)
   minPoint.setheading(360 / 60 * curr_minute)
-  hourPoint.setheading(360 / 12 * curr_hour _ 30 / 60 * curr_minute)
+  hourPoint.setheading(360 / 12 * curr_hour + 30 / 60 * curr_minute)
   fontWriter.clear()
   fontWriter.home()
   fontWriter.penup()
