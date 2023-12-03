@@ -14,7 +14,7 @@ def drawClock(radius):
     skip(radius)
     if (j % 5 == 0):
       t.forward(20)
-      skip(-raduis - 20)
+      skip(-radius - 20)
     else:
       t.dot(5)
       skip(-radius)
