@@ -99,7 +99,7 @@ try:
                     windows.deiconify()
                     return
                 else:
-                    z = messagebox.showerror("Error",'Required parameter missing. Please use the "How" to use button for more information.')
+                    z = messagebox.showerror("Error",'Required parameter missing. Please use the "About & How" to use button for more information.')
                     windows.deiconify()
                     return  
             elif buttonsoricons[4] == choices[1]:
@@ -120,7 +120,7 @@ try:
                     windows.deiconify()
                     return
                 else:
-                    z = messagebox.showerror("Error",'Required parameter missing. Please use the "How" to use button for more information.')
+                    z = messagebox.showerror("Error",'Required parameter missing. Please use the "About & How" to use button for more information.')
                     windows.deiconify()
                     return  
             elif buttonsoricons[5] == choices[1]:
@@ -141,7 +141,7 @@ try:
                     windows.deiconify()
                     return
                 else:
-                    z = messagebox.showerror("Error",'Required parameter missing. Please use the "How" to use button for more information.')
+                    z = messagebox.showerror("Error",'Required parameter missing. Please use the "About & How" to use button for more information.')
                     windows.deiconify()
                     return  
             elif buttonsoricons[6] == choices[1]:
@@ -162,7 +162,7 @@ try:
                     windows.deiconify()
                     return
                 else:
-                    z = messagebox.showerror("Error",'Required parameter missing. Please use the "How" to use button for more information.')
+                    z = messagebox.showerror("Error",'Required parameter missing. Please use the "About & How" to use button for more information.')
                     windows.deiconify()
                     return  
             elif buttonsoricons[7] == choices[1]:
@@ -183,11 +183,11 @@ try:
                     windows.deiconify()
                     return
                 else:
-                    z = messagebox.showerror("Error",'Required parameter missing. Please use the "How" to use button for more information.')
+                    z = messagebox.showerror("Error",'Required parameter missing. Please use the "About & How" to use button for more information.')
                     windows.deiconify()
                     return  
             else:
-                z = messagebox.showerror("Error",'Required parameter missing. Please use the "How" to use button for more information.')
+                z = messagebox.showerror("Error",'Required parameter missing. Please use the "About & How" to use button for more information.')
                 windows.deiconify()
                 return
     def about_htu():
@@ -220,7 +220,7 @@ try:
     usewarningicon = Button(windows,text="Use WARNING icon",command=i7,width=40)
     usequestionicon = Button(windows,text="Use QUESTION icon",command=i9,width=40)
     generate = Button(windows,text="Generate!",command=lambda: gen(TString.get(),MSGString.get()),width=40)
-    log = Button(windows,text="How to use/About",command=about_htu,width=40)
+    log = Button(windows,text="About & How",command=about_htu,width=40)
     l1.pack()
     TString.pack()
     l2.pack()
