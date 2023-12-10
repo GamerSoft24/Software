@@ -11,7 +11,7 @@ Curently, **3** collaborators are *active*:
 
 2 -> @GS-ST (shared account of @Okmeque1 and me)
 
-3 -> hiloslay
+3 -> @hiloslay
 
 Only I can and will approve collaborators for trust reasons. No demands for collaboration will be accepted. ***Please keep that in mind!***
 
