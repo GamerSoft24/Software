@@ -1,5 +1,7 @@
 try:
-    def u1():#U functions. They change the buttons and/or icon. From options 3-7 you need to choose an icon
+    def b1():
+    def b2():
+    def u1():
         choices[1] = buttonsoricons[0]
         x = messagebox.showinfo("Info","Complete.")
         return
@@ -31,7 +33,7 @@ try:
         choices[1] = buttonsoricons[7]
         x = messagebox.showinfo("Info","Complete.")
         return
-    def i3():# I functions, not because it i9 won't run on an i3, but it changes the icons needed for buttonsoricons 3-7. Note the try/except to do this,which you shouldn't
+    def i3():
         try:
             choices[6] = icons[0]
             x = messagebox.showinfo("Info","Complete.")
@@ -67,11 +69,11 @@ try:
             choices.append(icons[3])
             x = messagebox.showinfo("Info","Complete.")
             return
-    def gen(titl,mst) -> None:#The REAL stuff, this is where generation happens and it's clunky due to the way I made it just work by jamming code...
-            windows.withdraw()#remove da window
+    def gen(titl,mst) -> None:
+            windows.withdraw()
             if buttonsoricons[0] == choices[1]:
                 z = messagebox.showerror(titl,mst)
-                windows.deiconify()#deiconify() puts back the window after putting the button
+                windows.deiconify()
                 return
             elif buttonsoricons[1] == choices[1]:
                 z = messagebox.showwarning(titl,mst)
@@ -99,7 +101,7 @@ try:
                     windows.deiconify()
                     return
                 else:
-                    z = messagebox.showerror("Error","Required parameter missing. Please use the How to use button for more information.")
+                    z = messagebox.showerror("Error",'Required parameter missing. Please use the "How" to use button for more information.')
                     windows.deiconify()
                     return  
             elif buttonsoricons[4] == choices[1]:
@@ -120,7 +122,7 @@ try:
                     windows.deiconify()
                     return
                 else:
-                    z = messagebox.showerror("Error","Required parameter missing. Please use the How to use button for more information.")
+                    z = messagebox.showerror("Error",'Required parameter missing. Please use the "How" to use button for more information.')
                     windows.deiconify()
                     return  
             elif buttonsoricons[5] == choices[1]:
@@ -141,7 +143,7 @@ try:
                     windows.deiconify()
                     return
                 else:
-                    z = messagebox.showerror("Error","Required parameter missing. Please use the How to use button for more information.")
+                    z = messagebox.showerror("Error",'Required parameter missing. Please use the "How" to use button for more information.')
                     windows.deiconify()
                     return  
             elif buttonsoricons[6] == choices[1]:
@@ -162,7 +164,7 @@ try:
                     windows.deiconify()
                     return
                 else:
-                    z = messagebox.showerror("Error","Required parameter missing. Please use the How to use button for more information.")
+                    z = messagebox.showerror("Error",'Required parameter missing. Please use the "How" to use button for more information.')
                     windows.deiconify()
                     return  
             elif buttonsoricons[7] == choices[1]:
@@ -183,30 +185,29 @@ try:
                     windows.deiconify()
                     return
                 else:
-                    z = messagebox.showerror("Error","Required parameter missing. Please use the How to use button for more information.")
+                    z = messagebox.showerror("Error",'Required parameter missing. Please use the "How" to use button for more information.')
                     windows.deiconify()
                     return  
             else:
-                z = messagebox.showerror("Error","Required parameter missing. Please use the How to use button for more information.")
+                z = messagebox.showerror("Error",'Required parameter missing. Please use the "How" to use button for more information.')
                 windows.deiconify()
                 return
     def about_htu():
-        x = messagebox.showinfo("Info/HTU","This is the Okmeque1 Error message creator and can generate as many errors as tkinter wants.\n\nTo use this program, you can choose from the 1st 8 buttons BUT from buttons 4-8 you NEED to select an icon. Otherwise generation might fail aswell as your whole computer.")
+        x = messagebox.showinfo("Info/HTU","This is a error generator that can generate as many *fake* error messages that you can personalise as you want.\n\nTo use this program, you can choose from the buttons 1 to 8 the MSGBOX format and from the buttons 9 to 12 the icon. Otherwise, generation (with the 13th button) might fail aswell as your whole computer (not true by the way).")
         return
     import tkinter as tk
     from tkinter import *
     from tkinter import messagebox
     sample = messagebox
-    buttonsoricons = ["showerror","showwarning","showinfo","askokcancel","askquestion","askretrycancel","askyesno","askyesnocancel"]#possible buttons/icons, pretty obvious
-    icons = ["messagebox.ERROR","messagebox.INFO","messagebox.WARNING","messagebox.QUESTION"]#possible icons, pretty obvious
-    # 1st part of choices = base, 2nd part is the buttonsoricons list that needs to be, 3rd is the parenthesis to start, 4th is msgbox title, 5th is comma, 6th is message string and the (non-existent) 7th part is for the icon 
-    choices = ["messagebox.","","(","",",",""]#this was part of trying to eval() the thing but got way to complicated and I gave up...
-    windows = Tk()#starting buttons and main windows...
+    buttonsoricons = ["showerror","showwarning","showinfo","askokcancel","askquestion","askretrycancel","askyesno","askyesnocancel"]
+    icons = ["messagebox.ERROR","messagebox.INFO","messagebox.WARNING","messagebox.QUESTION"]
+    choices = ["messagebox.","","(","",",",""]
+    windows = Tk()
     windows.geometry("640x480")
     windows.title("Error message generator")
-    l1 = Label(windows,text="Title string : ")
+    l1 = Label(windows,text="Title: ")
     TString = Entry(windows,width=40)
-    l2 = Label(windows,text="Error message string : ")
+    l2 = Label(windows,text="Error message: ")
     MSGString = Entry(windows,width=40)
     ErrorOk = Button(windows,text="MSGBOX Show Error",command=u1,width=40)
     WarningOk = Button(windows,text="MSGBOX Show Warning",command=u2,width=40)
@@ -216,13 +217,15 @@ try:
     racecar = Button(windows,text="MSGBOX Buttons RETRY and CANCEL",command=u6,width=40)#some of these names you have to understand by reading the string
     yesrefuse = Button(windows,text="MSGBOX Buttons YES and NO",command=u7,width=40)
     yescancelno = Button(windows,text="MSGBOX Buttons YES, NO and CANCEL",command=u8,width=40)
+    blank1 = Button(windows,text="",command=b1,width=40)
     useerroricon = Button(windows,text="Use ERROR icon",command=i3,width=40)
     useinfoicon = Button(windows,text="Use INFO icon",command=i5,width=40)
     usewarningicon = Button(windows,text="Use WARNING icon",command=i7,width=40)
     usequestionicon = Button(windows,text="Use QUESTION icon",command=i9,width=40)
+    blank2 = Button(windows,text="",command=b2,width=40)
     generate = Button(windows,text="Generate!",command=lambda: gen(TString.get(),MSGString.get()),width=40)
     log = Button(windows,text="How to use/About",command=about_htu,width=40)
-    l1.pack()#packing up...
+    l1.pack()
     TString.pack()
     l2.pack()
     MSGString.pack()
@@ -240,7 +243,7 @@ try:
     usequestionicon.pack()
     generate.pack()
     log.pack()
-    windows.mainloop()#looping the window
-except BaseException:#error handling wow!
+    windows.mainloop()
+except BaseException:
     x = messagebox.showerror("Error","This program has encountered an error and needs to close.\nError code : 770A")
     exit()
