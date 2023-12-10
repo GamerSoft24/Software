@@ -1,10 +1,10 @@
 # Security Policy
 
-### Our Projects:
-All of our projects are carefully made and have been revised and scanned for **any types** of *sneaky viruses or script problems.* They are **100% trustable** and they are **completely safe.** As the programs are very *CPU INTENSIVE*, they may take some time to load. Please be patient with the programs.
+### Our Programs:
+All of our programs are carefully made and have been revised and scanned for **any types** of *sneaky viruses or script problems.* They are **100% trustable** and they are **completely safe.** As the programs are very *CPU INTENSIVE*, they may take some time to load. Please be patient with the programs.
 
-### Our Projects Security Levels:
-Some of our projects are respecting a ***security level chart*** and includes a total of *10 security levels.* Here is a layout of it:
+### Our Programs Security Levels:
+Some of our programs are respecting a ***security level chart*** and includes a total of *10 security levels.* Here is a layout of it:
 
 1 -> **Level 1:** Low level.
 
