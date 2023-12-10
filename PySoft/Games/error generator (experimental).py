@@ -1,6 +1,4 @@
 try:
-    def b1():
-    def b2():
     def u1():
         choices[1] = buttonsoricons[0]
         x = messagebox.showinfo("Info","Complete.")
@@ -214,15 +212,13 @@ try:
     InfoOk = Button(windows,text="MSGBOX Show Info",command=u3,width=40)
     okcan = Button(windows,text="MSGBOX Buttons OK and CANCEL",command=u4,width=40)
     ques = Button(windows,text="MSGBOX QUESTION",command=u5,width=40)
-    racecar = Button(windows,text="MSGBOX Buttons RETRY and CANCEL",command=u6,width=40)#some of these names you have to understand by reading the string
+    racecar = Button(windows,text="MSGBOX Buttons RETRY and CANCEL",command=u6,width=40)
     yesrefuse = Button(windows,text="MSGBOX Buttons YES and NO",command=u7,width=40)
     yescancelno = Button(windows,text="MSGBOX Buttons YES, NO and CANCEL",command=u8,width=40)
-    blank1 = Button(windows,text="",command=b1,width=40)
     useerroricon = Button(windows,text="Use ERROR icon",command=i3,width=40)
     useinfoicon = Button(windows,text="Use INFO icon",command=i5,width=40)
     usewarningicon = Button(windows,text="Use WARNING icon",command=i7,width=40)
     usequestionicon = Button(windows,text="Use QUESTION icon",command=i9,width=40)
-    blank2 = Button(windows,text="",command=b2,width=40)
     generate = Button(windows,text="Generate!",command=lambda: gen(TString.get(),MSGString.get()),width=40)
     log = Button(windows,text="How to use/About",command=about_htu,width=40)
     l1.pack()
