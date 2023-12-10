@@ -19,13 +19,19 @@
 
 3 -> Tic-Tac-Toe (tic-tac-toe.py): Need to explain??
 
+4 -> Guess a number from 0 to 100 (guess a number (top 100).py): Just guess the number.
+
+5 -> Rainbow Void (rainbow void.py): For visual effect kinda...
+
 ### Utilities:
 
-1 -> iPCMD - Intelligent Python Command Prompt (iPCMD.py): A command prompt replica with some modified functions. Works perfectly. Tech Tip: Use it if the command prompt on your PC is blocked!
+1 -> iPCMD - Intelligent Python Command Prompt (iPCMD.py): A command prompt replica with some modified functions. Works perfectly. *Tech Tip:* Use it if the command prompt on your PC is blocked or unusable!
 
 2 -> MS-DOS (ms-dos.py): Really simple replica MS-DOS (Microsoft Disk Operating System) program in Python.
 
 3 -> SMS - Security Management System (security management system.py): This program can access programs that are useful in terms of security and protection of your personel data. More infos inside of program, option 1 in main menu.
+
+4 -> Time Clock (time clock.py): Basically it's just a time clock, got that?
 
 ## VBSoft
 
@@ -37,11 +43,11 @@
 
 ### Deadly:
 
-1 -> Auto Pressing Backspace (auto press backspace.vbs): Will press the backspace key at a really quick rate. Careful using it!
+1 -> Auto Pressing Backspace (auto press backspace.vbs): Will press the backspace key at a really fast rate. Careful using it!
 
-2 -> Auto Pressing Enter (auto press enter.vbs): Will press the enter key at a really quick rate. More deadly then Auto Pressing Backspace (auto press backspace.vbs)! Be extremely careful using it!
+2 -> Auto Pressing Enter (auto press enter.vbs): Will press the enter key at a really fast rate. More deadly then Auto Pressing Backspace (auto press backspace.vbs)! Be extremely careful using it!
 
-3 -> Open Google Chrome Infinitly (open chrome infinitly.vbs): Opens Google Chrome windows at a really quick rate. The deadliest VBS script in this `Software` repository. Can *crash your RAM* in just a **VERY quickly**!
+3 -> Open Google Chrome Infinitly (open chrome infinitly.vbs): Opens Google Chrome windows at a really fast rate. The deadliest VBS script in this `Software` repository. Can *crash your RAM* in just a **VERY quickly**!
 
 ### Games:
 
@@ -57,7 +63,7 @@
 
 ### Timers:
 
-1 -> Countdown Timer (countdown timer.html): A countdown timer you know...
+1 -> Countdown Timer (countdown timer.html): You know what a countdown timer is right?
 
 ## CPPSoft
 
