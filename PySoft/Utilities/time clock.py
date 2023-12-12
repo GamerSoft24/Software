@@ -71,7 +71,6 @@ def realTime():
   fontWriter.forward(-160)
   fontWriter.write(getDate(curr_year, curr_month, curr_day), align="center",font=("Courrier",14,"bold"))
   t.tracer(True)
-  print(curr_second)
   t.ontimer(realTime,100)
 def main():
   t.tracer(False)
