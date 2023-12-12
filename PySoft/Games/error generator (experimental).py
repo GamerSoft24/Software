@@ -1,6 +1,6 @@
 try:
     from tkinter import messagebox
-    x = messagebox.showinfo("Info","License NOT attributed(I fixed your code GamerSoft!). Attribution -> Error generator by Okmeque1 - Licensed under CC BY-SA 4.0 - https://github.com/Okmeque1/software/blob/main/PythonSoft/GUI/error%20generator.py")
+    x = messagebox.showinfo("Info","Copyright © 2023 Okmeque1 Corporation, Github: https://github.com/Okmeque1/software/blob/main/PythonSoft/GUI/error%20generator.py")
     def b1():
         pass
     def b2():
