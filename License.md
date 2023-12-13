@@ -19,4 +19,4 @@ Only I can and will approve collaborators for trust reasons. No demands for coll
 
 ### Copyright licences ©:
 The copyright licenses for the programs are now **desactivated** ***(Will be reactivated on the 1st of January 2024)***. All of the existing programs and all future programs are now and will be unlicensed. **Feel free to download them ***or*** copy the codes*** in it to make your programs better*. It would be nice still if you mention *either* Okmeque1, me or any collaborators in this repository!
-Some programs are partly owned by © OpenAI Inc's ChatGPT (GPT-3.5 & GPT 4) and by © Okmeque1 Corporation, Github: . However the program names will be currently undisclosed. Thank you for your understanding!
+Some programs are partly owned by © OpenAI Inc.'s ChatGPT (GPT-3.5 & GPT 4) and by © Okmeque1 Corporation, Github: https://github.com/Okmeque1/software/blob/main/PythonSoft/GUI/error%20generator.py (Programs they own in this repository **will mention them**). *However*, the programs partly owned by OpenAI Inc. will **not mention them** for *privacy and security reasons*. Thank you for your understanding!
