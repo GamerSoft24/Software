@@ -1,4 +1,10 @@
 try:
+    from tkinter import messagebox
+    x = messagebox.showinfo("Info","Copyright © 2023 Okmeque1 Corporation, Github: https://github.com/Okmeque1/software/blob/main/PythonSoft/GUI/error%20generator.py")
+    def b1():
+        pass
+    def b2():
+        pass
     def u1():
         choices[1] = buttonsoricons[0]
         x = messagebox.showinfo("Info","Complete.")
@@ -190,8 +196,8 @@ try:
                 z = messagebox.showerror("Error",'Required parameter missing. Please use the "About & How" to use button for more information.')
                 windows.deiconify()
                 return
-    def about_htu():
-        x = messagebox.showinfo("Info/HTU","This is a error generator that can generate as many *fake* error messages that you can personalise as you want.\n\nTo use this program, you can choose from the buttons 1 to 8 the MSGBOX format and from the buttons 9 to 12 the icon. Otherwise, generation (with the 13th button) might fail aswell as your whole computer (not true by the way).")
+    def about_how():
+        x = messagebox.showinfo("Info/HTU","This is a error generator that can generate as many *fake* error messages that you can personalise as you want.\n\nTo use this program, you can choose from the buttons 1 to 8 the MSGBOX format and from the buttons 9 to 12 the ICON format. Otherwise, generation (with the 13th button) might fail...")
         return
     import tkinter as tk
     from tkinter import *
@@ -207,20 +213,22 @@ try:
     TString = Entry(windows,width=40)
     l2 = Label(windows,text="Error message: ")
     MSGString = Entry(windows,width=40)
-    ErrorOk = Button(windows,text="MSGBOX Show Error",command=u1,width=40)
-    WarningOk = Button(windows,text="MSGBOX Show Warning",command=u2,width=40)
-    InfoOk = Button(windows,text="MSGBOX Show Info",command=u3,width=40)
-    okcan = Button(windows,text="MSGBOX Buttons OK and CANCEL",command=u4,width=40)
-    ques = Button(windows,text="MSGBOX QUESTION",command=u5,width=40)
-    racecar = Button(windows,text="MSGBOX Buttons RETRY and CANCEL",command=u6,width=40)
-    yesrefuse = Button(windows,text="MSGBOX Buttons YES and NO",command=u7,width=40)
-    yescancelno = Button(windows,text="MSGBOX Buttons YES, NO and CANCEL",command=u8,width=40)
-    useerroricon = Button(windows,text="Use ERROR icon",command=i3,width=40)
-    useinfoicon = Button(windows,text="Use INFO icon",command=i5,width=40)
-    usewarningicon = Button(windows,text="Use WARNING icon",command=i7,width=40)
-    usequestionicon = Button(windows,text="Use QUESTION icon",command=i9,width=40)
-    generate = Button(windows,text="Generate!",command=lambda: gen(TString.get(),MSGString.get()),width=40)
-    log = Button(windows,text="About & How",command=about_htu,width=40)
+    ErrorOk = Button(windows,text="MSGBOX: Show Error",command=u1,width=40)
+    WarningOk = Button(windows,text="MSGBOX: Show Warning",command=u2,width=40)
+    InfoOk = Button(windows,text="MSGBOX: Show Info",command=u3,width=40)
+    okcan = Button(windows,text="MSGBOX: Buttons OK and CANCEL",command=u4,width=40)
+    ques = Button(windows,text="MSGBOX: Question",command=u5,width=40)
+    racecar = Button(windows,text="MSGBOX: Buttons RETRY and CANCEL",command=u6,width=40)
+    yesrefuse = Button(windows,text="MSGBOX: Buttons YES and NO",command=u7,width=40)
+    yescancelno = Button(windows,text="MSGBOX: Buttons YES, NO and CANCEL",command=u8,width=40)
+    blank1 = Button(windows,text=" ",command=b1,width=40)
+    useerroricon = Button(windows,text="Use: ERROR icon",command=i3,width=40)
+    useinfoicon = Button(windows,text="Use: INFO icon",command=i5,width=40)
+    usewarningicon = Button(windows,text="Use: WARNING icon",command=i7,width=40)
+    usequestionicon = Button(windows,text="Use: QUESTION icon",command=i9,width=40)
+    blank2 = Button(windows,text=" ",command=b2,width=40)
+    generate = Button(windows,text="Generate error message!",command=lambda: gen(TString.get(),MSGString.get()),width=40)
+    log = Button(windows,text="About & How",command=about_how,width=40)
     l1.pack()
     TString.pack()
     l2.pack()
@@ -233,10 +241,12 @@ try:
     racecar.pack()
     yesrefuse.pack()
     yescancelno.pack()
+    blank1.pack()
     useerroricon.pack()
     useinfoicon.pack()
     usewarningicon.pack()
     usequestionicon.pack()
+    blank2.pack()
     generate.pack()
     log.pack()
     windows.mainloop()
