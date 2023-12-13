@@ -18,5 +18,5 @@ Curently, **4** collaborators are *active*:
 Only I can and will approve collaborators for trust reasons. No demands for collaboration will be accepted. ***Please keep that in mind!***
 
 ### Copyright licences ©:
-The copyright licenses for the programs are now ***desactivated*** (Will be reactivated on the 1st of January 2024). All of the existing programs and all future programs are now and will be unlicensed. **Feel free to download them ***or*** copy the codes*** in it to make your programs better*. It would be nice still if you mention *either* Okmeque1, me or any collaborators in this repository!
-Some programs are partly owned by © OpenAI Inc's ChatGPT (GPT-3.5 & GPT 4). However the program names will be currently undisclosed. Thank you for your understanding!
+The copyright licenses for the programs are now **desactivated** ***(Will be reactivated on the 1st of January 2024)***. All of the existing programs and all future programs are now and will be unlicensed. **Feel free to download them ***or*** copy the codes*** in it to make your programs better*. It would be nice still if you mention *either* Okmeque1, me or any collaborators in this repository!
+Some programs are partly owned by © OpenAI Inc's ChatGPT (GPT-3.5 & GPT 4) and by © Okmeque1 Corporation, Github: . However the program names will be currently undisclosed. Thank you for your understanding!
