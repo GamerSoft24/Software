@@ -13,7 +13,7 @@ Curently, **4** collaborators are *active*:
 
 3 -> @hiloslay
 
-4 -> @GamerAlt24 (my alt account)
+4 -> @GamerAlt24 (my alt account I use if this account is unreachable)
 
 Only I can and will approve collaborators for trust reasons. No demands for collaboration will be accepted. ***Please keep that in mind!***
 
