@@ -1,5 +1,6 @@
 try:
     from tkinter import messagebox
+    tk.withdraw()
     x = messagebox.showinfo("Info","Copyright © 2023 Okmeque1 Corporation, Github: https://github.com/Okmeque1/software/blob/main/PythonSoft/GUI/error%20generator.py")
     def b1():
         pass
