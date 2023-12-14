@@ -195,7 +195,7 @@ try:
                 windows.deiconify()
                 return
     def about_how():
-        x = messagebox.showinfo("Info/HTU","This is a error generator that can generate as many *fake* error messages that you can personalise as you want.\n\nTo use this program, you can choose from the buttons 1 to 8 the MSGBOX format and from the buttons 9 to 12 the ICON format. Otherwise, generation (with the 13th button) might fail...")
+        x = messagebox.showinfo("About & How","This is a error generator that can generate as many *fake* error messages that you can personalise as you want.\n\nMake sure to choose either a MSGBOX or ICON button first before typing your title and error message. Generation might fail if this is not respected.")
         return
     import tkinter as tk
     from tkinter import *
