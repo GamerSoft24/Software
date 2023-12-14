@@ -205,7 +205,7 @@ try:
     icons = ["messagebox.ERROR","messagebox.INFO","messagebox.WARNING","messagebox.QUESTION"]
     choices = ["messagebox.","","(","",",",""]
     windows = Tk()
-    windows.geometry("1080x630")
+    windows.geometry("1900x1080")
     x = messagebox.showinfo("Info","Copyright © 2023 Okmeque1 Corporation, Github: https://github.com/Okmeque1/software/blob/main/PythonSoft/GUI/error%20generator.py")
     windows.title("Error message generator")
     l1 = Label(windows,text="Title: ")
@@ -220,12 +220,12 @@ try:
     racecar = Button(windows,text="MSGBOX: Buttons RETRY and CANCEL",command=u6,width=40)
     yesrefuse = Button(windows,text="MSGBOX: Buttons YES and NO",command=u7,width=40)
     yescancelno = Button(windows,text="MSGBOX: Buttons YES, NO and CANCEL",command=u8,width=40)
-    blank1 = Button(windows,text=" ",command=b1,width=20)
+    blank1 = Button(windows,text="------------------------------------------------------",command=b1,width=20)
     useerroricon = Button(windows,text="Use: ERROR icon",command=i3,width=40)
     useinfoicon = Button(windows,text="Use: INFO icon",command=i5,width=40)
     usewarningicon = Button(windows,text="Use: WARNING icon",command=i7,width=40)
     usequestionicon = Button(windows,text="Use: QUESTION icon",command=i9,width=40)
-    blank2 = Button(windows,text=" ",command=b2,width=20)
+    blank2 = Button(windows,text="------------------------------------------------------",command=b2,width=20)
     generate = Button(windows,text="Generate error message!",command=lambda: gen(TString.get(),MSGString.get()),width=40)
     log = Button(windows,text="About & How",command=about_how,width=40)
     l1.pack()
