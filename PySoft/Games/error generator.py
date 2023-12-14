@@ -1,7 +1,5 @@
 try:
     from tkinter import messagebox
-    a = Tk()
-    a.withdraw()
     x = messagebox.showinfo("Info","Copyright © 2023 Okmeque1 Corporation, Github: https://github.com/Okmeque1/software/blob/main/PythonSoft/GUI/error%20generator.py")
     def b1():
         pass
@@ -209,7 +207,7 @@ try:
     icons = ["messagebox.ERROR","messagebox.INFO","messagebox.WARNING","messagebox.QUESTION"]
     choices = ["messagebox.","","(","",",",""]
     windows = Tk()
-    windows.geometry("640x480")
+    windows.geometry("1080x630")
     windows.title("Error message generator")
     l1 = Label(windows,text="Title: ")
     TString = Entry(windows,width=40)
