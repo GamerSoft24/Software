@@ -26,4 +26,10 @@ The codes will be more *focused* on **C++** rather then **C** and also there wil
 
 It is recommended to have Arduino IDE (https://www.arduino.cc/en/software) istalled on your PC as a lot of programs will require it. Please check the "Programs.md" (https://github.com/GamerSoft24/Software/blob/Main/Programs.md) file for informations about programs requiring Arduino IDE.
 
-*For* **direct URL access**, this is it: https://github.com/GamerSoft24/Software/tree/Main/C&CPPSoft.
+*For* **direct URL access**, this is it: https://github.com/GamerSoft24/Software/tree/Main/CPPSoft.
+
+## Policy & License Docs:
+
+This is **where** the policies & license documents are.
+
+*For* **direct URL access**, this is it: 
