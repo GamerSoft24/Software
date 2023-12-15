@@ -26,7 +26,7 @@ Some of our programs are respecting a ***security level chart*** and includes a 
 
 10 -> **Level 10:** Max bot protection level + Max level.
 
-### Reporting: 
+### Reporting issues: 
 To *report* any problems or issues, just click the 'Issues' tab (next to the 'Codes' tab) inside of the repository, then *click* 'New issue' to *write* you report or issue. When you finished, just **submit** and we will be informed.
 
 ### Pull requests:
