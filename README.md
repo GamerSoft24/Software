@@ -1,7 +1,7 @@
 # `Software` Repository
 ### **🎉Happy New Year 2024!!🌟**
 
-**V-SET II**, *Version 1.2.8-beta*
+**V-SET II**, *Version 1.3.7-omega*
 
 ## PySoft:
 This is **where** I will be *storing all* of ***my and some of Okmeque1's*** Python codes and programs.
