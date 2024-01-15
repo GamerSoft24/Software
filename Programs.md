@@ -23,6 +23,12 @@
 
 5 -> Rainbow Void (rainbow void.py): For visual effect kinda...
 
+6 -> Code Rain (code rain.py): Text rain falls from the sky... :D
+
+7 -> Error Generator (error generator.py): Generates error messages. Try it out!!
+
+8 -> Happy New Year 2024! (happy new year 2024!!.py): No room for explaining. Happy New Year 2024!
+
 ### Utilities:
 
 1 -> iPCMD - Intelligent Python Command Prompt (iPCMD.py): A command prompt replica with some modified functions. Works perfectly. *Tech Tip:* Use it if the command prompt on your PC is blocked or unusable!
@@ -70,3 +76,11 @@
 ### NodeMCU/ESP8266EX:
 
 1 -> Robotic Halloween Skull (robotic halloween skull.ino): A code for a halloween programmed human life-size skull using C++ for a NodeMCU ESP8266EX Board that controls LED lights and a gesture sensor to change LED patterns. ***This program requires Arduino IDE!***
+
+## BatchSoft:
+
+### UAC Windows:
+
+1 -> UAC Bypass (uac bypass.bat): Drag a file/installer with the security shield tag over "uac bypass.bat" and wait for command to complete and the file/installer will open without prompting the UAC window. Be aware that some files/installers will not be able to open in this way due to an administrator opening requirement.
+
+2 -> Encrypted UAC Bypass (encrypted uac bypass.bat): Use this if UAC Bypass (uac bypass.bat) is detected by the Windows Firewall/Defender as a virus. Same instructions.

@@ -30,3 +30,8 @@ The codes will be more *focused* on **C++** rather then **C** and also there wil
 It is recommended to have [Arduino IDE](https://www.arduino.cc/en/software) istalled on your PC as a lot of programs will require it. Please check the ["Programs.md" file](https://github.com/GamerSoft24/Software/blob/Main/Programs.md) for informations about programs requiring Arduino IDE.
 
 *For* **direct URL access**, this is it: [Click here!](https://github.com/GamerSoft24/Software/tree/Main/CPPSoft)
+
+## BatchSoft:
+
+This is **where** I will be *storing all* of ***my*** Batchfile codes.
+*For* **direct URL access**, this is it: [Click here!](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft)
