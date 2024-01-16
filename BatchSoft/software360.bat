@@ -2,17 +2,31 @@
 goto start
 :START
 echo Software360 All-in-1 
+echo Made by GamerSoftware Corp. and Okmeque1 Computers. (c) All rights reserved.
+echo V0.33 Alpha stage. Beta stage at V0.5. If action returns to main menu, that means the option is not implemented.
 echo [1] UAC Bypass
 echo [2] UAC Bypass (Encrypted)
-echo [3] PLACEHOLDER
-echo [4] PLACEHOLDER
-choice /c:1234 /m Choose an option
-IF ERRORLEVEL 1 GOTO UACBYPASS
+echo [3] Make Elevated task
+echo [4] Start PROGRAM w/flags (e.g : using --user-data-dir and --disable-certificate-errors when starting BrStd1 Browser)
+echo [5] Quit
+choice /c:12345 /m "Choose an option : "
+IF ERRORLEVEL 5 GOTO END
+IF ERRORLEVEL 4 GOTO BRSTD1
+IF ERRORLEVEL 3 GOTO SETADMIN
 IF ERRORLEVEL 2 GOTO UACBYPASSENCRYPT
-IF ERRORLEVEL 3 GOTO PLACEHOLDER
-IF ERRORLEVEL 4 GOTO PLACEHOLDER
-:UACBYPASS1
-rem USE SET /P TO GET PATHLINE INPUT AND SET %1 TO THE SET /P INPUT LINE
-cmd /min /C "set __COMPAT_LAYER=runasinvoker && start "" "%1"
+IF ERRORLEVEL 1 GOTO UACBYPASS
+:UACBYPASS
+set /p input="Enter FILE PATH : "
+cmd /min /C "set __COMPAT_LAYER=runasinvoker && start "" "%input%"
+goto START
+:UACBYPASSENCRYPT
+REM Gamersoft! You figure out how it works and make the %1 variable to the command on line 17.
+goto START
+:SETADMIN
+REM See, the CMDLine works using the bypass UAC but the problem is that it opens std cmd prompt and we want admin cmd prompt
+goto START
+:BRSTD1
+set /p BR="Enter program with or with no parameters. : "
+start "%BR%"
+goto START
 :END
-exit /b
