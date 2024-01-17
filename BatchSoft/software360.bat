@@ -18,15 +18,19 @@ IF ERRORLEVEL 1 GOTO UACBYPASS
 :UACBYPASS
 set /p input="Enter FILE PATH : "
 cmd /min /C "set __COMPAT_LAYER=runasinvoker && start "" "%input%"
+echo
 goto START
 :UACBYPASSENCRYPT
 REM GamerSoft24! You figure out how it works and make the %1 variable to the command on line 17.
+echo
 goto START
 :SETADMIN
 REM See, the CMDLine works using the bypass UAC but the problem is that it opens std cmd prompt and we want admin cmd prompt
+echo
 goto START
 :BRSTD1
 set /p BR="Enter program with or with no parameters: "
 start "%BR%"
+echo
 goto START
 :END
