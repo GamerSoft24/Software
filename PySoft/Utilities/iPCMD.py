@@ -2,8 +2,8 @@ def ipcmd():
     try:
         import os
         iprompt = 'iPCMD>'
-        ver = 'GamerSoftware Corporation [Version iPCMD Python Full 6.278E]'
-        ver1 = '(c) GamerSoftware Corporation. All rights reserved.'
+        ver = 'GamerSoftware Corporation™ [Version iPCMD Python Full 6.278E]'
+        ver1 = '(c) GamerSoftware Corporation™. All rights reserved.'
         print(ver)
         print(ver1)
         print('')
