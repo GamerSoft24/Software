@@ -5,11 +5,11 @@ echo Software360 All-in-1
 echo (c) GamerSoftware Corporation™ and Okmeque1 Corporation™. All rights reserved.
 echo Program version: 0.88-alpha. If action returns to main menu, that means the option is not implemented.
 echo [1] UAC Bypass.
-echo [2] UAC Bypass (Encrypted).
+echo [2] UAC Bypass-Encrypted.
 echo [3] Make Elevated Task.
-echo [4] Start PROGRAM w/flags (e.g : using --user-data-dir and --disable-certificate-errors when starting BrStd1 Browser).
+echo [4] Start PROGRAM w/flags (using --user-data-dir and --disable-certificate-errors when starting BrStd1 Browser).
 echo [5] Quit program.
-choice /c:12345 /m "Choose an option : "
+choice /c:12345 /m "Choose an option: "
 IF ERRORLEVEL 5 GOTO END
 IF ERRORLEVEL 4 GOTO BRSTD1
 IF ERRORLEVEL 3 GOTO SETADMIN
