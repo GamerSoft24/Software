@@ -35,7 +35,7 @@ goto START
 :BRSTD1
 cls
 set /p BR="Enter program with or with no parameters: "
-start "%BR%"
+start "" %BR%
 echo.
 goto START
 :END
