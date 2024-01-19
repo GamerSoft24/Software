@@ -3,13 +3,13 @@ goto start
 :START
 cls
 echo Software360 All-in-1 
-echo (c) GamerSoftware Corporation™ and Okmeque1 Corporation™. All rights reserved.
+echo (c) GamerSoftware Corporation and Okmeque1 Corporation. All rights reserved.
 echo Program version: 0.88-beta. If action returns to main menu, that means the option is not implemented.
 echo [1] UAC Bypass.
 echo [2] Make Elevated Task.
 echo [3] Start PROGRAM w/flags (using --user-data-dir and --disable-certificate-errors when starting BrStd1 Browser).
 echo [4] Quit program.
-choice /c:12345 /m "Choose an option: "
+choice /c:1234 /m "Choose an option: "
 IF ERRORLEVEL 4 GOTO END
 IF ERRORLEVEL 3 GOTO BRSTD1
 IF ERRORLEVEL 2 GOTO SETADMIN
