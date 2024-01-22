@@ -2,7 +2,7 @@
 goto start
 :START
 cls
-echo Software360 All-in-1 
+echo Software360 All-In-One Program
 echo (c) GamerSoftware Corporation and Okmeque1 Corporation. All rights reserved.
 echo Program version: 0.88-beta. If action returns to main menu, that means the option is not implemented.
 echo [1] UAC Bypass.
@@ -22,12 +22,10 @@ echo.
 goto START
 :UACBYPASSENCRYPT
 cls
-REM GamerSoft24! You figure out how it works and make the %1 variable to the command on line 17.
 echo.
 goto START
 :SETADMIN
 cls
-REM See, the CMDLine works using the bypass UAC but the problem is that it opens std cmd prompt and we want admin cmd prompt
 echo.
 goto START
 :BRSTD1

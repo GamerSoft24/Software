@@ -79,8 +79,12 @@
 
 ## BatchSoft:
 
-### UAC Windows:
+1 -> Software360 (software360.bat): A all-in-one program that has bunch of other programs inside.
+
+### Windows:
+
+1 -> System Informations (system infos.bat): Displays general system infomations.
+
+### Windows/UAC:
 
 1 -> UAC Bypass (uac bypass.bat): Drag a file/installer with the security shield tag over "uac bypass.bat" and wait for command to complete and the file/installer will open without prompting the UAC window. Be aware that some files/installers will not be able to open in this way due to an administrator opening requirement.
-
-2 -> Encrypted UAC Bypass (encrypted uac bypass.bat): Use this if UAC Bypass (uac bypass.bat) is detected by the Windows Firewall/Defender as a virus. Same instructions.
