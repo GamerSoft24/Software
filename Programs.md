@@ -79,11 +79,13 @@
 
 ## BatchSoft:
 
-1 -> Software360 (software360.bat): A all-in-one program that has bunch of other programs inside.
-
 ### Windows:
 
-1 -> System Informations (system infos.bat): Displays general system infomations.
+1 -> Windows360 (windows360.bat): A all-in-one program that has bunch of functions in it.
+
+2 -> System Informations (system infos.bat): Displays general system infomations.
+
+3 -> Website Pinger (web pinger.bat): Pings a specified website.
 
 ### Windows/UAC:
 
