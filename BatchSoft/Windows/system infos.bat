@@ -1,4 +1,5 @@
 @echo off
+Title System Informations
 color a
 echo System Informations:
 echo.
