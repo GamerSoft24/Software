@@ -1,4 +1,5 @@
 @echo off
+color a
 echo System Informations:
 echo.
 echo Running whoami...
