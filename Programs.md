@@ -41,6 +41,8 @@
 
 ## VBSoft
 
+1 -> All Messages Boxes (all msg boxex.vbs): Displays all the message boxes of Windows.
+
 ### CD Ejects:
 
 1 -> CD Eject No Delay (cd eject no delay.vbs): Will open your CD/DVD+-RW Drive and when you close it it reopens. Effect only works on SlimLine drives as they cannot retract their disc tray.
