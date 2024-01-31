@@ -11,9 +11,9 @@ echo [1] UAC Bypass.
 echo [2] Open Windows Command Prompt (cmd.exe).
 echo [3] BRSTD1 (Browser Standard 1).
 echo [4] Quit program.
-choice /c:1234 /m "Choose an option : "
+choice /c:1234 /m "Choose an option: "
 IF ERRORLEVEL 4 GOTO END
-IF ERRORLEVEL 3 GOTO 360UDATA1
+IF ERRORLEVEL 3 GOTO CHROMELAUNCHER
 IF ERRORLEVEL 2 GOTO STARTCMD
 IF ERRORLEVEL 1 GOTO UACBYPASS
 :UACBYPASS
