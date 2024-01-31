@@ -2,11 +2,11 @@
 goto START
 :START
 cls
-Title
+title Windows360 AIO
 color a
-echo Windows360 All-In-One Program:
-echo Program version: 0.97-foxtrot. 
-echo (c) GamerSoftware Corporation and Okmeque1 Corporation. All rights reserved.
+echo Windows360 AIO/All-In-One:
+echo V1.26-beta. If action returns to main menu, that means the option is not implemented.
+echo (c) GamerSoftware Corporation. All rights reserved.
 echo If action returns to main menu, that means the option is not implemented.
 echo [1] System Infomations.
 echo [2] Website Pinger.
@@ -17,7 +17,6 @@ IF ERRORLEVEL 2 GOTO WEBPING
 IF ERRORLEVEL 1 GOTO SYSTEMINFOS
 :SYSTEMINFOS
 cls
-Title System Informations
 color a
 echo System Informations:
 echo.
@@ -41,7 +40,6 @@ tasklist
 goto START
 :WEBPING
 cls
-Title Website Pinger
 color a
 echo Website Pinger:
 set input=
