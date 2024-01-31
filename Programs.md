@@ -81,9 +81,10 @@
 
 ## BatchSoft:
 
+1 -> Software360 AIO (software360 aio.bat): A all-in-one program that has bunch of Batchfile files.
 ### Windows:
 
-1 -> Windows360 (windows360.bat): A all-in-one program that has bunch of functions in it.
+1 -> Windows360 AIO (windows360 aio.bat): A all-in-one program that has bunch of Windows Command Prompt (cmd.exe) functions in it.
 
 2 -> System Informations (system infos.bat): Displays general system infomations.
 
