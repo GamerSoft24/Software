@@ -6,7 +6,7 @@ cls
 color a
 echo Software360 AIO:
 echo Made by GamerSoftware Corp. and Okmeque1 Computers. (c) All rights reserved.
-echo V0.86-alpha. If action returns to main menu, that means the option is not implemented.
+echo V1.26-beta. If action returns to main menu, that means the option is not implemented.
 echo [1] UAC Bypass
 echo [2] Goto CMD (cmd.exe).
 echo [3] Use COMPATABILITY flag for browser( disabling all errors and faking user agent. Uses SUPERMIUM 118 User agent and _BrStd1(taskbar) settings.)
