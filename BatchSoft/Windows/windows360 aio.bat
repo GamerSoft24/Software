@@ -2,8 +2,8 @@
 goto START
 :START
 cls
-title Windows360 AIO
 color a
+title Windows360 AIO
 echo Windows360 AIO/All-In-One:
 echo V1.26-beta. If action returns to main menu, that means the option is not implemented.
 echo (c) GamerSoftware Corporation. All rights reserved.
