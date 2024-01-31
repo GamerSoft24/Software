@@ -1,9 +1,9 @@
 @echo off
 goto start
-title Software360 AIO
 :START
 cls
 color a
+title Software360 AIO
 echo Software360 AIO/All-In-One:
 echo V1.26-beta. If action returns to main menu, that means the option is not implemented.
 echo (c) GamerSoftware Corporation and Okmeque1 Corporation. All rights reserved.
