@@ -1,4 +1,4 @@
-# Errors chart:
+# Errors chart
 
 ## Note that this chart will only be useful if you have built-in error handling systems in your programs!
 ***© Okmeque1 Corporation: [`/Okmeque1/software`](https://github.com/Okmeque1/software/blob/main/PythonSoft/errors.md)***
