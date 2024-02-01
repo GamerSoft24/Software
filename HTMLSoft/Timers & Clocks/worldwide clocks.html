@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Clocks</title>
+    <style>
+        body {
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .clock-container {
+            text-align: center;
+            margin: 10px;
+        }
+
+        .clock {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="clock-container">
+        <div class="clock" id="clockBeijing"></div>
+        <div class="clock" id="clockNewYork"></div>
+        <div class="clock" id="clockParis"></div>
+        <div class="clock" id="clockLondon"></div>
+        <div class="clock" id="clockGreece"></div>
+        <div class="clock" id="clockTokyo"></div>
+        <div class="clock" id="clockSydney"></div>
+        <div class="clock" id="clockDubai"></div>
+        <div class="clock" id="clockMoscow"></div>
+        <div class="clock" id="clockRioDeJaneiro"></div>
+        <!-- Add more clocks as needed -->
+
+        <script>
+            function updateClock(timezone, elementId) {
+                const now = new Date();
+                const options = { timeZone: timezone, hour12: false, hour: 'numeric', minute: 'numeric', second: 'numeric' };
+                const timeString = now.toLocaleString('en-US', options);
+                document.getElementById(elementId).innerText = `${timezone}: ${timeString}`;
+            }
+
+            function updateAllClocks() {
+                updateClock('Asia/Shanghai', 'clockBeijing');
+                updateClock('America/New_York', 'clockNewYork');
+                updateClock('Europe/Paris', 'clockParis');
+                updateClock('Europe/London', 'clockLondon');
+                updateClock('Europe/Athens', 'clockGreece');
+                updateClock('Asia/Tokyo', 'clockTokyo');
+                updateClock('Australia/Sydney', 'clockSydney');
+                updateClock('Asia/Dubai', 'clockDubai');
+                updateClock('Europe/Moscow', 'clockMoscow');
+                updateClock('America/Sao_Paulo', 'clockRioDeJaneiro');
+                // Update more clocks as needed
+            }
+
+            // Initial update
+            updateAllClocks();
+
+            // Update every second
+            setInterval(updateAllClocks, 1000);
+        </script>
+    </div>
+</body>
+</html>

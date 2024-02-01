@@ -69,9 +69,11 @@
 
 ## HTMLSoft
 
-### Timers:
+### Timers & Clocks:
 
 1 -> Countdown Timer (countdown timer.html): You know what a countdown timer is right?
+
+2 -> Worldwide Clocks (worldwide clocks.html): Shows the time for famous cities across the world.
 
 ## CPPSoft
 
