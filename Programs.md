@@ -1,17 +1,17 @@
 # Programs
 
-## PySoft
-### Calculators:
+## [PySoft](https://github.com/GamerSoft24/Software/tree/Main/PySoft)
+### [Calculators:](https://github.com/GamerSoft24/Software/tree/Main/PySoft/Calculators)
 
 1 -> [Advanced Calculator (advanced calculator.py):](https://github.com/GamerSoft24/Software/blob/Main/PySoft/Calculators/advanced%20calculator.py) A replica for a really basic trignometry calculator.
 
 2 -> [Basic Calculator (basic calculator.py):](https://github.com/GamerSoft24/Software/blob/Main/PySoft/Calculators/basic%20calculator.py) More basic than the advanced calculator above.
 
-### Editors:
+### [Editors:](https://github.com/GamerSoft24/Software/tree/Main/PySoft/Editors)
 
 1 -> [GUI Text Editor (gui-text editor.py):](https://github.com/GamerSoft24/Software/blob/Main/PySoft/Editors/gui-text%20editor.py) A text editor in Python.
 
-### Games:
+### [Games:](https://github.com/GamerSoft24/Software/tree/Main/PySoft/Games)
 
 1 -> [Hangman (hangman.py):](https://github.com/GamerSoft24/Software/blob/Main/PySoft/Games/hangman.py) Hangman... You understand it right..?
 
@@ -29,7 +29,7 @@
 
 8 -> [Happy New Year 2024! (happy new year 2024!!.py):](https://github.com/GamerSoft24/Software/blob/Main/PySoft/Games/happy%20new%20year%202024!!.py) No room for explaining. Happy New Year 2024!
 
-### Utilities:
+### [Utilities:](https://github.com/GamerSoft24/Software/tree/Main/PySoft/Utilities)
 
 1 -> [iPCMD - Intelligent Python Command Prompt (iPCMD.py):](https://github.com/GamerSoft24/Software/blob/Main/PySoft/Utilities/iPCMD.py) A command prompt replica with some modified functions. Works perfectly. *Tech Tip:* Use it if the command prompt on your PC is blocked or unusable!
 
@@ -39,17 +39,17 @@
 
 4 -> [Time Clock (time clock.py):]([url](https://github.com/GamerSoft24/Software/blob/Main/PySoft/Utilities/time%20clock.py)) Basically it's just a time clock.
 
-## VBSoft
+## [VBSoft](https://github.com/GamerSoft24/Software/tree/Main/VBSoft)
 
 1 -> [All Messages Boxes (all msg boxex.vbs):](https://github.com/GamerSoft24/Software/blob/Main/VBSoft/all%20msg%20boxes.vbs) Displays all the message boxes of Windows.
 
-### CD Ejects:
+### [CD Ejects:](https://github.com/GamerSoft24/Software/tree/Main/VBSoft/CD%20Ejects)
 
 1 -> [CD Eject No Delay (cd eject no delay.vbs):](https://github.com/GamerSoft24/Software/blob/Main/VBSoft/CD%20Ejects/cd%20eject%20no%20delay.vbs) Will open your CD/DVD+-RW Drive and when you close it it reopens. Effect only works on SlimLine drives as they cannot retract their disc tray.
 
 2 -> [CD Eject Normal (cd eject normal.vbs):](https://github.com/GamerSoft24/Software/blob/Main/VBSoft/CD%20Ejects/cd%20eject%20normal.vbs) Will open your CD/DVD+-RW Drive and when you close it it stays closed for a while then reopens. The best one to prank someone. Effect only works on SlimLine drives as they cannot retract their disc tray.
 
-### Deadly:
+### [Deadly:](https://github.com/GamerSoft24/Software/tree/Main/VBSoft/Deadly)
 
 1 -> [Auto Pressing Backspace (auto press backspace.vbs):](https://github.com/GamerSoft24/Software/blob/Main/VBSoft/Deadly/auto%20press%20backspace.vbs) Will press the backspace key at a really fast rate. Careful using it!
 
@@ -57,39 +57,39 @@
 
 3 -> [Open Google Chrome Infinitly (open chrome infinitly.vbs):](https://github.com/GamerSoft24/Software/blob/Main/VBSoft/Deadly/open%20chrome%20infinitly.vbs) Opens Google Chrome windows at a really fast rate. The deadliest VBS script in this `Software` repository. Can *crash your RAM* in just a **VERY quickly**!
 
-### Games:
+### [Games:](https://github.com/GamerSoft24/Software/tree/Main/VBSoft/Games)
 
 1 -> [Whopper Song! (whopper!.vbs):](https://github.com/GamerSoft24/Software/blob/Main/VBSoft/Games/whopper!.vbs) Displays the Whopper Song (Song from Burger King Corporation).
 
-### Text loops:
+### [Text loops:](https://github.com/GamerSoft24/Software/tree/Main/VBSoft/Text%20loops)
 
 1 -> [Access denied! (access denied.vbs):](https://github.com/GamerSoft24/Software/blob/Main/VBSoft/Text%20loops/access%20denied!.vbs) Do I need to say anythin' about it?
 
 2 -> [Hacking Computer... (hacking computer.vbs):](https://github.com/GamerSoft24/Software/blob/Main/VBSoft/Text%20loops/hacking%20computer.vbs) Too easy to understand.
 
-### Utilities:
+### [Utilities:](https://github.com/GamerSoft24/Software/tree/Main/VBSoft/Utilities)
 
 1 -> [Open Browser (open browser.vbs):](https://github.com/GamerSoft24/Software/blob/Main/VBSoft/Utilities/open%20browser.vbs) Opens Google Chrome if installed. If not, opens Microsoft Edge.
 
-## HTMLSoft
+## [HTMLSoft](https://github.com/GamerSoft24/Software/tree/Main/HTMLSoft)
 
-### Timers & Clocks:
+### [Timers & Clocks:](https://github.com/GamerSoft24/Software/tree/Main/HTMLSoft/Timers%20%26%20Clocks)
 
 1 -> [Countdown Timer (countdown timer.html):](https://github.com/GamerSoft24/Software/blob/Main/HTMLSoft/Timers%20%26%20Clocks/countdown%20timer.html) You know what a countdown timer is right?
 
 2 -> [Worldwide Clocks (worldwide clocks.html):](https://github.com/GamerSoft24/Software/blob/Main/HTMLSoft/Timers%20%26%20Clocks/worldwide%20clocks.html) Shows the time for famous cities across the world.
 
-## CPPSoft
+## [CPPSoft](https://github.com/GamerSoft24/Software/tree/Main/CPPSoft)
 
-### NodeMCU/ESP8266EX:
+### [NodeMCU](https://github.com/GamerSoft24/Software/tree/Main/CPPSoft/NodeMCU)/[ESP8266EX:](https://github.com/GamerSoft24/Software/tree/Main/CPPSoft/NodeMCU/ESP8266EX)
 
 1 -> [Robotic Halloween Skull (robotic halloween skull.ino):](https://github.com/GamerSoft24/Software/blob/Main/CPPSoft/NodeMCU/ESP8266EX/robotic%20halloween%20skull.ino) A code for a halloween programmed human life-size skull using C++ for a NodeMCU ESP8266EX Board that controls LED lights and a gesture sensor to change LED patterns. ***This program requires Arduino IDE.***
 
-## BatchSoft:
+## [BatchSoft](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft)
 
 1 -> [Software360 AIO (software360 aio.bat):](https://github.com/GamerSoft24/Software/blob/Main/BatchSoft/software360%20aio.bat) A all-in-one program that has bunch of Batchfile files.
 
-### Windows:
+### [Windows:](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft/Windows)
 
 1 -> [Windows360 AIO (windows360 aio.bat):](https://github.com/GamerSoft24/Software/blob/Main/BatchSoft/Windows/windows360%20aio.bat) A all-in-one program that has bunch of Windows Command Prompt (cmd.exe) functions in it.
 
@@ -97,6 +97,6 @@
 
 3 -> [Website Pinger (web pinger.bat):](https://github.com/GamerSoft24/Software/blob/Main/BatchSoft/Windows/web%20pinger.bat) Pings a specified website.
 
-### Windows/UAC:
+### [Windows](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft/Windows)/[UAC](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft/Windows/UAC):
 
 1 -> [UAC Bypass (uac bypass.bat):](https://github.com/GamerSoft24/Software/blob/Main/BatchSoft/Windows/UAC/uac%20bypass.bat) Drag a file/installer with the security shield tag over "uac bypass.bat" and wait for command to complete and the file/installer will open without prompting the UAC window. Be aware that some files/installers will not be able to open in this way due to an administrator opening requirement.
