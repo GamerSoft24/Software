@@ -206,7 +206,7 @@ try:
     choices = ["messagebox.","","(","",",",""]
     windows = Tk()
     windows.geometry("1900x1080")
-    x = messagebox.showinfo("Info","Copyright © 2023 Okmeque1 Corporation, Github: https://github.com/Okmeque1/software/blob/main/PythonSoft/GUI/error%20generator.py")
+    x = messagebox.showinfo("Info","© 2023 Okmeque1 Corporation, Github: https://github.com/Okmeque1/software/blob/main/PythonSoft/GUI/error%20generator.py")
     windows.title("Error message generator")
     l1 = Label(windows,text="Title: ")
     TString = Entry(windows,width=40)
