@@ -67,6 +67,10 @@
 
 2 -> Hacking Computer... (hacking computer.vbs): Too easy to understand. Only people with IQ = 0 don't...
 
+### Utilities:
+
+1 -> Open Browser (open browser.vbs): Opens Google Chrome if installed. If not, opens Microsoft Edge.
+
 ## HTMLSoft
 
 ### Timers & Clocks:
