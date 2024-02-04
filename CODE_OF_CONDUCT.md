@@ -59,7 +59,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. gamersoftware.corp@gmail.com.
 
-[Reporting guidelines](https://github.com/GamerSoft24/Software/blob/Main/SECURITY.md)
+[Reporting guidelines (Security Policy)](https://github.com/GamerSoft24/Software/blob/Main/SECURITY.md)
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
