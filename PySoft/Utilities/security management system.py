@@ -10,61 +10,13 @@ try:
     print("")
     print("PLEASE, DO NOT CHANGE THIS PROGRAM UNLESS YOU ARE GIVEN PERMISSION OR UNLESS YOU CREATE YOUR OWN VERSION. THIS PROGRAM TOOK DAYS TO BE AT IT'S CURRENT STATE AND CHANGING IT WITHOUT PERMISSION OR NOT ON YOUR OWN COPY COULD RUIN IT ENTIRELY AND/OR CRASH IT. THANK YOU FOR UNDERSTANDING!")
     print("")
-    
-    phrase_welcome_GamerSoft24_not_choosen = ['Also, tell Okmeque1 that we are also willing to see him again too!','Enjoy your time with us!','How are you?']
-    phrase_welcome_Okmeque1_not_choosen = ['Also, tell GamerSoft24 that we are also willing to see him again too!','Enjoy your time with us!','How are you?']
-    phrase_welcome_GamerSoft24_choosen = ''
-    phrase_welcome_Okmeque1_choosen = ''
-    phrase_welcome_GamerSoft24_choosen += random.choice(phrase_welcome_GamerSoft24_not_choosen)
-    phrase_welcome_Okmeque1_choosen += random.choice(phrase_welcome_Okmeque1_not_choosen)
-    
+
     exit_code_not_choosen = ['246195','961793','502941','836401','143697','302869']
     exit_code_choosen = ''
     exit_code_choosen += random.choice(exit_code_not_choosen)
     
     name_for_check = input("Enter your name or username as this program is in security level 10. (It will be kept private throughout your entire session and erased from our database when you quit. You can learn more after with option 1 in the main menu): ")
     if name_for_check == 'GamerSoft24':
-        import turtle
-        t=turtle.Turtle()
-        turtle.speed(176976947698726987631)
-        turtle.fillcolor('black')
-        turtle.begin_fill()
-        turtle.circle(120,180)
-        turtle.left(180)
-        turtle.circle(-60,180)
-        turtle.circle(60,180)
-        turtle.end_fill()
-        turtle.left(180)
-        turtle.circle(-120,180)
-        turtle.right(90)
-        turtle.penup()
-        turtle.fd(70)
-        turtle.left(90)
-        turtle.pendown
-        turtle.fillcolor('black')
-        turtle.begin_fill()
-        turtle.circle(15)
-        turtle.end_fill()
-        turtle.right(90)
-        turtle.penup()
-        turtle.fd(130)
-        turtle.left(90)
-        turtle.pendown()
-        turtle.fillcolor('white')
-        turtle.begin_fill()
-        turtle.circle(15)
-        turtle.end_fill()
-        t.up()
-        t.goto(-110,-100)
-        t.write('Hello GamerSoft24! (⌐■_■)',font=(15))
-        turtle.hideturtle()
-        turtle.done()
-        print("")
-        print("Welcome back to THE SECURITY MANAGEMENT SYSTEM! We are pleased to see you again.")
-        print(phrase_welcome_GamerSoft24_choosen)
-        print("")
-        input("Press enter to continue...")
-        print("")
         security_manager = True
         while security_manager == True:
             print("MAIN MENU:")
