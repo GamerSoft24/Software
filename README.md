@@ -36,3 +36,9 @@ It is recommended to have [Arduino IDE](https://www.arduino.cc/en/software) ista
 This is **where** I will be *storing all* of ***my*** Batchfile codes.
 
 *For* **direct URL access**, this is it: [Click here!](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft)
+
+## .github/workflows:
+
+This is **where** this ***repository's workflows files*** will be *stored*
+
+*For* **direct URL access**, this is it: [Click here!](https://github.com/GamerSoft24/Software/tree/Main/.github/workflows)
