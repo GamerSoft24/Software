@@ -39,6 +39,6 @@ This is **where** I will be *storing all* of ***my*** Batchfile codes.
 
 ## .github:
 
-This is **where** this ***repository's configs files*** will be *stored*
+This is **where** this ***`Software` repository's configs files*** will be *stored*
 
 *For* **direct URL access**, this is it: [Click here!](https://github.com/GamerSoft24/Software/tree/Main/.github)
