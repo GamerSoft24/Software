@@ -77,7 +77,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-gamersoftware.corp@gmail.com
+Main: gamersoftware.corp@gmail.com, Secondary: gsst2401@gmail.com, Teriary: sutoexec.bat@gmail.com
 
 ## 11. License and attribution
 
