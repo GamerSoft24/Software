@@ -1,0 +1,5 @@
+Python Error Handling for SMS SET-IV:
+except FileNotFoundError:
+    input("STOP : 6510B\nThe specified was not found.\nPress enter to exit.")
+except BaseException:
+    input("STOP : 770A\nGeneral exception. Check parameters and try again.")

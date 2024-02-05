@@ -21,7 +21,7 @@ def save_file():
         messagebox.showinfo("Info", "File saved successfully!")
         
 def about():
-    messagebox.showinfo("About", "Python Text Editor\nCreated by GamerSoft24.")
+    messagebox.showinfo("About", "Python Text Editor\nCreated by GamerSoft24.\n© GamerSoftware Corporation™. All rights reserved.")
 
 def get_user_input():
     result = simpledialog.askstring("Input", "Enter something:")
@@ -44,7 +44,7 @@ file_menu.add_command(label="Exit", command=root.quit)
 
 edit_menu = tk.Menu(menu)
 menu.add_cascade(label="Edit", menu=edit_menu)
-edit_menu.add_command(label="Input", command=get_user_input)
+edit_menu.add_command(label="Input ", command=get_user_input)
 
 help_menu = tk.Menu(menu)
 menu.add_cascade(label="Help", menu=help_menu)
