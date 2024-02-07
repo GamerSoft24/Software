@@ -18,16 +18,16 @@ IF ERRORLEVEL 2 GOTO STARTCMD
 IF ERRORLEVEL 1 GOTO UACBYPASS
 :UACBYPASS
 cls
-set /p input="Enter file path: "
-cmd /min /C "set __COMPAT_LAYER=runasinvoker && start "" "%input%"
+set /p filepath_uac="Enter file path: "
+cmd /min /C "set __COMPAT_LAYER=runasinvoker && start "" "%filepath_uac%"
 echo.
 goto START
 :CHROMELAUNCHER
 cls
-set /p setpath="Enter browser path: "
-set /p userdir="Enter User Data DIR: "
-set /p crver="Enter Chrome version (any number from 1-current release): "
-start "" "%setpath%" --user-data-dir="%userdir%" --disable-infobars  --no-sandbox  --ignore-certificate-errors --disable-logging --no-default-browser-check --disable-component-update --disable-background-networking --allow-outdated-plugins --cipher-suite-blacklist=0xcc14,0xe013 --ignore-certificate-errors --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/%crver%.0.0.0 Safari/537.36"
+echo Please be aware that this program (BRSTD1) will fail if you moved Chrome to an other location or if it's not in its default location.
+set /p userdatadir_chrome="Enter User Data DIR: "
+set /p version_chrome="Enter Chrome version to open (any number from 1-current release) e.g. 86, 120, 121,...: "
+start "" "C:\Progra~2\Google\Chrome\Application\chrome.exe" --user-data-dir="%userdatadir_chrome%" --disable-infobars  --no-sandbox  --ignore-certificate-errors --disable-logging --no-default-browser-check --disable-component-update --disable-background-networking --allow-outdated-plugins --cipher-suite-blacklist=0xcc14,0xe013 --ignore-certificate-errors --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/%version_chrome%.0.0.0 Safari/537.36"
 echo.
 goto start
 :STARTCMD
