@@ -25,9 +25,9 @@ goto START
 :CHROMELAUNCHER
 cls
 echo Please be aware that this program (BRSTD1) will fail if you moved Chrome to an other location or if it's not in its default location.
-set /p userdatadir_chrome="Enter User Data DIR: "
+set /p username_session="Enter your username (can be found with the command 'whoami' in the Windows Command Prompt (cmd.exe)): "
 set /p version_chrome="Enter Chrome version to open (any number from 1-current release) e.g. 86, 120, 121,...: "
-start "" "C:\Progra~2\Google\Chrome\Application\chrome.exe" --user-data-dir="%userdatadir_chrome%" --disable-infobars  --no-sandbox  --ignore-certificate-errors --disable-logging --no-default-browser-check --disable-component-update --disable-background-networking --allow-outdated-plugins --cipher-suite-blacklist=0xcc14,0xe013 --ignore-certificate-errors --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/%version_chrome%.0.0.0 Safari/537.36"
+start "" "C:\Progra~2\Google\Chrome\Application\chrome.exe" --user-data-dir="C:\Users\"%username_session%"\AppData\Local\Google\Chrome\User Data\Guest Profile" --disable-infobars  --no-sandbox  --ignore-certificate-errors --disable-logging --no-default-browser-check --disable-component-update --disable-background-networking --allow-outdated-plugins --cipher-suite-blacklist=0xcc14,0xe013 --ignore-certificate-errors --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/%version_chrome%.0.0.0 Safari/537.36"
 echo.
 goto start
 :STARTCMD
