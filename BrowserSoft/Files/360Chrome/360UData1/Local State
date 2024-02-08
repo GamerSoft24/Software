@@ -1,0 +1,149 @@
+{
+   "browser": {
+      "enabled_labs_experiments": [ "enable-tab-audio-muting" ],
+      "hung_plugin_detect_freq": 2000,
+      "last_welcomed_os_version": "10.0",
+      "plugin_message_response_timeout": 25000,
+      "shortcut_migration_version": "13.0.2310.0"
+   },
+   "component_update": {
+      "download": {
+         "7zfilesize": "1523240",
+         "comfilepath": "E:\\360Chrome\\U1Feb24\\components\\download\\3.2.1.47/download/id.dat"
+      }
+   },
+   "data_use_measurement": {
+      "data_used": {
+         "services": {
+            "background": {
+
+            },
+            "foreground": {
+
+            }
+         },
+         "user": {
+            "background": {
+
+            },
+            "foreground": {
+
+            }
+         }
+      }
+   },
+   "first_jisu12_skin": false,
+   "hardware_acceleration_mode_previous": true,
+   "legacy": {
+      "profile": {
+         "name": {
+            "migrated": true
+         }
+      }
+   },
+   "os_crypt": {
+      "encrypted_key": "RFBBUEkBAAAA0Iyd3wEV0RGMegDAT8KX6wEAAAB5OhL970s3R6Gcplg7RYu+AAAAAAIAAAAAAANmAADAAAAAEAAAAA8d5jhqyUVwVP0wF5N7awMAAAAABIAAAKAAAAAQAAAAPnaSNFOiOWW+qSgHgD6NCigAAAD9eLHtoDX/KWnjsz5FZYN4NTbcMfC1cwyjdXc9zxCycRvokqrhkWxvFAAAAOhca++ug6XYyc67q3Er0NgenxA3"
+   },
+   "profile": {
+      "info_cache": {
+         "Default": {
+            "active_time": 1707393384.949691,
+            "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
+            "background_apps": false,
+            "gaia_id": "",
+            "is_consented_primary_account": false,
+            "is_ephemeral": false,
+            "is_omitted_from_profile_list": false,
+            "is_using_default_avatar": true,
+            "is_using_default_name": true,
+            "managed_user_id": "",
+            "metrics_bucket_index": 1,
+            "name": "Person 1",
+            "user_name": ""
+         }
+      },
+      "last_active_profiles": [  ],
+      "metrics": {
+         "next_bucket_index": 2
+      },
+      "profile_counts_reported": "13351866982379020"
+   },
+   "profile_network_context_service": {
+      "http_cache_finch_experiment_groups": "None None None"
+   },
+   "rappor": {
+      "cohort_seed": 4,
+      "secret": "GMY0VFzzow8qlu7/kcmolhVGEsrTB5QQ0pgVlKsuxZI5vguTt48ZeUVOB370k4AJ"
+   },
+   "se": {
+      "browser": {
+         "open_doh": {
+            "cloud_allow": false
+         }
+      }
+   },
+   "shutdown": {
+      "num_processes": 0,
+      "num_processes_slow": 0,
+      "type": 0
+   },
+   "skin": {
+      "info": {
+         "crxid": "jisu9_chrome",
+         "id": 0,
+         "name": "jisu9_chrome",
+         "url": "",
+         "version": "1.0.0.0"
+      }
+   },
+   "subresource_filter": {
+      "ruleset_version": {
+         "checksum": 0,
+         "content": "",
+         "format": 0
+      }
+   },
+   "sync_login_info": {
+      "filepath": "",
+      "last_tab": 1,
+      "qid": ""
+   },
+   "tab_stats": {
+      "last_daily_sample": "13351866984972159",
+      "max_tabs_per_window": 2,
+      "total_tab_count_max": 2,
+      "window_count_max": 1
+   },
+   "ukm": {
+      "persisted_logs": [  ]
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1707393382",
+      "launch_count": "1"
+   },
+   "user_experience_metrics": {
+      "low_entropy_source3": 874,
+      "session_id": 0,
+      "stability": {
+         "breakpad_registration_fail": 0,
+         "breakpad_registration_ok": 0,
+         "browser_last_live_timestamp": "13351867012411890",
+         "crash_count": 0,
+         "debugger_not_present": 1,
+         "debugger_present": 0,
+         "deferred_count": 0,
+         "discard_count": 1,
+         "exited_cleanly": true,
+         "incomplete_session_end_count": 0,
+         "launch_count": 1,
+         "session_end_completed": true,
+         "stats_buildtime": "1647942046",
+         "stats_version": "13.0.2310.0-devel",
+         "system_crash_count": 0,
+         "version_mismatch_count": 0
+      }
+   },
+   "was": {
+      "restarted": false
+   }
+}
