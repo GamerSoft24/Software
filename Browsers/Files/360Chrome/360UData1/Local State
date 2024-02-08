@@ -1,0 +1,154 @@
+{
+   "browser": {
+      "enabled_labs_experiments": [ "enable-tab-audio-muting" ],
+      "hung_plugin_detect_freq": 2000,
+      "last_welcomed_os_version": "10.0",
+      "plugin_message_response_timeout": 25000,
+      "shortcut_migration_version": "13.0.2310.0"
+   },
+   "component_update": {
+      "download": {
+         "7zfilesize": "1523240",
+         "comfilepath": "U:\\360Chrome\\U1Jan24\\components\\download\\3.2.1.47/download/id.dat"
+      }
+   },
+   "data_use_measurement": {
+      "data_used": {
+         "services": {
+            "background": {
+
+            },
+            "foreground": {
+
+            }
+         },
+         "user": {
+            "background": {
+
+            },
+            "foreground": {
+
+            }
+         }
+      }
+   },
+   "first_jisu12_skin": false,
+   "hardware_acceleration_mode_previous": true,
+   "legacy": {
+      "profile": {
+         "name": {
+            "migrated": true
+         }
+      }
+   },
+   "os_crypt": {
+      "encrypted_key": "RFBBUEkBAAAA0Iyd3wEV0RGMegDAT8KX6wEAAADo8YQSx6KoTJTVvcGyEHqtAAAAAAIAAAAAAANmAADAAAAAEAAAAJDaCdaVKPP/fuEvxwv7dZoAAAAABIAAAKAAAAAQAAAAXJI+qhqhWneSaUXYwVBp2CgAAACKKjh3SU9w4Amqa08r5v0ez3tf8WNbi+PFCEIkNPaz9HTddTblEzlKFAAAAMHX48anlhY0J3EMMU1gDvlT46kj"
+   },
+   "profile": {
+      "info_cache": {
+         "Default": {
+            "active_time": 1707385638.299715,
+            "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
+            "background_apps": false,
+            "gaia_given_name": "",
+            "gaia_id": "",
+            "gaia_name": "",
+            "hosted_domain": "",
+            "is_consented_primary_account": false,
+            "is_ephemeral": false,
+            "is_omitted_from_profile_list": false,
+            "is_using_default_avatar": true,
+            "is_using_default_name": true,
+            "local_auth_credentials": "",
+            "managed_user_id": "",
+            "metrics_bucket_index": 1,
+            "name": "Person 1",
+            "user_name": ""
+         }
+      },
+      "last_active_profiles": [  ],
+      "metrics": {
+         "next_bucket_index": 2
+      },
+      "profile_counts_reported": "13351859236797186"
+   },
+   "profile_network_context_service": {
+      "http_cache_finch_experiment_groups": "None None None"
+   },
+   "rappor": {
+      "cohort_seed": 100,
+      "secret": "w4OicCyO1BF8kYX2Pfw5eWd8EeilJQ+ztbJ87vbhNdOi2dG+eucrGkXQmSzj7tYW"
+   },
+   "se": {
+      "browser": {
+         "open_doh": {
+            "cloud_allow": false
+         }
+      }
+   },
+   "shutdown": {
+      "num_processes": 0,
+      "num_processes_slow": 0,
+      "type": 0
+   },
+   "skin": {
+      "info": {
+         "crxid": "jisu9_chrome",
+         "id": 0,
+         "name": "jisu9_chrome",
+         "url": "",
+         "version": "1.0.0.0"
+      },
+      "last_update": "13351859393730126"
+   },
+   "subresource_filter": {
+      "ruleset_version": {
+         "checksum": 0,
+         "content": "",
+         "format": 0
+      }
+   },
+   "sync_login_info": {
+      "filepath": "",
+      "last_tab": 1,
+      "qid": ""
+   },
+   "tab_stats": {
+      "last_daily_sample": "13351859238306136",
+      "max_tabs_per_window": 2,
+      "total_tab_count_max": 2,
+      "window_count_max": 1
+   },
+   "ukm": {
+      "persisted_logs": [  ]
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1707385635",
+      "launch_count": "2"
+   },
+   "user_experience_metrics": {
+      "low_entropy_source3": 7770,
+      "session_id": 1,
+      "stability": {
+         "breakpad_registration_fail": 0,
+         "breakpad_registration_ok": 0,
+         "browser_last_live_timestamp": "13351859415823246",
+         "crash_count": 0,
+         "debugger_not_present": 2,
+         "debugger_present": 0,
+         "deferred_count": 0,
+         "discard_count": 1,
+         "exited_cleanly": true,
+         "incomplete_session_end_count": 0,
+         "launch_count": 2,
+         "session_end_completed": true,
+         "stats_buildtime": "1647942046",
+         "stats_version": "13.0.2310.0-devel",
+         "system_crash_count": 0,
+         "version_mismatch_count": 0
+      }
+   },
+   "was": {
+      "restarted": false
+   }
+}
