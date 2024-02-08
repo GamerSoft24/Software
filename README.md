@@ -37,11 +37,11 @@ This is **where** I will be *storing all* of ***my*** Batchfile codes.
 
 *For* **direct URL access**, this is it: [Click here!](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft)
 
-## Browsers:
+## BrowserSoft:
 
 This is **where** I will be *storing all* of ***my*** internet browsers files.
 
-*For* **direct URL access**, this is it: [Click here!](https://github.com/GamerSoft24/Software/tree/Main/Browsers)
+*For* **direct URL access**, this is it: [Click here!](https://github.com/GamerSoft24/Software/tree/Main/BrowserSoft)
 
 ## .github:
 
