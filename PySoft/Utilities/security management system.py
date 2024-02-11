@@ -31,6 +31,7 @@ def sms_main():
         print("Other:")
         print("")
         print("5 -> Report an issue or problem.")
+        print("6 -> Quit program")
         print("")
         option = int(input("Select option: "))
         if option == 1:
@@ -61,14 +62,13 @@ def sms_main():
             print("")
             print("When you are asked for a valid file name, please make sure that the directory is valid and for best compatibility or/and please make sure that the file exists.")
             print("")
-            defaultfileask = input("Do you have the default file: 'pwd_openscs.pwd'? ")
+            defaultfileask = input("Do you have the default file: 'pwd_openscs.pwd'?(Yes/No): ")
             if defaultfileask == "Yes" or "yes":
                 print("")
                 input("Press enter to continue...")
                 print("")
                 pwd_manager = True
-            else:
-                if defaultfileask == "No" or "no":
+            elif defaultfileask == "No" or "no":
                     filedefaultdownload = open("pwd_openscs.pwd","w")
                     print("")
                     print("Downloading 'pwd_openscs.pwd'. Please wait...")
@@ -80,8 +80,8 @@ def sms_main():
                     print("")
                     filedefaultdownload.close()
                     pwd_manager = True
-                else:
-                    exit()
+            else:
+                    sms_main()
             while pwd_manager:
                 print("MENU: ")
                 print("=======================================")
@@ -89,7 +89,8 @@ def sms_main():
                 print("2 -> Show a password from a save file.")
                 print("3 -> Show all passwords from a save file.")
                 print("4 -> About this program.")
-                print("5 -> Quit program.")
+                print("5 -> Change a password to a save file.")
+                print("6 -> Quit program.")
                 print("")
                 optionpwd_manager = int(input("Select option : "))
                 if optionpwd_manager == 1:
@@ -160,7 +161,7 @@ def sms_main():
 
                 elif optionpwd_manager == 3:
                     print("")
-                    fileallopen = input("Please enter a valid file name path. The format must be full with the drive name included (learn more with option 4)! If this is not respected, this program will/could terminate with the main program: ")
+                    fileallopen = input("Please enter a valid file name path. The format must be full with the drive name included if the file in question is not in the same directory as the one this program is in. If this is not respected, this program will/could terminate with the main program: ")
                     if fileallopen == "":
                         fileallopen = "pwd_openscs.pwd"
                         passall0 = open(fileallopen,"r")
@@ -215,8 +216,23 @@ def sms_main():
                     print("")
                     input("Press enter to continue...")
                     print("")
-
-                elif optionpwd_manager == 5:
+                elif optionpwd_manager == 5: 
+                    filedels = input("Please enter a valid file name path. The format must be full with the drive name included if the file in question is not in the same directory as the one this program is in. If this is not respected, this program will/could terminate with the main program: ")
+                    sets1 = input("Enter SET name to change : ")
+    
+                    with open(filedels,"r") as readpwd:
+                        r1 = readpwd.readlines()
+                        for b in range(len(r1)):
+                            if r1[b].strip("\n").split(" -> ")[0] == sets1:
+                                setnarme = r1[b].strip("\n").split(" -> ")[0] + " -> "
+                                newpwd = input("Enter new password : ")
+                                newsetpwd = setnarme + newpwd + "\n"
+                                r1[b] = newsetpwd
+                    with open(filedels,"w") as changepwd:
+                        for a in range(len(r1)):
+                            changepwd.writelines(r1[a])
+                    print("Save completed with no disk errors. Returning to main menu...")
+                elif optionpwd_manager == 6:
                     print("")
                     print("Saving data to main program. Please wait...")
                     time.sleep(3)
@@ -301,7 +317,11 @@ def sms_main():
             print("")
             print("Thank you for reporting! We will try our best to make our program better!")
             print("")
-
+        elif option == 6:
+            print("")
+            print("We hope that this program was useful for your use case!")
+            input("Please press the Enter key to exit this program.")
+            exit()
 name_for_check = input("Enter your name for a reCAPTCHA bot scan (You can learn more after with option 1 in the main menu): ")
 if name_for_check == '_BrStd1':
     print()
