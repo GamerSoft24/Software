@@ -321,7 +321,7 @@ try:
             elif option == 6:
                 print("")
                 print("We hope that this program was useful for your use case!")
-                input("Please press the Enter key to exit this program.")
+                input("Press enter to exit this program.")
                 exit()
     name_for_check = input("Enter your name for a reCAPTCHA bot scan (You can learn more after with option 1 in the main menu): ")
     if name_for_check == '_BrStd1':
@@ -333,22 +333,23 @@ try:
         print()
         print("Checking your connection with reCAPTCHA v3...")
         time.sleep(2)
-        input("All clear. Free to go! Enjoy!")
+        input("All clear, free to go! Enjoy!")
         print()
         sms_main()
+        
 except FileNotFoundError:
-    print("ERROR : 6510B\nThe file specified was not found. Please make sure you have the correct file and that the path is valid.")
-    input("Press ENTER to return to the program.")
+    print("Error: 6510B\nThe file specified was not found. Please make sure you have the correct file and that the path is valid.")
+    input("Press enter to return to the program.")
     sms_main()
 except ValueError:
-    print("ERROR : 0211\nYou have entered the wrong value. When asked for a value, please input the CORRECT value that is demanded(e.g length = number.)")
-    input("Press ENTER to return to the program.")
+    print("Error: 0211\nYou have entered the wrong value. When asked for a value, please input the CORRECT value that is demanded(e.g length = number.)")
+    input("Press enter to return to the program.")
     sms_main()
 except KeyboardInterrupt:
     exit()
 except EOFError:
     exit()
 except BaseException:
-    print("ERROR : 770A\nA random exception occured.")
-    input("Press ENTER to return to the program.")
+    print("Error: 770A\nA random exception occured.")
+    input("Press enter to return to the program.")
     sms_main()
