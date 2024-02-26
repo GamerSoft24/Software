@@ -37,7 +37,7 @@ cls
 set /p chrome_path="Enter your browser path (e.g: C:\Progra~2\Google\Chrome\Application\chrome.exe): "
 set /p userdata_dir_path="Enter the User Data DIR path: "
 set /p version_chrome="Enter Chrome version to open (any number from 1-current release, e.g. 86, 120, 121,...): "
-start "" "%browser_path%" --user-data-dir="%userdata_dir_path%" --disable-infobars  --no-sandbox  --ignore-certificate-errors --disable-logging --no-default-browser-check --disable-component-update --disable-background-networking --allow-outdated-plugins --cipher-suite-blacklist=0xcc14,0xe013 --ignore-certificate-errors --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/%version_chrome%.0.0.0 Safari/537.36"
+start "" "%browser_path%" --user-data-dir="%userdata_dir_path%" --disable-infobars  --no-sandbox  --ignore-certificate-errors --disable-logging --no-default-browser-check --disable-component-update --disable-background-networking --allow-outdated-plugins --cipher-suite-blacklist=0xcc14,0xe013 --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/%version_chrome%.0.0.0 Safari/537.36"
 echo.
 goto start
 :STARTCMD
