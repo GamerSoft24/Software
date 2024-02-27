@@ -1,0 +1,1 @@
+We are currently working had to find a way to upload Git Bash SCM's installers to this `Software` repository. Please be patient!
