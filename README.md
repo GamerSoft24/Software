@@ -39,7 +39,7 @@ This is **where** I will be *storing all* of ***my*** Batchfile codes.
 
 ## InstallerSoft:
 
-This is **where** I will be *storing all* of ***my*** programs' installers.
+This is **where** I will be *storing all* of ***my*** programs' (and games') installers.
 
 *For* **direct URL access**, this is it: [Click here!](https://github.com/GamerSoft24/Software/tree/BrowserSoft-v2%2BInstallerSoftware-creation/InstallerSoft)
 
