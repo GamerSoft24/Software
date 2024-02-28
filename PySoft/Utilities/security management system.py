@@ -2,7 +2,7 @@ try:
     import random,time
     length = 20
     print("*****|THE SECURITY MANAGEMENT SYSTEM|*****")
-    print("Program version: 4.37.4.")
+    print("Program version: 5.21.2.")
     print("")
     print("This program and all of its accessible programs are open-source programs so you can share it anywhere on the internet, copy it on USB/CD/DVD or other medias or remix/edit it. It would still be nice if you mention in your copy GamerSoft24 and/or Okmeque1 so that the original code is not lost to time.")
     print("")
