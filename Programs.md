@@ -109,7 +109,7 @@
 
 1 -> [360AFChrome v13.5.2036r1:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-2036r1af/360AFChrome%20v13.5.2036r1.exe) Latest version of 360AFChrome, version 13.5.2036 revision 1. Works on Windows XP-11 and has it set by default to Google search.
 
-2 -> [360AFChrome v13.5.1030:]([https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af/360AFChrome%20v13.5.1030.exe) Original version of 360AFChrome, version 13.5.1030. Includes original(360afchrome.exe) and 360AF9(360AFChrome v13.5.1030 revision 9). Works on Windows XP-11 and has it set by default to Google search. Note that 360AF9 will start with error pages due to a bug in this revision.
+2 -> [360AFChrome v13.5.1030:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af/360AFChrome%20v13.5.1030.exe) Original version of 360AFChrome, version 13.5.1030. Includes original(360afchrome.exe) and 360AF9(360AFChrome v13.5.1030 revision 9). Works on Windows XP-11 and has it set by default to Google search. Note that 360AF9 will start with error pages due to a bug in this revision.
 
 3 -> [360AFChrome v13.5.1030r5:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af5/360AFChrome%20v13.5.1030r5.exe) 360AFChrome version 13.5.1030 revision 5. Works on Windows XP-11 and has it set by default to google search.
 
