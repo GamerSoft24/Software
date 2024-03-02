@@ -137,3 +137,20 @@
 
 [**Git Software**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Git)
 
+1 -> [Git SCM(Source Code Management):](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Git/Git%20Bash%20SCM%20(Source%20Code%20Management)/v2.44.0) Git Terminal for all of your pushing and pulling needs. Use the 32-bit exe is your system is not x64 compatible
+
+2 -> [Git LFS(Large File Storage):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Git/Git%20LFS%20(Large%20File%20Storage)/v3.4.1/git-lfs-windows-v3.4.1.exe) Git Large file storage for pushing and pulling files over 100MB.
+
+3 -> [Git CLI(Command Line Interface):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/GitHub%20CLI/v2.44.1/gh_2.44.1_windows_amd64.msi) Git Command Line interface, is there more that you don't understand?
+
+[**Google Chrome**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Google%20Chrome)
+
+1 -> [Chrome Beta:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeBetaSetup.exe) Latest version of Chrome Beta. Might have stability and compatability issues
+
+2 -> [Chrome Dev:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeDevSetup.exe) Latest version of Chrome Developer. Use if you want to make a new extension or develop a web application
+
+3 -> [Chrome:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeSetup.exe) Regular ol'Chrome. Not much to say apart that it's much more modern than 360Chrome. Just don't use it on Windows 7...
+
+[**MicroSoft Edge**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge)
+
+1 -> [Microsoft Edge:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge/MicrosoftEdgeSetup.exe) The browser that many like, many hate. 
