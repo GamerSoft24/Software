@@ -179,13 +179,13 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 1 -> [Python 2.5:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Python/v2.5/python-2.5.amd64.msi) Use this only if you have a system running Windows 98. Not recommended for most developement environments. Most programs from [PySoft](https://github.com/GamerSoft24/tree/main/PySoft) will not run.
 
-2 -> [Python 3.10.0:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python/v3.10.0) Python version 3.10.0. Not compatible with Windows 7 or older. Use the 32-bit exe if your system is not x64 compatible
+2 -> [Python 3.10.0:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python/v3.10.0) Python version 3.10.0. Not compatible with Windows 7 or older. Use the 32-bit exe if your system is not x64 compatible.
 
 3 -> [Python 3.12.2:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Python/v3.12.2/python-3.12.2-amd64.exe) Python version 3.12.2. Not compatible with Windows 7 or older. Latest version of Python for this repository. This release is 64-bit only.
 
-4 -> [Python 3.4.4:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python/v3.4.4) Python version 3.4.4. Last version of Python 3 to support Windows XP(SP3+ only). Does not support modern modules. Only use this if you are running Windows XP.
+4 -> [Python 3.4.4:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python/v3.4.4) Python version 3.4.4. Last version of Python 3 to support Windows XP (SP3+ only). Does not support modern modules. Only use this if you are running Windows XP.
 
-5 -> [Python 3.8.0:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Python/v3.8.0/python-3.8.0-amd64.exe) Python version 3.8.0. Last version to support Windows 7(RTM-SP1). Mostly works, just global variables are a bit of a headache...This release is 64-bit only.
+5 -> [Python 3.8.0:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Python/v3.8.0/python-3.8.0-amd64.exe) Python version 3.8.0. Last version to support Windows 7 (RTM-SP1). Mostly works, just global variables are a bit of a headache... This release is 64-bit only.
 
 6 -> [Python 3.9.6:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python/v3.9.6) Python version 3.9.6. Can't say much honestly apart from use the 32-bit exe if your system is not x64 compatible.
 
@@ -249,4 +249,4 @@ Choose your language from the folders then either download the installer or down
 
 [**VLC:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS/VLC%20Media%20Player)
 
-1 -> [VLC Media Player:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS/VLC%20Media%20Player) The video player we all know and love, from VideoLan. Download the Apple Silicon version if you have an M series chip (M1,M2,M3,...) or the Intel Chip version if you have an Intel processor.
+1 -> [VLC Media Player:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS/VLC%20Media%20Player) The video player we all know and love, from VideoLan. Download the Apple Silicon version if you have an M series chip (M1, M2, M3,...) or the Intel Chip version if you have an Intel processor (i5-14600K).
