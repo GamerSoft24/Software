@@ -105,11 +105,11 @@
 
 ### [Windows:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows)
 
-**WARNING! Any programs not listed specifically having a 32-bit version may not run on a 32-bit Windows.**
+**WARNING! Any programs not listed specifically having a 32-bit (x32) version may not run on a 32-bit Windows computer.**
 
 [**360Chrome or/and 360AFChrome:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/360Chrome)
 
-All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows
+All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers.
 
 1 -> [360AFChrome v13.5.2036r1:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-2036r1af/360AFChrome%20v13.5.2036r1.exe) Latest version of 360AFChrome, version 13.5.2036 revision 1. Works on Windows XP-11 and has it set by default to Google search.
 
@@ -191,7 +191,7 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows
 
 [**Roblox:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Roblox)
 
-1 -> [Roblox:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Roblox/RobloxPlayerInstaller.exe) kind of hate the installer and the error messages are awful. If any roblox devs come across this, at least use the [error chart](https://github.com/GamerSoft24/Software/blob/Main/Errors%20chart.md) or some form of error code as troubleshooting is way too hard.
+1 -> [Roblox:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Roblox/RobloxPlayerInstaller.exe) Okmeque1 kind of hates this installer and thinks that the error messages are awful. If any Roblox Devs come across this, at least use the [Error chart](https://github.com/GamerSoft24/Software/blob/Main/Errors%20chart.md) or some form of error code as troubleshooting is way too hard.
 
 [**TeamViewer:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/TeamViewer)
 
@@ -227,10 +227,24 @@ Choose your language from the folders then either download the installer or down
 
 [**VLC:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/VLC%20Media%20Player)
 
-1 -> [VLC Video Player:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/VLC%20Media%20Player) The video player we all know and love, from VideoLan.
+1 -> [VLC Media Player:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/VLC%20Media%20Player/) The video player we all know and love, from VideoLan. Choose 64-bit or 32-bit depending on your computer.
 
 [**Visual Studio Code:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Visual%20Studio%20Code/v1.86.2)
 
 1 -> [v1.86.2:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Visual%20Studio%20Code/v1.86.2/VSCodeUserSetup-x64-1.86.2.exe) Visual Studio Code. A good editor from Microsoft. This version does not support Windows 7
 
 2 -> [v1.70:](addlink) Visual Studio code version 1.70. This is the last version of Visual Studio code to support Windows 7. Link does not work, lemme grab the installer/
+
+### [macOS:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS)
+
+[**Minecraft:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/macOS/Minecraft)
+
+1 -> [Minecraft:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/macOS/Minecraft/Minecraft.dmg) Not sure it's a kid's game or not, but we all played it during the lockdown.
+
+[**Roblox:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/macOS/Roblox)
+
+1 -> [Roblox:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/macOS/Roblox/Roblox.dmg) Okmeque1 kind of hates this installer and thinks that the error messages are awful. If any Roblox Devs come across this, at least use the [Error chart](https://github.com/GamerSoft24/Software/blob/Main/Errors%20chart.md) or some form of error code as troubleshooting is way too hard.
+
+[**VLC:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS/VLC%20Media%20Player)
+
+1 -> [VLC Media Player:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS/VLC%20Media%20Player) The video player we all know and love, from VideoLan. Download the Apple Silicon version or the Intel Chip version, depending on your computer.
