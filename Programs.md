@@ -100,3 +100,40 @@
 ### [Windows](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft/Windows)/[UAC](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft/Windows/UAC):
 
 1 -> [UAC Bypass (uac bypass.bat):](https://github.com/GamerSoft24/Software/blob/Main/BatchSoft/Windows/UAC/uac%20bypass.bat) Drag a file/installer with the security shield tag over "uac bypass.bat" and wait for command to complete and the file/installer will open without prompting the UAC window. Be aware that some files/installers will not be able to open in this way due to an administrator opening requirement.
+
+## [InstallerSoft:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft)
+
+### [Windows:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows)
+
+[**360Chrome/360AFChrome**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/360Chrome)
+
+1 -> [360AFChrome v13.5.2036r1:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-2036r1af/360AFChrome%20v13.5.2036r1.exe) Latest version of 360AFChrome, version 13.5.2036 revision 1. Works on Windows XP-11 and has it set by default to Google search.
+
+2 -> [360AFChrome v13.5.1030:]([https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af/360AFChrome%20v13.5.1030.exe) Original version of 360AFChrome, version 13.5.1030. Includes original(360afchrome.exe) and 360AF9(360AFChrome v13.5.1030 revision 9). Works on Windows XP-11 and has it set by default to Google search. Note that 360AF9 will start with error pages due to a bug in this revision.
+
+3 -> [360AFChrome v13.5.1030r5:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af5/360AFChrome%20v13.5.1030r5.exe) 360AFChrome version 13.5.1030 revision 5. Works on Windows XP-11 and has it set by default to google search.
+
+4 -> [360Chrome v13.0.2310:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360Chrome/360ChromeSetup.exe) 360Chrome version 13.0.2310. This is the Humming Owl edition, stripped of telemetry. Works on Windows XP-11 and has it set by default to Google search. More resource-intensive than 360AFChrome. 
+
+[**7-Zip File Manager**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/7-Zip)
+
+1 -> [7-Zip v22.01:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/7-Zip/v22.01) Version 22.01 of the 7-Zip file manager. Can unzip .zip, .rar and .7z formats. Use the 32-bit exe if your system is not x64 compatible.
+
+2 -> [7-Zip v23.01:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/7-Zip/v23.01) Version 23.01 of the 7-Zip file manager. Can unzip .zip, .rar and .7z formats. Use the 32-bit exe if your system is not x64 compatible. Latest version of 7-Zip for this repository
+
+3 -> [7-Zip v24.01(BETA):](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/7-Zip/v24.01beta) Version 24.01 of the 7-Zip file manager. Can unzip .zip, .rar and .7z formats. Use the 32-bit exe if your system is not x64 compatible. Beta release might have compatability and stability issues
+
+4 -> [7-Zip v4.57(OLD):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/7-Zip/v4.57old/7z4.57.exe) Version 4.57 of the 7-Zip file manager. 32-bit only. Works great for Windows 98.
+
+[**CrystalMark Software**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/CrystalMark)
+
+1 -> [CrystalDiskInfo v8.17.14:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/CrystalMark/CrystalDiskInfo8_17_14.exe) Version 8.17.14 of the CrystalDiskInfo software. Can read drive S.M.A.R.T data and predict drive failures.
+
+2 -> [CystalDiskMark v8.0.4c:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/CrystalMark/CrystalDiskMark8_0_4c.exe) Version 8.0.4 revision C of the CrystalDiskMark disk benchmarking software. Can tell you how fast your hard disk is.
+
+[**Discord**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Discord)
+
+1 -> [Discord:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Discord/DiscordSetup.exe) Discord, what else is there to say?
+
+[**Git Software**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Git)
+
