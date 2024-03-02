@@ -105,7 +105,7 @@
 
 ### [Windows:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows)
 
-**WARNING! Any programs not listed specifically having a 32-bit (x32) version may not run on a 32-bit Windows computer.**
+**WARNING! Any programs not listed specifically having a 32-bit (x86) version may not run on a 32-bit Windows computer.**
 
 [**360Chrome or/and 360AFChrome:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/360Chrome)
 
@@ -248,3 +248,21 @@ Choose your language from the folders then either download the installer or down
 [**VLC:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS/VLC%20Media%20Player)
 
 1 -> [VLC Media Player:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS/VLC%20Media%20Player) The video player we all know and love, from VideoLan. Download the Apple Silicon version or the Intel Chip version, depending on your computer.
+
+### [macOS:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/macOS)
+
+**WARNING! Programs may not run on certain versions of macOS. Please check your version of macOS to make sure it is compatible with the application you are downloading.**
+
+**WARNING 2! There are not many installers, but we are working our hardest to find some and add to our ever growing collection.**
+
+[**Minecraft:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/macOS/Minecraft)
+
+1 -> [Minecraft:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/macOS/Minecraft/Minecraft.dmg) Not sure it's a kid's game or not, but we all played it during the lockdown.
+
+[**Roblox:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/macOS/Roblox)
+
+1 -> [Roblox:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/macOS/Roblox/Roblox.dmg) Okmeque1 kind of hates this installer and thinks that the error messages are awful. If any Roblox Devs come across this, at least use the [Error chart](https://github.com/GamerSoft24/Software/blob/Main/Errors%20chart.md) or some form of error code as troubleshooting is way too hard.
+
+[**VLC:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS/VLC%20Media%20Player)
+
+1 -> [VLC Media Player:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS/VLC%20Media%20Player) The video player we all know and love, from VideoLan. Use the apple_silicon.dmg if your Mac has an M series chip(M1,M2,M3). Use the intel.dmg if your computer has an intel processor.
