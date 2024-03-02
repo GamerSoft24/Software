@@ -111,7 +111,7 @@
 
 2 -> [360AFChrome v13.5.1030:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af/360AFChrome%20v13.5.1030.exe) Original version of 360AFChrome, version 13.5.1030. Includes original(360afchrome.exe) and 360AF9(360AFChrome v13.5.1030 revision 9). Works on Windows XP-11 and has it set by default to Google search. Note that 360AF9 will start with error pages due to a bug in this revision.
 
-3 -> [360AFChrome v13.5.1030r5:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af5/360AFChrome%20v13.5.1030r5.exe) 360AFChrome version 13.5.1030 revision 5. Works on Windows XP-11 and has it set by default to google search.
+3 -> [360AFChrome v13.5.1030r5:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af5/360AFChrome%20v13.5.1030r5.exe) 360AFChrome version 13.5.1030 revision 5. Works on Windows XP-11 and has it set by default to Google search.
 
 4 -> [360Chrome v13.0.2310:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360Chrome/360ChromeSetup.exe) 360Chrome version 13.0.2310. This is the Humming Owl edition, stripped of telemetry. Works on Windows XP-11 and has it set by default to Google search. More resource-intensive than 360AFChrome. 
 
@@ -121,9 +121,9 @@
 
 2 -> [7-Zip v23.01:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/7-Zip/v23.01) Version 23.01 of the 7-Zip file manager. Can unzip .zip, .rar and .7z formats. Use the 32-bit exe if your system is not x64 compatible. Latest version of 7-Zip for this repository
 
-3 -> [7-Zip v24.01(BETA):](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/7-Zip/v24.01beta) Version 24.01 of the 7-Zip file manager. Can unzip .zip, .rar and .7z formats. Use the 32-bit exe if your system is not x64 compatible. Beta release might have compatability and stability issues
+3 -> [7-Zip v24.01beta:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/7-Zip/v24.01beta) Version 24.01 of the 7-Zip file manager. Can unzip .zip, .rar and .7z formats. Use the 32-bit exe if your system is not x64 compatible. Beta release might have compatibility and stability issues
 
-4 -> [7-Zip v4.57(OLD):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/7-Zip/v4.57old/7z4.57.exe) Version 4.57 of the 7-Zip file manager. 32-bit only. Works great for Windows 98.
+4 -> [7-Zip v4.57old:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/7-Zip/v4.57old/7z4.57.exe) Version 4.57 of the 7-Zip file manager. 32-bit only. Works great for Windows 98.
 
 [**CrystalMark Software**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/CrystalMark)
 
@@ -137,20 +137,20 @@
 
 [**Git Software**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Git)
 
-1 -> [Git SCM(Source Code Management):](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Git/Git%20Bash%20SCM%20(Source%20Code%20Management)/v2.44.0) Git Terminal for all of your pushing and pulling needs. Use the 32-bit exe is your system is not x64 compatible
+1 -> [Git SCM (Source Code Management):](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Git/Git%20Bash%20SCM%20(Source%20Code%20Management)/v2.44.0) Git Terminal for all of your pushing and pulling needs. Use the 32-bit exe if your system is not x64 compatible
 
-2 -> [Git LFS(Large File Storage):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Git/Git%20LFS%20(Large%20File%20Storage)/v3.4.1/git-lfs-windows-v3.4.1.exe) Git Large file storage for pushing and pulling files over 100MB.
+2 -> [Git LFS (Large File Storage):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Git/Git%20LFS%20(Large%20File%20Storage)/v3.4.1/git-lfs-windows-v3.4.1.exe) Git Large file storage for pushing and pulling files over 100MB.
 
-3 -> [Git CLI(Command Line Interface):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/GitHub%20CLI/v2.44.1/gh_2.44.1_windows_amd64.msi) Git Command Line interface, is there more that you don't understand?
+3 -> [Git CLI (Command Line Interface):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/GitHub%20CLI/v2.44.1/gh_2.44.1_windows_amd64.msi) Git Command Line interface, is there more that you don't understand?
 
 [**Google Chrome**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Google%20Chrome)
 
-1 -> [Chrome Beta:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeBetaSetup.exe) Latest version of Chrome Beta. Might have stability and compatability issues
+1 -> [Chrome Beta:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeBetaSetup.exe) Latest version of Chrome Beta. Might have stability and compatibility issues
 
 2 -> [Chrome Dev:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeDevSetup.exe) Latest version of Chrome Developer. Use if you want to make a new extension or develop a web application
 
-3 -> [Chrome:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeSetup.exe) Regular ol'Chrome. Not much to say apart that it's much more modern than 360Chrome. Just don't use it on Windows 7...
+3 -> [Chrome:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeSetup.exe) Regular ol' Chrome. Not much to say apart that it's much more modern than 360Chrome. Just don't use it on Windows 7 and older...
 
-[**MicroSoft Edge**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge)
+[**Microsoft Edge**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge)
 
-1 -> [Microsoft Edge:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge/MicrosoftEdgeSetup.exe) The browser that many like, many hate. 
+1 -> [Microsoft Edge:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge/MicrosoftEdgeSetup.exe) The browser that many like, many hate, from Microsoft. 
