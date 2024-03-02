@@ -105,7 +105,11 @@
 
 ### [Windows:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows)
 
+**WARNING! Any programs not listed specifically having a 32-bit version may not run on a 32-bit Windows.**
+
 [**360Chrome or/and 360AFChrome:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/360Chrome)
+
+All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows
 
 1 -> [360AFChrome v13.5.2036r1:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-2036r1af/360AFChrome%20v13.5.2036r1.exe) Latest version of 360AFChrome, version 13.5.2036 revision 1. Works on Windows XP-11 and has it set by default to Google search.
 
@@ -133,7 +137,7 @@
 
 [**Discord:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Discord)
 
-1 -> [Discord:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Discord/DiscordSetup.exe) Long loved Discord, what else is there to say?
+1 -> [Discord:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Discord/DiscordSetup.exe) Long loved Discord, what else is there to say? Maybe don't run it on a 32-bit OS
 
 [**Git:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Git)
 
@@ -154,3 +158,79 @@
 [**Microsoft Edge:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge)
 
 1 -> [Microsoft Edge:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge/MicrosoftEdgeSetup.exe) The browser that many like, many hate, from Microsoft. 
+
+[**Minecraft:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Minecraft)
+
+1 -> [Minecraft:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Minecraft/MinecraftInstaller.exe) Not sure it's a kid's game or not, but we all played it during the lockdown.
+
+[**NSIS(NullSoft Scriptable Install System):**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/NSIS%20(Nullsoft%20Scriptable%20Install%20System))
+
+1 -> [NSIS v2.48:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/NSIS%20(Nullsoft%20Scriptable%20Install%20System)/v2.48/nsis-2.48-setup.exe) Version 2.48 of the NullSoft Scriptable Install System. Can do NSIS scripts as well as Zip2EXE which transforms your .zip archive into a nice GUI installer.
+
+2 -> [NSIS v3.09:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/NSIS%20(Nullsoft%20Scriptable%20Install%20System)/v3.09/nsis-3.09-setup.exe) Version 3.09 of the NullSoft Scriptable Install System. Can do NSIS scripts as well as Zip2EXE which transforms your .zip archive into a nice GUI installer. Latest version of NSIS for this repository.
+
+[**Notepad++:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Notepad%2B%2B)
+
+1 -> [Notepad++ v8.6.4:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Notepad%2B%2B/v8.6.4) Version 8.6.4 of the Notepad++ general/code editor. Use the 32-bit exe if your system is not x64 compatible. Latest version of notepad++ for this repository
+
+2 -> [Notepad++ v8.6:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Notepad%2B%2B/v8.6) Version 8.6 of the Notepad++ general/code editor. Use the 32-bit exe if your system is not x64 compatible.
+
+[**Python:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python)
+
+1 -> [Python 2.5:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Python/v2.5/python-2.5.amd64.msi) Use this only if you have a system running Windows 98. Not recommended for most developement environments. Most programs from [PySoft](https://github.com/GamerSoft24/tree/main/PySoft) will not run.
+
+2 -> [Python 3.10.0:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python/v3.10.0) Python version 3.10.0. Not compatible with Windows 7 or older. Use the 32-bit exe if your system is not x64 compatible
+
+3 -> [Python 3.12.2:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Python/v3.12.2/python-3.12.2-amd64.exe) Python version 3.12.2. Not compatible with Windows 7 or older. Latest version of Python for this repository. This release is 64-bit only.
+
+4 -> [Python 3.4.4:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python/v3.4.4) Python version 3.4.4. Last version of Python 3 to support Windows XP(SP3+ only). Does not support modern modules. Only use this if you are running Windows XP.
+
+5 -> [Python 3.8.0:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Python/v3.8.0/python-3.8.0-amd64.exe) Python version 3.8.0. Last version to support Windows 7(RTM-SP1). Mostly works, just global variables are a bit of a headache...This release is 64-bit only.
+
+6 -> [Python 3.9.6:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python/v3.9.6) Python version 3.9.6. Can't say much honestly apart from use the 32-bit exe if your system is not x64 compatible.
+
+[**Roblox:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Roblox)
+
+1 -> [Roblox:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Roblox/RobloxPlayerInstaller.exe) kind of hate the installer and the error messages are awful. If any roblox devs come across this, at least use the [error chart](https://github.com/GamerSoft24/Software/blob/Main/Errors%20chart.md) or some form of error code as troubleshooting is way too hard.
+
+[**TeamViewer:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/TeamViewer)
+
+-> [v14.7.48671:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/TeamViewer/v14.7.48671)
+
+1 -> [Full Client:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/TeamViewer/v14.7.48671/Full%20Client/TeamViewer_Full_Setup_x86-32bit.exe) TeamViewer with all of its goodness...
+
+2 -> [Host:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/TeamViewer/v14.7.48671/Host/TeamViewer_Host_Setup_x86-32bit.exe) Probably for business owners...
+
+3 -> [Portable:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/TeamViewer/v14.7.48671/Portable) Choose your preferred file format and put it on a USB, ready to plug it in any Windows computers.
+
+4 -> [QuickJoin:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/TeamViewer/v14.7.48671/QuickJoin/TeamViewerQJ_x86-32bit.exe) Don't ask me what this is...
+
+5 -> [QuickSupport:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/TeamViewer/v14.7.48671/QuickSupport/TeamViewerQS_x86-32bit.exe) Either for receiving tech support or giving tech support.
+
+-> [v15.51.5:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/TeamViewer/v15.51.5)
+
+1 -> [Full Client:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/TeamViewer/v15.51.5/Full%20Client) TeamViewer with all of its goodness, but now up to date. Use the 32-bit exe if your system is not x64 compatible.
+
+2 -> [Host:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/TeamViewer/v15.51.5/Host) Probably for business owners. They would use this one as it is more up to date. Use the 32-bit exe if your system is not x64 compatible
+
+3 -> [Meeting:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/TeamViewer/v15.51.5/Meeting/TeamViewer_Meeting_Setup_x64.exe) oooh, TeamViewer wants to compete with Zoom? Anyways this release is 64-bit only.
+
+4 -> [QuickSupport:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/TeamViewer/v15.51.5/QuickSupport) Either for receiving tech support or giving tech support. Use the 32-bit exe if your system is not x64 compatible.
+
+[**Twinkle Tray Monitor Brightness Slider:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Twinkle%20Tray%20Monitor%20Brightness%20Slider/v1.15.4)
+
+1 -> [Twinkle Tray:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Twinkle%20Tray%20Monitor%20Brightness%20Slider/v1.15.4/Twinkle.Tray.v1.15.4.exe) A nice software that lets you adjust your monitor brightness. Your monitor needs to have DCI control in order for this program to function. Windows 10+ Only. Neat.
+
+[**UltraEdit**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/UltraEdit)
+
+Choose your language from the folders then either download the installer or download the zip and unzip it yourself. Couldn't be bothered to do one for each language.
+
+[**VLC:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/VLC%20Media%20Player)
+
+1 -> [VLC Video Player:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/VLC%20Media%20Player) The video player we all know and love, from VideoLan.
+
+[**Visual Studio Code:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Visual%20Studio%20Code/v1.86.2)
+
+1 -> [v1.86.2:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Visual%20Studio%20Code/v1.86.2/VSCodeUserSetup-x64-1.86.2.exe) Visual Studio Code. A good editor from Microsoft. This version does not support Windows 7
+
+2 -> [v1.70:](addlink) Visual Studio code version 1.70. This is the last version of Visual Studio code to support Windows 7. Link does not work, lemme grab the installer/
