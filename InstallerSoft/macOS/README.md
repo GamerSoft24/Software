@@ -1,1 +1,1 @@
-We are finding installers to upload to this `Software` repository. Please be patient!
+We are currently finding installers to upload to this `Software` repository. Please be patient!
