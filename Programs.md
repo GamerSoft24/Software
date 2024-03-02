@@ -163,7 +163,7 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows
 
 1 -> [Minecraft:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Minecraft/MinecraftInstaller.exe) Not sure it's a kid's game or not, but we all played it during the lockdown.
 
-[**NSIS(NullSoft Scriptable Install System):**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/NSIS%20(Nullsoft%20Scriptable%20Install%20System))
+[**NSIS (NullSoft Scriptable Install System):**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/NSIS%20(Nullsoft%20Scriptable%20Install%20System))
 
 1 -> [NSIS v2.48:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/NSIS%20(Nullsoft%20Scriptable%20Install%20System)/v2.48/nsis-2.48-setup.exe) Version 2.48 of the NullSoft Scriptable Install System. Can do NSIS scripts as well as Zip2EXE which transforms your .zip archive into a nice GUI installer.
 
