@@ -105,7 +105,7 @@
 
 ### [Windows:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows)
 
-[**360Chrome/360AFChrome**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/360Chrome)
+[**360Chrome or/and 360AFChrome:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/360Chrome)
 
 1 -> [360AFChrome v13.5.2036r1:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-2036r1af/360AFChrome%20v13.5.2036r1.exe) Latest version of 360AFChrome, version 13.5.2036 revision 1. Works on Windows XP-11 and has it set by default to Google search.
 
@@ -115,7 +115,7 @@
 
 4 -> [360Chrome v13.0.2310:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360Chrome/360ChromeSetup.exe) 360Chrome version 13.0.2310. This is the Humming Owl edition, stripped of telemetry. Works on Windows XP-11 and has it set by default to Google search. More resource-intensive than 360AFChrome. 
 
-[**7-Zip File Manager**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/7-Zip)
+[**7-Zip:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/7-Zip)
 
 1 -> [7-Zip v22.01:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/7-Zip/v22.01) Version 22.01 of the 7-Zip file manager. Can unzip .zip, .rar and .7z formats. Use the 32-bit exe if your system is not x64 compatible.
 
@@ -125,32 +125,32 @@
 
 4 -> [7-Zip v4.57old:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/7-Zip/v4.57old/7z4.57.exe) Version 4.57 of the 7-Zip file manager. 32-bit only. Works great for Windows 98.
 
-[**CrystalMark Software**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/CrystalMark)
+[**CrystalMark**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/CrystalMark)
 
 1 -> [CrystalDiskInfo v8.17.14:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/CrystalMark/CrystalDiskInfo8_17_14.exe) Version 8.17.14 of the CrystalDiskInfo software. Can read drive S.M.A.R.T data and predict drive failures.
 
 2 -> [CystalDiskMark v8.0.4c:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/CrystalMark/CrystalDiskMark8_0_4c.exe) Version 8.0.4 revision C of the CrystalDiskMark disk benchmarking software. Can tell you how fast your hard disk is.
 
-[**Discord**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Discord)
+[**Discord:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Discord)
 
-1 -> [Discord:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Discord/DiscordSetup.exe) Discord, what else is there to say?
+1 -> [Discord:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Discord/DiscordSetup.exe) Long loved Discord, what else is there to say?
 
-[**Git Software**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Git)
+[**Git:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Git)
 
 1 -> [Git SCM (Source Code Management):](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Git/Git%20Bash%20SCM%20(Source%20Code%20Management)/v2.44.0) Git Terminal for all of your pushing and pulling needs. Use the 32-bit exe if your system is not x64 compatible
 
-2 -> [Git LFS (Large File Storage):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Git/Git%20LFS%20(Large%20File%20Storage)/v3.4.1/git-lfs-windows-v3.4.1.exe) Git Large file storage for pushing and pulling files over 100MB.
+2 -> [Git LFS (Large File Storage):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Git/Git%20LFS%20(Large%20File%20Storage)/v3.4.1/git-lfs-windows-v3.4.1.exe) Git Large file storage for pushing and pulling files over 25MB.
 
-3 -> [Git CLI (Command Line Interface):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/GitHub%20CLI/v2.44.1/gh_2.44.1_windows_amd64.msi) Git Command Line interface, is there more that you don't understand?
+3 -> [Git CLI (Command Line Interface):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/GitHub%20CLI/v2.44.1/gh_2.44.1_windows_amd64.msi) Git Command Line interface, no more.
 
-[**Google Chrome**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Google%20Chrome)
+[**Google Chrome:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Google%20Chrome)
 
 1 -> [Chrome Beta:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeBetaSetup.exe) Latest version of Chrome Beta. Might have stability and compatibility issues
 
-2 -> [Chrome Dev:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeDevSetup.exe) Latest version of Chrome Developer. Use if you want to make a new extension or develop a web application
+2 -> [Chrome Dev:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeDevSetup.exe) Latest version of Chrome Developer. Use if you want to make a new extension or develop a web application.
 
 3 -> [Chrome:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeSetup.exe) Regular ol' Chrome. Not much to say apart that it's much more modern than 360Chrome. Just don't use it on Windows 7 and older...
 
-[**Microsoft Edge**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge)
+[**Microsoft Edge:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge)
 
 1 -> [Microsoft Edge:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge/MicrosoftEdgeSetup.exe) The browser that many like, many hate, from Microsoft. 
