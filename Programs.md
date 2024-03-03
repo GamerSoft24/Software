@@ -197,6 +197,7 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 [**OBS Studio:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/OBS)
 
+1 -> [OBS Studio v27.01:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/OBS/v27.01/OBS-Studio-27.0.1-Full-Installer-x86.exe) Version 27.01 of the Open Broadcasting Software. Can screenrecord and stream to Youtube. Last version to support Windows 7.
 
 [**Python:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python)
 
@@ -256,7 +257,11 @@ Choose your language from the folders then either download the installer or down
 
 1 -> [v1.86.2:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Visual%20Studio%20Code/v1.86.2/VSCodeUserSetup-x64-1.86.2.exe) Visual Studio Code. A good editor from Microsoft. This version does not support Windows 7
 
-2 -> [v1.70:](addlink) Visual Studio code version 1.70. This is the last version of Visual Studio code to support Windows 7. Link does not work, lemme grab the installer/
+2 -> [v1.70:]([addlink](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Visual%20Studio%20Code/v1.70.0/VSCodeUserSetup-x64-1.70.2.exe)) Visual Studio code version 1.70. This is the last version of Visual Studio code to support Windows 7.
+
+[**WinAero Tweaker:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/WinAero%20Tweaker)
+
+1 -> [WinAeroTweaker v1.62.1.0:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/WinAero%20Tweaker/WinaeroTweaker-1.62.1.0-setup.exe) WinAero Tweaker. Can remove unnecessary features from Windows 10 and 11 and de-bloat your system. Useful if you have a potato.
 
 ### [macOS:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS)
 
