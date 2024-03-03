@@ -151,7 +151,7 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 1 -> [Chrome Beta:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeBetaSetup.exe) Latest version of Chrome Beta. Might have stability and compatibility issues
 
-2 -> [Chrome Dev:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeDevSetup.exe) Latest version of Chrome Developer. Use if you want to make a new extension or develop a web application.
+2 -> [Chrome Dev:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeDevSetup.exe) Latest version of Chrome Dev. Use if you want to make a new extension or develop a web application.
 
 3 -> [Chrome:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeSetup.exe) Regular ol' Chrome. Not much to say apart that it's much more modern than 360Chrome. Just don't use it on Windows 7 and older...
 
