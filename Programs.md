@@ -257,7 +257,7 @@ Choose your language from the folders then either download the installer or down
 
 1 -> [v1.86.2:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Visual%20Studio%20Code/v1.86.2/VSCodeUserSetup-x64-1.86.2.exe) Visual Studio Code. A good editor from Microsoft. This version does not support Windows 7
 
-2 -> [v1.70:]([addlink](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Visual%20Studio%20Code/v1.70.0/VSCodeUserSetup-x64-1.70.2.exe)) Visual Studio code version 1.70. This is the last version of Visual Studio code to support Windows 7.
+2 -> [v1.70:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Visual%20Studio%20Code/v1.70.0/VSCodeUserSetup-x64-1.70.2.exe) Visual Studio code version 1.70. This is the last version of Visual Studio code to support Windows 7.
 
 [**WinAero Tweaker:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/WinAero%20Tweaker)
 
