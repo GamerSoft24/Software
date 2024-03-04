@@ -163,17 +163,17 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 3 -> [Chrome:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeSetup.exe) Regular ol' Chrome. Not much to say apart that it's much more modern than 360Chrome. Just don't use it on Windows 7 and older...
 
-[**Google Earth:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Earth) 
+[**Google Earth Pro:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Earth) 
 
-1 -> [Google Earth:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Earth/GoogleEarthProSetup.exe) We all downloaded it to play GeoFS.
+1 -> [Google Earth Pro:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Earth/GoogleEarthProSetup.exe) We all downloaded it to play GeoFS.
 
 [**HWMonitor:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/HWMonitor)
 
 1 -> [HWMonitor:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/HWMonitor/hwmonitor_1.52.exe) Nice hardware monitor that can read CPU temps, GPU temps, clock speed and voltage. HWiNFO coming soon...
 
-[**Java Runtime Environment:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Java%20Runtime%20Environment/v1.8.0) 
+[**JRE (Java Runtime Environment):**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Java%20Runtime%20Environment/v1.8.0) 
 
-1 -> [Java Runtime Environment v1.8.0:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Java%20Runtime%20Environment/v1.8.0/jre-8u401-windows-x64.exe) Version 1.8.0 of the Java runtime runtiime environment. Needed for most java environments.
+1 -> [JRE v1.8.0:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Java%20Runtime%20Environment/v1.8.0/jre-8u401-windows-x64.exe) Version 1.8.0 of the Java runtime runtiime environment. Needed for most java environments.
 
 [**Microsoft Edge:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge)
 
