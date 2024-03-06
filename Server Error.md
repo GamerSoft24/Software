@@ -1,4 +1,4 @@
-# Error
+# Server Error:
 
 ## Why have I been redirected here?
 
