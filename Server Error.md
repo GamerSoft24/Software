@@ -6,7 +6,7 @@ You have been redirected to this page due to an error in the server. This measur
 
 ## Possible Causes?
 
-1 -> A feature is under implementation and not ready. Please read the PROGRAMS.MD and COMMIT log for more information
+1 -> A feature is under implementation and not ready. Please read the ["Programs.md"](https://github.com/GamerSoft24/Software/blob/Main/Programs.md) file and the `Software` repository's [commit log](https://github.com/GamerSoft24/Software/commits) for more information.
 
 2 -> An attacker is pretending to be [this](https://github.com/GamerSoft24/Software) website but our protection measures have detected this intercepted attack and redirected you here. No data has been sent as we have stopped the outgoing connection before any data was exchanged.
 
