@@ -117,7 +117,19 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 3 -> [360AFChrome v13.5.1030r5:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af5/360AFChrome%20v13.5.1030r5.exe) 360AFChrome version 13.5.1030 revision 5. Works on Windows XP-11 and has it set by default to Google search.
 
-4 -> [360Chrome v13.0.2310:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360Chrome/360ChromeSetup.exe) 360Chrome version 13.0.2310. This is the Humming Owl edition, stripped of telemetry. Works on Windows XP-11 and has it set by default to Google search. More resource-intensive than 360AFChrome. 
+4 -> [360AFChrome A1_1030(rx):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/360A1_1030rx/360A1_1030rxSetup.exe) 360AFChrome version A1_1030rx. Based on 360Chrome 13.5.1030. Works on XP-11 and has it set by default to Google Search.
+
+5 -> [360AFChrome A1_2036:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/360A1_2036/360A1_2036Setup.exe) 360AFChrome version A1_2036. Based on 360Chrome 13.5.2036. Works on Windows XP-11 and has it set by default to Google search.
+
+6 -> [360AFChrome ABCD_1030rx:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/360ABCD_1030rx/360ABCD_1030rxSetup.exe) 360AFChrome version ABCD_1030rx. Same as A1_1030rx but is unmodded. Works on XP-11 and has it set by default to Google Search.
+
+7 -> [360AFChrome v4_ABCD:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af4ABCD/360AFChrome%20v4_ABCD.exe) 360AFChrome v13.5.1030r4_ABCD. 360AFChrome v13.5.1030 revision 4 unmodded. Works on Windows XP-11 and has it set by default to Google Search.
+
+8 -> [360AFChrome v4_G:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af4G/360AFChrome%20v4_G.exe) 360AFChrome v4_G. 360AFChrome v13.5.1030 revision 4 original. Works on Windows XP-11 and has it set by default to Google search.
+
+9 -> [360AFChrome v4_JKQR:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af4JKQR/360AFChrome%20v4_JKQR.exe) 360AFChrome v4_JKQR. 360AFChrome v13.5.1030 revision 44 original + unmodded. Works on XP-11 and has it set by default to Google search
+
+10 -> [360Chrome v13.0.2310:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360Chrome/360ChromeSetup.exe) 360Chrome version 13.0.2310. This is the Humming Owl edition, stripped of telemetry. Works on Windows XP-11 and has it set by default to Google search. More resource-intensive than 360AFChrome. 
 
 [**7-Zip:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/7-Zip)
 
