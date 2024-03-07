@@ -195,7 +195,7 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 [**JetBrains:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/JetBrains)
 
-1 -> [JetBrains ToolBox(AIO installer):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/JetBrains/Toolbox%20App/v2.2.2/jetbrains-toolbox-2.2.2.20062.exe) Version 2.2.2.20062 of the ToolBox App. Can install every JetBrain tool from there, hence its name.
+1 -> [JetBrains ToolBox:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/JetBrains/Toolbox%20App/v2.2.2/jetbrains-toolbox-2.2.2.20062.exe) Version 2.2.2.20062 of the JetBrains ToolBox App. Very useful and can install any IDEs and JetBrains Tools once installed.
 
 [**Microsoft Edge:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge)
 
