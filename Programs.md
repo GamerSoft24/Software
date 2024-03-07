@@ -205,13 +205,13 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 1 -> [Minecraft:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Minecraft/MinecraftInstaller.exe) Not sure it's a kid's game or not, but we all played it during the lockdown.
 
-[**Mozilla:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Mozilla/Firefox)
+[**Mozilla Firefox:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Mozilla/Firefox)
 
 1 -> [FireFox Beta:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Mozilla/Firefox/Beta) Beta version of the FireFox browser. Good for experimenting new features. Use the 32-bit exe if your system is not x64 compatible.
 
 2 -> [FireFox Dev:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Mozilla/Firefox/Dev) Developer version of the FireFox browser. Good to create an extension and try new features. Use the 32-bit exe if your system is not x64 compatible.
 
-3 -> [FireFox Nightly](https://github.com/GamerSoft24/Software/blob/Main/TROUBLE.MD) Night edition of the FireFox browsers. Use the 32-bit exe if your system is not x64 compatible. **THIS FEATURE IS NOT IMPLEMENTED YET!!!**
+3 -> [FireFox Nightly]([https://github.com/GamerSoft24/Software/blob/Main/TROUBLE.MD](https://github.com/GamerSoft24/Software/blob/Errors/Server%20Error.md)) Night edition of the FireFox browsers. Use the 32-bit exe if your system is not x64 compatible. **THIS FEATURE IS NOT IMPLEMENTED YET!!!**
 
 4 -> [FireFox Standard:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Mozilla/Firefox/Std1) Standard FireFox. Use the 32-bit exe if your system is not x64 compatible.
 
