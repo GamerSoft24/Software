@@ -12,4 +12,6 @@
 
 2 -> You may find Supermium [here](https://github.com/win32ss/supermium).
 
-We will not include either Chromium or Supermium in this `Software` repository due to copyright licenses. Thanks for understanding.
+We will not include either Chromium or Supermium in this `Software` repository due to copyright licenses. 
+
+Thanks for understanding.
