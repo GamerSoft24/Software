@@ -16,7 +16,7 @@ You have been redirected to this page due to an error in the server. This measur
 
 ## What should I do?
 
-If you think you can proceed elsewhere, you may. Attacks like these can be temporary and don't happen all of the time. 
+If you think you can proceed elsewhere, you may. Attacks like these can be temporary and don't happen all the time. 
 
 If this page appears consistently, please contact support at gamersoftware.corp@gmail.com, sutoexec.bat@gmail.com or gsst2401@gmail.com
 
