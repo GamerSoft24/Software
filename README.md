@@ -1,7 +1,7 @@
 # `Software` Repository
 ### **🎉We've reached 450 commits!!🌟**
 
-**V-SET IV**, *Version 4.22.27-alpha*
+**V-SET IV**, *Version 4.24.192 (stable)*
 
 ## PySoft:
 This is **where** I will be *storing all* of ***my and some of Okmeque1's*** Python codes and programs.
