@@ -129,7 +129,15 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 4 -> [7-Zip v4.57old:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/7-Zip/v4.57old/7z4.57.exe) Version 4.57 of the 7-Zip file manager. 32-bit only. Works great for Windows 98.
 
-[**CrystalMark**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/CrystalMark)
+[**AOMEI:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/AOMEI%20Partitioning%20Wizard)
+
+1 -> [AOMEI Partitioning Wizard:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/AOMEI%20Partitioning%20Wizard/passist_std.exe) A partition manager that can format, delete, create and clone partitions from one disk. Very handy for new PC builds.
+
+[**Audacíty:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Audac%C3%ADty)
+
+1 -> [Audacíty:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Audac%C3%ADty/audacity-win-3.4.2-64bit.exe) An audio editing Software. Can play a variety of formats, amplify and much more. Just don't make earrape please...
+
+[**CrystalMark:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/CrystalMark)
 
 1 -> [CrystalDiskInfo v8.17.14:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/CrystalMark/CrystalDiskInfo8_17_14.exe) Version 8.17.14 of the CrystalDiskInfo software. Can read drive S.M.A.R.T data and predict drive failures.
 
@@ -151,9 +159,21 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 1 -> [Chrome Beta:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeBetaSetup.exe) Latest version of Chrome Beta. Might have stability and compatibility issues
 
-2 -> [Chrome Dev:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeDevSetup.exe) Latest version of Chrome Developer. Use if you want to make a new extension or develop a web application.
+2 -> [Chrome Dev:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeDevSetup.exe) Latest version of Chrome Dev. Use if you want to make a new extension or develop a web application.
 
 3 -> [Chrome:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeSetup.exe) Regular ol' Chrome. Not much to say apart that it's much more modern than 360Chrome. Just don't use it on Windows 7 and older...
+
+[**Google Earth Pro:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Earth) 
+
+1 -> [Google Earth Pro:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Earth/GoogleEarthProSetup.exe) We all downloaded it to play GeoFS.
+
+[**HWMonitor:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/HWMonitor)
+
+1 -> [HWMonitor:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/HWMonitor/hwmonitor_1.52.exe) Nice hardware monitor that can read CPU temps, GPU temps, clock speed and voltage. HWiNFO coming soon...
+
+[**JRE (Java Runtime Environment):**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Java%20Runtime%20Environment/v1.8.0) 
+
+1 -> [JRE v1.8.0:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Java%20Runtime%20Environment/v1.8.0/jre-8u401-windows-x64.exe) Version 1.8.0 of the Java runtime runtiime environment. Needed for most java environments.
 
 [**Microsoft Edge:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge)
 
@@ -174,6 +194,10 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 1 -> [Notepad++ v8.6.4:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Notepad%2B%2B/v8.6.4) Version 8.6.4 of the Notepad++ general/code editor. Use the 32-bit exe if your system is not x64 compatible. Latest version of notepad++ for this repository
 
 2 -> [Notepad++ v8.6:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Notepad%2B%2B/v8.6) Version 8.6 of the Notepad++ general/code editor. Use the 32-bit exe if your system is not x64 compatible.
+
+[**OBS Studio:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/OBS)
+
+1 -> [OBS Studio v27.01:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/OBS/v27.01/OBS-Studio-27.0.1-Full-Installer-x86.exe) Version 27.01 of the Open Broadcasting Software. Can screenrecord and stream to Youtube. Last version to support Windows 7.
 
 [**Python:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python)
 
@@ -233,7 +257,11 @@ Choose your language from the folders then either download the installer or down
 
 1 -> [v1.86.2:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Visual%20Studio%20Code/v1.86.2/VSCodeUserSetup-x64-1.86.2.exe) Visual Studio Code. A good editor from Microsoft. This version does not support Windows 7
 
-2 -> [v1.70:](addlink) Visual Studio code version 1.70. This is the last version of Visual Studio code to support Windows 7. Link does not work, lemme grab the installer/
+2 -> [v1.70:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Visual%20Studio%20Code/v1.70.0/VSCodeUserSetup-x64-1.70.2.exe) Visual Studio code version 1.70. This is the last version of Visual Studio code to support Windows 7.
+
+[**WinAero Tweaker:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/WinAero%20Tweaker)
+
+1 -> [WinAeroTweaker v1.62.1.0:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/WinAero%20Tweaker/WinaeroTweaker-1.62.1.0-setup.exe) WinAero Tweaker. Can remove unnecessary features from Windows 10 and 11 and de-bloat your system. Useful if you have a potato.
 
 ### [macOS:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS)
 
