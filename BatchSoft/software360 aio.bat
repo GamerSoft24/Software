@@ -45,4 +45,3 @@ start
 goto END
 :END
 exit /b
-exit /i
