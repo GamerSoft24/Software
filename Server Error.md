@@ -12,7 +12,7 @@ You have been redirected to this page due to an error in the server. This measur
 
 3 -> A feature was recently removed. Please read the ["Programs.md"](https://github.com/GamerSoft24/Software/blob/Main/Programs.md) file and/or the `Software` repository's [commit log](https://github.com/GamerSoft24/Software/commits) for more information.
 
-4 -> A restriction to [this](https://github.com/GamerSoft24/Software) website has been added to the network, and our protection measures rely on passing data to the server. This block between the client and the server can cause our protection measures to fail the test and send you back. If you need access to this website, please contact your administrator.
+4 -> A restriction to [this](https://github.com/GamerSoft24/Software) website has been added to the network, and our protection measures rely on passing data to the server. This block between the client and the server can cause our protection measures to fail the test and send you back. If you need access to this website, please contact your administrator for access.
 
 ## What should I do?
 
