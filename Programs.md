@@ -179,7 +179,7 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 2 -> [Chrome Dev:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeDevSetup.exe) Latest version of Chrome Dev. Use if you want to make a new extension or develop a web application.
 
-3 -> [Chrome:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeSetup.exe) Regular ol' Chrome. Not much to say apart that it's much more modern than 360Chrome. Just don't use it on Windows 7 and older...
+3 -> [Chrome Standard:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeSetup.exe) Regular ol' Chrome. Not much to say apart that it's much more modern than 360Chrome. Just don't use it on Windows 7 and older...
 
 [**Google Earth Pro:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Google/Google%20Earth%20Pro) 
 
@@ -211,9 +211,7 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 2 -> [FireFox Dev:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Mozilla/Firefox/Dev) Developer version of the FireFox browser. Good to create an extension and try new features. Use the 32-bit exe if your system is not x64 compatible.
 
-3 -> [FireFox Nightly](https://github.com/GamerSoft24/Software/blob/Main/Server%20Error.md) Night edition of the FireFox browsers. Use the 32-bit exe if your system is not x64 compatible. **THIS FEATURE IS NOT IMPLEMENTED YET!!!**
-
-4 -> [FireFox Standard:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Mozilla/Firefox/Std1) Standard FireFox. Use the 32-bit exe if your system is not x64 compatible.
+3 -> [FireFox Standard:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Mozilla/Firefox/Std1) Standard FireFox. Use the 32-bit exe if your system is not x64 compatible.
 
 [**NSIS (NullSoft Scriptable Install System):**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/NSIS%20(Nullsoft%20Scriptable%20Install%20System))
 
