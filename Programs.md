@@ -243,7 +243,7 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 [**Python:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python)
 
-1 -> [Python 2.5:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Python/v2.5/python-2.5.amd64.msi) Use this only if you have a system running Windows 98. Not recommended for most developement environments. Most programs from [PySoft](https://github.com/GamerSoft24/tree/main/PySoft) will not run.
+1 -> [Python 2.5:](https://github.com/GamerSoft24/Software/blob/Main/.github/security/Server%20Error.md) Use this only if you have a system running Windows 98. Not recommended for most developement environments. Most programs from [PySoft](https://github.com/GamerSoft24/tree/main/PySoft) will not run.
 
 2 -> [Python 3.10.0:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python/v3.10.0) Python version 3.10.0. Not compatible with Windows 7 or older. Use the 32-bit exe if your system is not x64 compatible.
 
