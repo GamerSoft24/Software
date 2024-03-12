@@ -1,7 +1,7 @@
 # `Software` Repository
 ### **🎉We've reached 500 commits!!🌟**
 
-**V-SET V**, *Version 5.2.9-charlie*
+**V-SET V**, *Version 5.2.10-charlie*
 
 ## PySoft:
 This is **where** I will be *storing all* of ***my and some of Okmeque1's*** Python codes and programs.
