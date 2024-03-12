@@ -97,7 +97,7 @@
 
 3 -> [Website Pinger (web pinger.bat):](https://github.com/GamerSoft24/Software/blob/Main/BatchSoft/Windows/web%20pinger.bat) Pings a specified website.
 
-### [Windows](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft/Windows)/[UAC](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft/Windows/UAC):
+### [UAC](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft/Windows/UAC):
 
 1 -> [UAC Bypass (uac bypass.bat):](https://github.com/GamerSoft24/Software/blob/Main/BatchSoft/Windows/UAC/uac%20bypass.bat) Drag a file/installer with the security shield tag over "uac bypass.bat" and wait for command to complete and the file/installer will open without prompting the UAC window. Be aware that some files/installers will not be able to open in this way due to an administrator opening requirement.
 
