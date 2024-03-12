@@ -231,7 +231,7 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 [**Realtek:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Realtek)
 
-1 -> [Realtek AC97:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Realtek/AC97/Realtek%20AC97.exe) Realtek High Definition Audio Driver is the most popular sound driver for Windows systems, and it helps manage surround sound, Dolby and DTS sound systems on your computer. You need this driver for your audio device to even work on the PC – so uninstalling it would create serious audio errors. (Description found on Google)
+1 -> [Realtek AC97:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Realtek/AC97/Realtek%20AC97.exe) Realtek AC97 Driver is the most popular sound driver for Windows systems, and it helps manage surround sound, Dolby and DTS sound systems on your computer. This driver will only work if your motherboard has a PC'97 audio interface. Using the wrong driver will/could create serious audio errors.
 
 [**Roblox:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Roblox)
 
