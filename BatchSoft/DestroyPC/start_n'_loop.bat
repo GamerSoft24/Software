@@ -1,6 +1,6 @@
 @echo off
 color c
-title Start n' Loop
+title Start n' Loop:
 echo Start n' Loop PC Crasher
 echo WARNING! THIS WILL COMPLETELY NUUKKE YOUR COMPUTER.
 echo Do you want do proceed?
