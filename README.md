@@ -37,6 +37,8 @@ This is **where** I will be *storing all* of ***my*** Batchfile codes and progra
 
 *For* **direct access**, [click here!](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft)
 
+***WARNING!*** The codes in [`/BatchSoft/DestroyPC`](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft/DestroyPC) folder are ***SUPER deadly*** and can *destroy/kill your computer* and make a bluescreen appear.
+
 ## InstallerSoft:
 
 This is **where** I will be *storing all* of the ***useful*** programs' (and games') installers.
