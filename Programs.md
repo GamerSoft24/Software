@@ -105,7 +105,7 @@
 
 ### [Windows:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows)
 
-**WARNING! Any programs not listed specifically having a 32-bit (x86) version may not run on a 32-bit Windows computer.**
+**WARNING! Any programs not listed specifically having a 32-bit (x86/x32) version may not run on a 32-bit Windows computer.**
 
 [**360Chrome or/and 360AFChrome:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/360Chrome)
 
@@ -133,6 +133,16 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 1 -> [AOMEI Partitioning Wizard:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/AOMEI%20Partitioning%20Wizard/passist_std.exe) A partition manager that can format, delete, create and clone partitions from one disk. Very handy for new PC builds.
 
+[**BlueStacks:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/BlueStacks)
+
+1 -> [BlueStacks 10 (v10.20.0.1005):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%2010%20(v10.20.0.1005)/BlueStacksInstaller_10.20.0.1005_64bit.exe) The best Android emulator in the world. Play mobile games on your PC!
+
+2 -> [BlueStacks 5 (v5.21.0.1043):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%205%20(v5.21.0.1043)/BlueStacksInstaller_5.21.0.1043_64bit.exe) An older version of BlueStacks. 32-bit installer [here](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%205%20(v5.21.0.1043)/BlueStacksInstaller_5.21.0.1043_32bit.exe)
+
+[**Adobe:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Adobe)
+
+1 -> [Adobe Acrobat Reader:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Adobe/Adobe%20Acrobat%20Reader/AdobeAcrobatReader_x64Setup.exe) Adobe Acrobat Reader software is the free, trusted global standard for viewing, printing, signing, sharing and annotating PDFs. It's the only PDF viewer that can open and interact with all types of PDF content, etc... Read more on Adobe's own website [here](https://www.adobe.com/uk/acrobat/pdf-reader.html#:~:text=Adobe%20Acrobat%20Reader%20software%20is,content%20%2D%20including%20forms%20and%20multimedia.)
+
 [**Audacíty:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Audac%C3%ADty)
 
 1 -> [Audacíty:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Audac%C3%ADty/audacity-win-3.4.2-64bit.exe) An audio editing Software. Can play a variety of formats, amplify and much more. Just don't make earrape please...
@@ -141,7 +151,7 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 1 -> [CrystalDiskInfo v8.17.14:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/CrystalMark/CrystalDiskInfo8_17_14.exe) Version 8.17.14 of the CrystalDiskInfo software. Can read drive S.M.A.R.T data and predict drive failures.
 
-2 -> [CystalDiskMark v8.0.4c:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/CrystalMark/CrystalDiskMark8_0_4c.exe) Version 8.0.4 revision C of the CrystalDiskMark disk benchmarking software. Can tell you how fast your hard disk is.
+2 -> [CystalDiskMark v8.0.4c:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/CrystalMark/CrystalDiskMark8_0_4c.exe) Version 8.0.4 revision C of the CrystalDiskMark disk benchmarking software. Can tell you how fast your hard disk is!
 
 [**Discord:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Discord)
 
@@ -213,6 +223,16 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 6 -> [Python 3.9.6:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python/v3.9.6) Python version 3.9.6. Can't say much honestly apart from use the 32-bit exe if your system is not x64 compatible.
 
+[**Proton:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Proton)
+
+1 -> [Drive v1.5.0:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Proton/Drive/v1.5.0) Proton Drive on PC, nothing more.
+
+2 -> [VPN v3.2.10:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Proton/VPN/v3.2.10/ProtonVPN_v3.2.10.exe) The powerful Proton VPN. Secure, fast, free and easy to use.
+
+[**Realtek:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Realtek)
+
+1 -> [Realtek AC97:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Realtek/AC97/Realtek%20AC97.exe) Realtek High Definition Audio Driver is the most popular sound driver for Windows systems, and it helps manage surround sound, Dolby and DTS sound systems on your computer. You need this driver for your audio device to even work on the PC – so uninstalling it would create serious audio errors. (Description found on Google)
+
 [**Roblox:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Roblox)
 
 1 -> [Roblox:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Roblox/RobloxPlayerInstaller.exe) Okmeque1 kind of hates this installer and thinks that the error messages are awful. If any Roblox Devs come across this, at least use the [Error chart](https://github.com/GamerSoft24/Software/blob/Main/Errors%20chart.md) or some form of error code as troubleshooting is way too hard.
@@ -252,6 +272,10 @@ Choose your language from the folders then either download the installer or down
 [**VLC:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/VLC%20Media%20Player)
 
 1 -> [VLC Media Player:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/VLC%20Media%20Player/) The video player we all know and love, from VideoLan. Choose 64-bit or 32-bit depending on your computer.
+
+[**VCD:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/VCD%20(Virtual%20CloneDrive))
+
+1 -> [Virtual CloneDrive v5.5.2.0:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/VCD%20(Virtual%20CloneDrive)/v5.5.2.0/SetupVCD5520.exe) A virtual CD-ROM drive where you can mount ISO image files.
 
 [**Visual Studio Code:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Visual%20Studio%20Code/v1.86.2)
 
