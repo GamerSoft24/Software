@@ -8,6 +8,9 @@ If you don't know Python or don't have a Python Interpreter installer, go choose
 
 Do you want a short Python program that draws colorful rainbow void? Copy this script in your text editor:
 ```
+import turtle
+q = turtle.Pen()
+turtle.bgcolor("black")
 sides = 7
 colors = ["red","orange","yellow","green","cyan","blue","purple"]
 for x in range(360):
