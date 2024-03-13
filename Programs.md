@@ -151,9 +151,9 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 [**BlueStacks:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/BlueStacks)
 
- 1 -> [BlueStacks v10.20.0.1005:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%2010/v10.20.0.1005/BlueStacksInstaller_10.20.0.1005_64bit.exe) BlueStacks Android emulator. Can use it to play mobile games or develop Android apps. 64-bit Only.
+ 1 -> [BlueStacks 10 (v10.20.0.1005):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%2010/v10.20.0.1005/BlueStacksInstaller_10.20.0.1005_64bit.exe) BlueStacks Android emulator. Can use it to play mobile games or develop Android apps. 64-bit Only.
 
- 2 -> [BlueStacks v5.21.0.1043](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%205/v5.21.0.1043) BlueStacks Android emulator version 5. Use the 32-bit exe if your system is not x64 compatible. Can use it to play mobile games or develop Android apps. 
+ 2 -> [BlueStacks 5 (v5.21.0.1043):](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%205/v5.21.0.1043) BlueStacks Android emulator version 5. Use the 32-bit exe if your system is not x64 compatible. Can use it to play mobile games or develop Android apps. 
  
 [**CrystalMark:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/CrystalMark)
 
@@ -171,7 +171,7 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 2 -> [Git LFS (Large File Storage):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Git/Git%20LFS%20(Large%20File%20Storage)/v3.4.1/git-lfs-windows-v3.4.1.exe) Git Large file storage for pushing and pulling files over 25MB.
 
-3 -> [Git CLI (Command Line Interface):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/GitHub%20CLI/v2.44.1/gh_2.44.1_windows_amd64.msi) Git Command Line interface, no more.
+3 -> [Git CLI (Command Line Interface):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Git/Git%20CLI/v2.44.1/gh_2.44.1_windows_amd64.msi) Git Command Line interface, works great with GitHub pushing and pulling, etc... No more.
 
 [**Google Chrome:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Google%20Chrome)
 
@@ -237,9 +237,9 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 [**Proton:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Proton)
 
-1 -> [Proton Drive:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Proton/Drive/v1.5.0/ProtonDrive_v1.5.0.exe) Version 1.5 of Proton Drive. Secure, fast cloud storage not owned by Google(yay!).
+1 -> [Drive v1.5.0:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Proton/Drive/v1.5.0/ProtonDrive_v1.5.0.exe) Version 1.5.0 of Proton Drive. Secure, fast cloud storage not owned by Google (Yay!).
 
-2 -> [Proton VPN:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Proton/VPN/v3.2.10/ProtonVPN_v3.2.10.exe) Version 3.2.10 of Proton VPN. Not bad, if you want a VPN to watch local anime.
+2 -> [VPN v3.2.10:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Proton/VPN/v3.2.10/ProtonVPN_v3.2.10.exe) Version 3.2.10 of Proton VPN. Not bad and fast, if you want a VPN to watch local anime.
 
 [**Python:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python)
 
@@ -289,7 +289,7 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 [**Twinkle Tray Monitor Brightness Slider:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Twinkle%20Tray%20Monitor%20Brightness%20Slider/v1.15.4)
 
-1 -> [Twinkle Tray:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Twinkle%20Tray%20Monitor%20Brightness%20Slider/v1.15.4/Twinkle.Tray.v1.15.4.exe) A nice software that lets you adjust your monitor brightness. Your monitor needs to have DCI control in order for this program to function. Windows 10+ Only. Neat.
+1 -> [Twinkle Tray MBS v.1.15.4:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Twinkle%20Tray%20Monitor%20Brightness%20Slider/v1.15.4/Twinkle.Tray.v1.15.4.exe) A nice software that lets you adjust your monitor brightness. Your monitor needs to have DCI control in order for this program to function. Windows 10+ Only. Neat.
 
 [**UltraEdit**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/UltraEdit)
 
