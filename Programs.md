@@ -117,7 +117,19 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 3 -> [360AFChrome v13.5.1030r5:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af5/360AFChrome%20v13.5.1030r5.exe) 360AFChrome version 13.5.1030 revision 5. Works on Windows XP-11 and has it set by default to Google search.
 
-4 -> [360Chrome v13.0.2310:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360Chrome/360ChromeSetup.exe) 360Chrome version 13.0.2310. This is the Humming Owl edition, stripped of telemetry. Works on Windows XP-11 and has it set by default to Google search. More resource-intensive than 360AFChrome. 
+4 -> [360AFChrome A1_1030(rx):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/360A1_1030rx/360A1_1030rxSetup.exe) 360AFChrome version A1_1030rx. Based on 360Chrome 13.5.1030. Works on XP-11 and has it set by default to Google Search.
+
+5 -> [360AFChrome A1_2036:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/360A1_2036/360A1_2036Setup.exe) 360AFChrome version A1_2036. Based on 360Chrome 13.5.2036. Works on Windows XP-11 and has it set by default to Google search.
+
+6 -> [360AFChrome ABCD_1030rx:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/360ABCD_1030rx/360ABCD_1030rxSetup.exe) 360AFChrome version ABCD_1030rx. Same as A1_1030rx but is unmodded. Works on XP-11 and has it set by default to Google Search.
+
+7 -> [360AFChrome v4_ABCD:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af4ABCD/360AFChrome%20v4_ABCD.exe) 360AFChrome v13.5.1030r4_ABCD. 360AFChrome v13.5.1030 revision 4 unmodded. Works on Windows XP-11 and has it set by default to Google Search.
+
+8 -> [360AFChrome v4_G:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af4G/360AFChrome%20v4_G.exe) 360AFChrome v4_G. 360AFChrome v13.5.1030 revision 4 original. Works on Windows XP-11 and has it set by default to Google search.
+
+9 -> [360AFChrome v4_JKQR:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af4JKQR/360AFChrome%20v4_JKQR.exe) 360AFChrome v4_JKQR. 360AFChrome v13.5.1030 revision 44 original + unmodded. Works on XP-11 and has it set by default to Google search
+
+10 -> [360Chrome v13.0.2310:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360Chrome/360ChromeSetup.exe) 360Chrome version 13.0.2310. This is the Humming Owl edition, stripped of telemetry. Works on Windows XP-11 and has it set by default to Google search. More resource-intensive than 360AFChrome. 
 
 [**7-Zip:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/7-Zip)
 
@@ -147,6 +159,12 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 1 -> [Audacíty:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Audac%C3%ADty/audacity-win-3.4.2-64bit.exe) An audio editing Software. Can play a variety of formats, amplify and much more. Just don't make earrape please...
 
+[**BlueStacks:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/BlueStacks)
+
+ 1 -> [BlueStacks 10 (v10.20.0.1005):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%2010/v10.20.0.1005/BlueStacksInstaller_10.20.0.1005_64bit.exe) BlueStacks Android emulator. Can use it to play mobile games or develop Android apps. 64-bit Only.
+
+ 2 -> [BlueStacks 5 (v5.21.0.1043):](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%205/v5.21.0.1043) BlueStacks Android emulator version 5. Use the 32-bit exe if your system is not x64 compatible. Can use it to play mobile games or develop Android apps. 
+ 
 [**CrystalMark:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/CrystalMark)
 
 1 -> [CrystalDiskInfo v8.17.14:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/CrystalMark/CrystalDiskInfo8_17_14.exe) Version 8.17.14 of the CrystalDiskInfo software. Can read drive S.M.A.R.T data and predict drive failures.
@@ -163,7 +181,7 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 2 -> [Git LFS (Large File Storage):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Git/Git%20LFS%20(Large%20File%20Storage)/v3.4.1/git-lfs-windows-v3.4.1.exe) Git Large file storage for pushing and pulling files over 25MB.
 
-3 -> [Git CLI (Command Line Interface):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/GitHub%20CLI/v2.44.1/gh_2.44.1_windows_amd64.msi) Git Command Line interface, no more.
+3 -> [Git CLI (Command Line Interface):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Git/Git%20CLI/v2.44.1/gh_2.44.1_windows_amd64.msi) Git Command Line interface, works great with GitHub pushing and pulling, etc... No more.
 
 [**Google Chrome:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Google%20Chrome)
 
@@ -171,19 +189,23 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 2 -> [Chrome Dev:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeDevSetup.exe) Latest version of Chrome Dev. Use if you want to make a new extension or develop a web application.
 
-3 -> [Chrome:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeSetup.exe) Regular ol' Chrome. Not much to say apart that it's much more modern than 360Chrome. Just don't use it on Windows 7 and older...
+3 -> [Chrome Standard:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeSetup.exe) Regular ol' Chrome. Not much to say apart that it's much more modern than 360Chrome. Just don't use it on Windows 7 and older...
 
-[**Google Earth Pro:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Earth) 
+[**Google Earth Pro:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Google/Google%20Earth%20Pro) 
 
-1 -> [Google Earth Pro:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Earth/GoogleEarthProSetup.exe) We all downloaded it to play GeoFS.
+1 -> [Google Earth Pro:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google/Google%20Earth%20Pro/GoogleEarthProSetup.exe) We all downloaded it to play GeoFS.
 
 [**HWMonitor:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/HWMonitor)
 
 1 -> [HWMonitor:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/HWMonitor/hwmonitor_1.52.exe) Nice hardware monitor that can read CPU temps, GPU temps, clock speed and voltage. HWiNFO coming soon...
 
-[**JRE (Java Runtime Environment):**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Java%20Runtime%20Environment/v1.8.0) 
+[**Java:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Java) 
 
-1 -> [JRE v1.8.0:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Java%20Runtime%20Environment/v1.8.0/jre-8u401-windows-x64.exe) Version 1.8.0 of the Java runtime runtiime environment. Needed for most java environments.
+1 -> [JRE v1.8.0:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Java/JRE%20(Java%20Runtime%20Environment)/v1.8.0/jre-8u401-windows-x64.exe) Version 1.8.0 of the Java runtime runtiime environment. Needed for most java environments.
+
+[**JetBrains:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/JetBrains)
+
+1 -> [JetBrains ToolBox:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/JetBrains/Toolbox%20App/v2.2.2/jetbrains-toolbox-2.2.2.20062.exe) Version 2.2.2.20062 of the JetBrains ToolBox App. Very useful and can install any IDEs and JetBrains Tools once installed.
 
 [**Microsoft Edge:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge)
 
@@ -192,6 +214,14 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 [**Minecraft:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Minecraft)
 
 1 -> [Minecraft:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Minecraft/MinecraftInstaller.exe) Not sure it's a kid's game or not, but we all played it during the lockdown.
+
+[**Mozilla Firefox:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Mozilla/Firefox)
+
+1 -> [FireFox Beta:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Mozilla/Firefox/Beta) Beta version of the FireFox browser. Good for experimenting new features. Use the 32-bit exe if your system is not x64 compatible.
+
+2 -> [FireFox Dev:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Mozilla/Firefox/Dev) Developer version of the FireFox browser. Good to create an extension and try new features. Use the 32-bit exe if your system is not x64 compatible.
+
+3 -> [FireFox Standard:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Mozilla/Firefox/Std1) Standard FireFox. Use the 32-bit exe if your system is not x64 compatible.
 
 [**NSIS (NullSoft Scriptable Install System):**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/NSIS%20(Nullsoft%20Scriptable%20Install%20System))
 
@@ -205,13 +235,25 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 2 -> [Notepad++ v8.6:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Notepad%2B%2B/v8.6) Version 8.6 of the Notepad++ general/code editor. Use the 32-bit exe if your system is not x64 compatible.
 
-[**OBS Studio:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/OBS)
+[**OBS Studio:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/OBS%20Studio%20(Open%20Broadcaster%20Software))
 
-1 -> [OBS Studio v27.01:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/OBS/v27.01/OBS-Studio-27.0.1-Full-Installer-x86.exe) Version 27.01 of the Open Broadcasting Software. Can screenrecord and stream to Youtube. Last version to support Windows 7.
+1 -> [OBS Studio v27.01:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/OBS%20Studio%20(Open%20Broadcaster%20Software)/v27.0.1) Version 27.01 of the Open Broadcasting Software. Can screenrecord and stream to Youtube. Last version to support Windows 7.
+
+[**Opera:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Opera)
+
+1 -> [Opera GX:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Opera/Opera%20GX/OperaGXSetup.exe) The ULTIMATE GAMING browser. Pretty cool, with RGB customization and a built-in adblocker.
+
+2 -> [Opera Standard:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Opera/Opera/OperaSetup.exe) Standard Opera. Maybe not how you remember it in the Windows 98 days.
+
+[**Proton:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Proton)
+
+1 -> [Drive v1.5.0:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Proton/Drive/v1.5.0/ProtonDrive_v1.5.0.exe) Version 1.5.0 of Proton Drive. Secure, fast cloud storage not owned by Google (Yay!).
+
+2 -> [VPN v3.2.10:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Proton/VPN/v3.2.10/ProtonVPN_v3.2.10.exe) Version 3.2.10 of Proton VPN. Not bad and fast, if you want a VPN to watch local anime.
 
 [**Python:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python)
 
-1 -> [Python 2.5:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Python/v2.5/python-2.5.amd64.msi) Use this only if you have a system running Windows 98. Not recommended for most developement environments. Most programs from [PySoft](https://github.com/GamerSoft24/tree/main/PySoft) will not run.
+1 -> [Python 2.5:](https://github.com/GamerSoft24/Software/blob/Main/.github/security/Server%20Error.md) Use this only if you have a system running Windows 98. Not recommended for most developement environments. Most programs from [PySoft](https://github.com/GamerSoft24/tree/main/PySoft) will not run.
 
 2 -> [Python 3.10.0:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Python/v3.10.0) Python version 3.10.0. Not compatible with Windows 7 or older. Use the 32-bit exe if your system is not x64 compatible.
 
@@ -236,6 +278,10 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 [**Roblox:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Roblox)
 
 1 -> [Roblox:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Roblox/RobloxPlayerInstaller.exe) Okmeque1 kind of hates this installer and thinks that the error messages are awful. If any Roblox Devs come across this, at least use the [Error chart](https://github.com/GamerSoft24/Software/blob/Main/Errors%20chart.md) or some form of error code as troubleshooting is way too hard.
+
+[**Steam:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Steam)
+
+1 -> [Steam Game Launcher:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Steam/SteamSetup.exe) Literally the most popular game launcher, and for good reason. Lots of games from Geometry Dash to Terraria and even God of War.
 
 [**TeamViewer:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/TeamViewer)
 
@@ -263,7 +309,7 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 [**Twinkle Tray Monitor Brightness Slider:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Twinkle%20Tray%20Monitor%20Brightness%20Slider/v1.15.4)
 
-1 -> [Twinkle Tray:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Twinkle%20Tray%20Monitor%20Brightness%20Slider/v1.15.4/Twinkle.Tray.v1.15.4.exe) A nice software that lets you adjust your monitor brightness. Your monitor needs to have DCI control in order for this program to function. Windows 10+ Only. Neat.
+1 -> [Twinkle Tray MBS v.1.15.4:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Twinkle%20Tray%20Monitor%20Brightness%20Slider/v1.15.4/Twinkle.Tray.v1.15.4.exe) A nice software that lets you adjust your monitor brightness. Your monitor needs to have DCI control in order for this program to function. Windows 10+ Only. Neat.
 
 [**UltraEdit**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/UltraEdit)
 
