@@ -55,3 +55,22 @@ text.pack(fill=tk.BOTH, expand=True)
 
 root.geometry("800x600")
 root.mainloop()
+
+except FileExistsError:
+    exit()
+except FileNotFoundError:
+    exit()
+except OSError:
+    exit()
+except ValueError:
+    exit()
+except KeyboardInterrupt:
+    exit()
+except EOFError:
+    exit()
+except BaseException:
+    exit()
+except IOError:
+    exit()
+except:
+    exit()
