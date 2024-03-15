@@ -17,6 +17,8 @@
 
 **0271 OSError:** Operating system error. Check your drive and program, as well as any files and try again.
 
+**0272 IOError:** I/O ports error. A device on your system has either malfunctioned or has been unplugged.
+
 **0251 TypeError:** The program you got has an error or has been tampered with. Please do ***NOT*** attempt to fix it as it *may* have viruses. Contact support.
 
 **0210 PermissionError:** Access violation in file. Check permissions and try again.
