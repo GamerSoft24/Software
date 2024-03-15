@@ -45,44 +45,44 @@ def ipcmd():
                     os.system(prompt)
                     print('')
         except OSError:
-            print("ERROR: The operating system has forcibly closed the running process due to a fatal system error.")
+            print("Error: The operating system has forcibly closed the running process due to a fatal system error.")
             print('')
             input("Press enter to continue...")
             return None
         except ValueError:
-            print("ERROR: The value for a variable is either invalid or an access violation has occured.")
+            print("Error: The value for a variable is either invalid or an access violation has occured.")
             print('')
             input("Press enter to continue...")
             return None
         except PermissionError:
-            print("ERROR: Access violation and permission error and security bypass fail has occured in your file. The operating system will now forcibly close due to this error.")
+            print("Error: Access violation and permission error and security bypass fail has occured in your file. The operating system will now forcibly close due to this error.")
             print('')
             input("Press enter to continue...")
             return None
         except FileNotFoundError:
-            print("ERROR: The requested file you specified does not exist. The operating system will forcibly close the program due to reading in an invalid space.")
+            print("Error: The requested file you specified does not exist. The operating system will forcibly close the program due to reading in an invalid space.")
             print('')
             input("Press enter to continue...")
             return None
         except EOFError:
-            print("ERROR: The requested operation read beyond the end of the specified file. The operating system will now forcibly close the program.")
+            print("Error: The requested operation read beyond the end of the specified file. The operating system will now forcibly close the program.")
             print('')
             input("Press enter to continue...")
             return None
         except KeyboardInterrupt:
-            print("ERROR: The user has chosen to exit. Exiting...")
+            print("Error: The user has chosen to exit. Exiting...")
             return None
         except IOError:
-            print("ERROR: I/O ports error. A device on your system has either malfunctioned or has been unplugged. The Operating system will now forcibly close the program.")
+            print("Error: I/O ports error. A device on your system has either malfunctioned or has been unplugged. The Operating system will now forcibly close the program.")
             print('')
             input("Press enter to continue...")
             return None
         except:
-            print("ERROR: The program has forcibly exited with code 1.")
+            print("Error: The program has forcibly exited with code 1.")
             print('')
             input("Press enter to continue...")
             return None
     except:
-        print("ERROR: EXCEPTION_IN_EXCEPTION: The program has attempted to recover from an exception causing another exception which caused it to forcibly close.")
+        print("Error: EXCEPTION_IN_EXCEPTION: The program has attempted to recover from an exception causing another exception which caused it to forcibly close.")
         return None
 ipcmd()
