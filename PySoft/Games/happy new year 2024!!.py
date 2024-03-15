@@ -30,3 +30,14 @@ fps=30
 change_color=0
 shift()
 app.mainloop()
+
+except FileExistsError:
+    exit()
+except FileNotFoundError:
+    exit()
+except KeyboardInterrupt:
+    exit()
+except BaseException:
+    exit()
+except:
+    exit()
