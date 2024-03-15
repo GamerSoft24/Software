@@ -73,7 +73,7 @@ def ipcmd():
             print("Error: The user has chosen to exit. Exiting...")
             return None
         except IOError:
-            print("Error: I/O ports error. A device on your system has either malfunctioned or has been unplugged. The Operating system will now forcibly close the program.")
+            print("Error: I/O ports error. A device on your system has either malfunctioned or has been unplugged. The operating system will now forcibly close the program.")
             print('')
             input("Press enter to continue...")
             return None
