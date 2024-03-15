@@ -249,6 +249,23 @@ try:
     generate.pack()
     log.pack()
     windows.mainloop()
+
+except FileExistsError:
+    exit()
+except FileNotFoundError:
+    exit()
+except OSError:
+    exit()
+except ValueError:
+    exit()
+except KeyboardInterrupt:
+    exit()
+except EOFError:
+    exit()
 except BaseException:
     x = messagebox.showerror("Error","This program has encountered an error and needs to close.\nError code : 770A")
+    exit()
+except IOError:
+    exit()
+except:
     exit()
