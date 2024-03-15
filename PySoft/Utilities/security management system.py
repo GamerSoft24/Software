@@ -336,14 +336,22 @@ try:
         input("All clear, free to go! Enjoy!")
         print()
         sms_main()
-        
+
+except FileExistsError:
+    print("Error: 6510A\nAn existing file is in conflict with the selected file. Delete the old file")
+    input("Press enter to return to the program...")
+    sms_main()
 except FileNotFoundError:
     print("Error: 6510B\nThe file specified was not found. Please make sure you have the correct file and that the path is valid.")
-    input("Press enter to return to the program.")
+    input("Press enter to return to the program...")
+    sms_main()
+except OSError:
+    print("Error: 0271\nOperating system error. Check your drive and program, as well as any files and try again.")
+    input("Press enter to return to the program...")
     sms_main()
 except ValueError:
-    print("Error: 0211\nYou have entered the wrong value. When asked for a value, please input the CORRECT value that is demanded(e.g length = number.)")
-    input("Press enter to return to the program.")
+    print("Error: 0211\nYou have entered the wrong value. When asked for a value, please input the correct value that is demanded (e.g length = number.)")
+    input("Press enter to return to the program...")
     sms_main()
 except KeyboardInterrupt:
     exit()
@@ -351,5 +359,12 @@ except EOFError:
     exit()
 except BaseException:
     print("Error: 770A\nA random exception occured.")
-    input("Press enter to return to the program.")
+    input("Press enter to return to the program...")
     sms_main()
+except IOError:
+    print("Error: 0272\nA device on your system has either malfunctioned or has been unplugged. The operating system will now forcibly close the program.")
+    input("Press enter to continue...")
+    exit()
+except:
+    exit()
+    
