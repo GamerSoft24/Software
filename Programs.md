@@ -164,7 +164,11 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
  1 -> [BlueStacks 10 (v10.20.0.1005):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%2010/v10.20.0.1005/BlueStacksInstaller_10.20.0.1005_64bit.exe) BlueStacks Android emulator. Can use it to play mobile games or develop Android apps. 64-bit Only.
 
  2 -> [BlueStacks 5 (v5.21.0.1043):](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%205/v5.21.0.1043) BlueStacks Android emulator version 5. Use the 32-bit exe if your system is not x64 compatible. Can use it to play mobile games or develop Android apps. 
- 
+
+[**Fujitsu**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Fujitsu)
+
+1 -> [ScanSnap S1300i:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Fujitsu/ScanSnap/S1300i) Description to be added here...
+
 [**CrystalMark:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/CrystalMark)
 
 1 -> [CrystalDiskInfo v8.17.14:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/CrystalMark/CrystalDiskInfo8_17_14.exe) Version 8.17.14 of the CrystalDiskInfo software. Can read drive S.M.A.R.T data and predict drive failures.
