@@ -1,6 +1,6 @@
 # Windows Loaders
 
-## DISCLAIMER: 
+## DISCLAIMER!
 
 These loaders are unofficial and not supported by Microsoft. There is absolutely **NO WARRANTY**. If your system conks out because of these programs, we are not responsible and we do not care.
 
