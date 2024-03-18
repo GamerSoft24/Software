@@ -233,9 +233,9 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 1 -> [JetBrains ToolBox:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/JetBrains/Toolbox%20App/v2.2.2/jetbrains-toolbox-2.2.2.20062.exe) Version 2.2.2.20062 of the JetBrains ToolBox App. Very useful and can install any IDEs and JetBrains Tools once installed.
 
-[**Lunar Client:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Lunar%20Client%20(for%20Minecraft)/v3.2.3)
+[**Lunar Client (for Minecraft):**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Lunar%20Client%20(for%20Minecraft)/v3.2.3)
 
-1 -> [Lunar Client:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Lunar%20Client%20(for%20Minecraft)/v3.2.3/Lunar%20Client%20v3.2.3%20Setup.exe) Some will argue that it is a better Minecraft Launcher. With integrated OptiFine and much more, you might consider this as an option.
+1 -> [Lunar Client (for Minecraft):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Lunar%20Client%20(for%20Minecraft)/v3.2.3/Lunar%20Client%20v3.2.3%20Setup.exe) Some will argue that it is a better Minecraft Launcher. With integrated OptiFine and much more, you might consider this as an option.
 
 [**Microsoft Edge:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge)
 
