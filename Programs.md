@@ -145,11 +145,23 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 1 -> [AOMEI Partitioning Wizard:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/AOMEI%20Partitioning%20Wizard/passist_std.exe) A partition manager that can format, delete, create and clone partitions from one disk. Very handy for new PC builds.
 
+[**Adobe**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Adobe)
+
+1 -> [Adobe Acrobat Reader:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Adobe/Adobe%20Acrobat%20Reader/AdobeAcrobatReader_x64Setup.exe) A PDF reader from Adobe that people still pay for...
+
 [**BlueStacks:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/BlueStacks)
 
 1 -> [BlueStacks 10 (v10.20.0.1005):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%2010%20(v10.20.0.1005)/BlueStacksInstaller_10.20.0.1005_64bit.exe) The best Android emulator in the world. Play mobile games on your PC!
 
 2 -> [BlueStacks 5 (v5.21.0.1043):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%205%20(v5.21.0.1043)/BlueStacksInstaller_5.21.0.1043_64bit.exe) An older version of BlueStacks. 32-bit installer [here](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%205%20(v5.21.0.1043)/BlueStacksInstaller_5.21.0.1043_32bit.exe)
+
+[**Chromium & Supermium:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Chromium%20%26%20Supermium)
+
+[Credits:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Chromium%20%26%20Supermium/Credits.md)
+
+1 -> [Chromium:](https://github.com/GamerSoft24/Software/blob/Main/.github/security/Server%20Error.md) We are unfortunately unable to upload the installers for Chromium. See the releases page for the specified installers
+
+2 -> [Supermium:](https://github.com/GamerSoft24/Software/blob/Main/.github/security/Server%20Error.md)  We are unfortunately unable to upload the installers for Supermium. See the releases page for the specified installers
 
 [**Adobe:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Adobe)
 
@@ -164,11 +176,7 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
  1 -> [BlueStacks 10 (v10.20.0.1005):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%2010/v10.20.0.1005/BlueStacksInstaller_10.20.0.1005_64bit.exe) BlueStacks Android emulator. Can use it to play mobile games or develop Android apps. 64-bit Only.
 
  2 -> [BlueStacks 5 (v5.21.0.1043):](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/BlueStacks/BlueStacks%205/v5.21.0.1043) BlueStacks Android emulator version 5. Use the 32-bit exe if your system is not x64 compatible. Can use it to play mobile games or develop Android apps. 
-
-[**Fujitsu**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Fujitsu)
-
-1 -> [ScanSnap S1300i:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Fujitsu/ScanSnap/S1300i) Description to be added here...
-
+ 
 [**CrystalMark:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/CrystalMark)
 
 1 -> [CrystalDiskInfo v8.17.14:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/CrystalMark/CrystalDiskInfo8_17_14.exe) Version 8.17.14 of the CrystalDiskInfo software. Can read drive S.M.A.R.T data and predict drive failures.
@@ -178,6 +186,14 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 [**Discord:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Discord)
 
 1 -> [Discord:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Discord/DiscordSetup.exe) Long loved Discord, what else is there to say? Maybe don't run it on a 32-bit OS
+
+[**Fujitsu:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Fujitsu)
+
+-> [ScanSnap S1300i:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Fujitsu/ScanSnap/S1300i/WinOrganizerV56L40WW.exe)
+
+1 -> [WinOrganizer:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Fujitsu/ScanSnap/S1300i/WinOrganizerV56L40WW.exe) File manager, PDF reader and scanner all in one application. Thanks Fujitsu.
+
+2 -> [WinScanSnapInstaller:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Fujitsu/ScanSnap/S1300i/https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Fujitsu/ScanSnap/S1300i/WinSSInstS1300iWW1.exe) ScanSnap software for the Fujistu ScanSnap S1300i. This product is not compatible with Windows 8 or over.
 
 [**Git:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Git)
 
@@ -189,15 +205,21 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 [**Google Chrome:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Google%20Chrome)
 
-1 -> [Chrome Beta:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeBetaSetup.exe) Latest version of Chrome Beta. Might have stability and compatibility issues
+1 -> [Chrome Beta:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Google/Google%20Chrome/Beta/ChromeBetaSetup.exe) Latest version of Chrome Beta. Might have stability and compatibility issues
 
-2 -> [Chrome Dev:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeDevSetup.exe) Latest version of Chrome Dev. Use if you want to make a new extension or develop a web application.
+2 -> [Chrome Dev:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Google/Google%20Chrome/Dev/ChromeDevSetup.exe) Latest version of Chrome Dev. Use if you want to make a new extension or develop a web application.
 
-3 -> [Chrome Standard:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google%20Chrome/ChromeSetup.exe) Regular ol' Chrome. Not much to say apart that it's much more modern than 360Chrome. Just don't use it on Windows 7 and older...
+3 -> [Chrome Standard:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Google/Google%20Chrome/Standard/ChromeSetup.exe) Regular ol' Chrome. Not much to say apart that it's much more modern than 360Chrome. Just don't use it on Windows 7 and older...
 
 [**Google Earth Pro:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Google/Google%20Earth%20Pro) 
 
 1 -> [Google Earth Pro:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Google/Google%20Earth%20Pro/GoogleEarthProSetup.exe) We all downloaded it to play GeoFS.
+
+[**HW:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/HW)
+
+1 -> [HWMonitor:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/HW/HWMonitor/v.1.52) version 1.5.2 of the HWMonitor(Hardware Monitor) program. Can read CPU temps, GPU temps, voltage, clock speed and much more. Very useful to have.
+
+2 -> [HWiNFO:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/HW/HWiNFO/HWiNFO_Setup.exe) HWiNFO : Hardware Info. Same thing as HWMonitor, but some argue it is better than HWMonitor. Can read CPU temps, GPU temps, voltage, clock speed and much more. Very useful to have.
 
 [**HWMonitor:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/HWMonitor)
 
@@ -210,6 +232,10 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 [**JetBrains:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/JetBrains)
 
 1 -> [JetBrains ToolBox:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/JetBrains/Toolbox%20App/v2.2.2/jetbrains-toolbox-2.2.2.20062.exe) Version 2.2.2.20062 of the JetBrains ToolBox App. Very useful and can install any IDEs and JetBrains Tools once installed.
+
+[**Lunar Client (for Minecraft):**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Lunar%20Client%20(for%20Minecraft)/v3.2.3)
+
+1 -> [Lunar Client (for Minecraft):](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Lunar%20Client%20(for%20Minecraft)/v3.2.3/Lunar%20Client%20v3.2.3%20Setup.exe) Some will argue that it is a better Minecraft Launcher. With integrated OptiFine and much more, you might consider this as an option.
 
 [**Microsoft Edge:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Microsoft%20Edge)
 
@@ -337,6 +363,12 @@ Choose your language from the folders then either download the installer or down
 
 1 -> [WinAeroTweaker v1.62.1.0:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/WinAero%20Tweaker/WinaeroTweaker-1.62.1.0-setup.exe) WinAero Tweaker. Can remove unnecessary features from Windows 10 and 11 and de-bloat your system. Useful if you have a potato.
 
+[**Windows Loaders:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Windows%20Loaders)
+
+1 -> [DAZ loader:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Windows%20Loaders/DAZ%20Loader/v2.2.2/Daz_Loader_v2.2.2_setup.exe) version 2.2.2 of the Windows Activator by DAZ. Can activate Windows 7 and Vista. Make sure the indicator at the top right is green. Otherwise, your version may be infected.
+
+2 -> [MAS loader:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Windows%20Loaders/MAS/1.5/MAS_1.5_setup.exe) Version 1.5 of the MAS loader. Can activate Windows 10, 11 and MS Office. Credits to [massgravel](https://github.com/massgravel/Microsoft-Activation-Scripts) for making this possible.
+
 ### [macOS:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS)
 
 **WARNING! Programs may not run on certain versions of macOS. Please check your version of macOS to make sure it is compatible with the application you are downloading. There are not many installers, but we are working our hardest to find some and add to our ever growing collection.**
@@ -352,3 +384,5 @@ Choose your language from the folders then either download the installer or down
 [**VLC:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS/VLC%20Media%20Player)
 
 1 -> [VLC Media Player:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS/VLC%20Media%20Player) The video player we all know and love, from VideoLan. Download the Apple Silicon version if you have an M series chip (M1, M2, M3,...) or the Intel Chip version if you have an Intel processor (i5-14600K).
+
+Credits [Okmeque1](https://github.com/Okmeque1) for helping to contribute to this file.
