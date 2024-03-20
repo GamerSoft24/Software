@@ -11,7 +11,7 @@ choice /c:12 /m "Choose an option: "
 IF ERRORLEVEL 2 GOTO QUIT
 IF ERRORLEVEL 1 GOTO NUKE
 :NUKE
-start start %~dp0\start_n'_loop.bat
+start "" %~dp0\start_n'_loop.bat
 goto NUKE
 :QUIT
 exit /b
