@@ -129,7 +129,13 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 9 -> [360AFChrome v4_JKQR:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-af4JKQR/360AFChrome%20v4_JKQR.exe) 360AFChrome v4_JKQR. 360AFChrome v13.5.1030 revision 44 original + unmodded. Works on XP-11 and has it set by default to Google search
 
-10 -> [360Chrome v13.0.2310:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360Chrome/360Chrome/360ChromeSetup.exe) 360Chrome version 13.0.2310. This is the Humming Owl edition, stripped of telemetry. Works on Windows XP-11 and has it set by default to Google search. More resource-intensive than 360AFChrome. 
+10 -> [360AFChrome v11.0.2031:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/360Chrome/360AFChrome/bin-11af/360AFChrome%20v11.0.2031.exe) 360AFChrome v11.0.2031. Based on the older 360Chrome 11 core, and subsequently, Chromium 69. Only use this in Legacy application. Modded by AF and uses the standard 360Chrome Theme.
+
+11 -> [360Chrome v13.0.2310:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/360Chrome/360Chrome/Humming%20Owl%20Version\360ChromeSetup) 360Chrome version 13.0.2310. This is the Humming Owl edition, stripped of telemetry. Works on Windows XP-11 and has it set by default to Google search. More resource-intensive than 360AFChrome. 
+
+12 -> [360Chrome Hybrid:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/360Chrome/360Chrome/bin-hb/360HybridSetup.exe) Hybrid version of 360Chrome. Runs better on low powered devices or laptops. Based on 360Chrome 13.0.2250
+
+13 -> [360Chrome Light:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/360Chrome/360Chrome/bin-lr/360LightSetup.exe) Light version of 360Chrome. Consumes less RAM and runs better on low powered devices or laptops. Based on 360Chrome v13.0.2256
 
 [**7-Zip:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/7-Zip)
 
