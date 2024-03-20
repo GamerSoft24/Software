@@ -1,0 +1,37 @@
+name: Feature Request
+description: File a feature request
+title: "[Bug]: "
+labels: ["enhancement"]
+projects: ["GamerSoft24/5"]
+assignees:
+  - GamerSoft24
+  - SutoEXEC
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: What do you want us to improve?
+      description: Write down what feature you want us to add to this repository.
+      placeholder: Tell us what feature you want us to add!
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this feature request, you agree to follow our [Code of Conduct](https://github.com/GamerSoft24/Software/blob/Main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
