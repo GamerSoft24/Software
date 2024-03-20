@@ -1,10 +1,11 @@
 name: Bug Report
 description: File a bug report
 title: "[Bug]: "
-labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
+labels: ["bug", "invalid"]
+projects: ["GamerSoft24/5"]
 assignees:
-  - octocat
+  - GamerSoft24
+  - SutoEXEC
 body:
   - type: markdown
     attributes:
