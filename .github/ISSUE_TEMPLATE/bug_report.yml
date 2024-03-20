@@ -54,6 +54,9 @@ body:
         - 360AFChrome (bin-af4G)
         - 360AFChrome (bin-af4JKQR)
         - 360AFChrome (bin-11af)
+        - Mypal
+        - ArcticFox
+        - Supermium
         - Any of the above using Software360AIO.BAT browser loader
         - Any of the above using the 360Loader.bat included in all 360(AF)Chrome versions.
         - None of the above.
