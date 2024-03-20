@@ -39,6 +39,21 @@ body:
         - Safari
         - Microsoft Edge
         - Opera or Opera GX
+        - 360Chrome (non installersoft)
+        - 360Chrome (installersoft)
+        - 360AFChrome (non installersoft)
+        - 360AFChrome (bin-2036r1af)
+        - 360AFChrome (bin-af/9)
+        - 360AFChrome (bin-af5)
+        - 360AFChrome (A1_1030rx)
+        - 360AFChrome (A1_2036)
+        - 360AFChrome (ABCD_1030rx)
+        - 360AFChrome (bin-af4ABCD)
+        - 360AFChrome (bin-af4G)
+        - 360AFChrome (bin-af4JKQR)
+        - 360AFChrome (bin-11af)
+        - Any of the above using Software360AIO.BAT browser loader
+        - None of the above.
   - type: textarea
     id: logs
     attributes:
