@@ -1,7 +1,7 @@
 name: Bug Report
 description: File a bug report
 title: "[Bug]: "
-labels: ["bug", "invalid","help wanted]
+labels: ["bug", "invalid","help wanted"]
 projects: ["GamerSoft24/5"]
 assignees:
   - GamerSoft24
