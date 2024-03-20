@@ -365,9 +365,9 @@ Choose your language from the folders then either download the installer or down
 
 [**Windows Loaders:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Windows%20Loaders)
 
-1 -> [DAZ loader:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Windows%20Loaders/DAZ%20Loader/v2.2.2/Daz_Loader_v2.2.2_setup.exe) version 2.2.2 of the Windows Activator by DAZ. Can activate Windows 7 and Vista. Make sure the indicator at the top right is green. Otherwise, your version may be infected.
+1 -> [DAZ loader:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Windows%20Loaders/DAZ%20Loader/v2.2.2/Daz_Loader_v2.2.2_setup.exe) Version 2.2.2 of the Windows Activator by DAZ. Can activate Windows 7 and Vista. Make sure the indicator at the top right is green. Otherwise, your version may be infected.
 
-2 -> [MAS loader:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Windows%20Loaders/MAS/1.5/MAS_1.5_setup.exe) Version 1.5 of the MAS loader. Can activate Windows 10, 11 and MS Office. Credits to [massgravel](https://github.com/massgravel/Microsoft-Activation-Scripts) for making this possible.
+2 -> [MAS loader:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Windows%20Loaders/MAS/1.5/MAS_1.5_setup.exe) Version 1.5 of the MAS loader. Can activate Windows 10, 11 and Microsoft Office. Credits to [massgravel](https://github.com/massgravel/Microsoft-Activation-Scripts) for making this possible.
 
 ### [macOS:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/macOS)
 
