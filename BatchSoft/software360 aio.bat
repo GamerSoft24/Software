@@ -10,7 +10,7 @@ echo (c) GamerSoftware Corporation and Okmeque1 Corporation. All rights reserved
 echo [1] UAC Bypass.
 echo [2] Open Windows Command Prompt (cmd.exe).
 echo [3] BRSTD1 - Browser Standard 1 (Default Setup, only works on Google Chrome at default location).
-echo [4] BRSTD1 - Browser Standart 1 (Advanced Setup, works with all browsers).
+echo [4] BRSTD1 - Browser Standard 1 (Advanced Setup, works with all browsers).
 echo [5] Quit program.
 choice /c:12345 /m "Choose an option: "
 IF ERRORLEVEL 5 GOTO END
