@@ -6,7 +6,7 @@
 # 2. Setup secrets in your repository by going to settings: Create ICR_NAMESPACE and IBM_CLOUD_API_KEY
 # 3. Change the values for the IBM_CLOUD_REGION, REGISTRY_HOSTNAME, IMAGE_NAME, IKS_CLUSTER, DEPLOYMENT_NAME, and PORT
 
-name: Build and Deploy to IBM PC DOS version 2.11
+name: Regex Engine v2.11 - © IBM Corp. 1981-1997 - All Rights Reserved
 
 on:
   push:
