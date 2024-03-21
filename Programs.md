@@ -375,6 +375,16 @@ Choose your language from the folders then either download the installer or down
 
 1 -> [WinAeroTweaker v1.62.1.0:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/WinAero%20Tweaker/WinaeroTweaker-1.62.1.0-setup.exe) WinAero Tweaker. Can remove unnecessary features from Windows 10 and 11 and de-bloat your system. Useful if you have a potato.
 
+[**WinImage:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/WinImage)
+
+All versions of the WinImage program from this repository are x86 compatible.
+
+1 -> [WinImage v60:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/WinImage/v60/winima60.exe) Version 60 of the WinImage Imaging program. Can view and read ISO, IMG and FLP files, can make bootable floppies and CD's.
+
+2 -> [WinImage v90](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/WinImage/v90/winima90.exe)  Version 60 of the WinImage Imaging program. Can view and read ISO, IMG and FLP files, can make bootable floppies and CD's.
+
+3 -> [WinImage v100](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/WinImage/v100/winima100.exe)  Version 60 of the WinImage Imaging program. Can view and read ISO, IMG and FLP files, can make bootable floppies and CD's.
+
 [**Windows Loaders:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/Windows%20Loaders)
 
 1 -> [DAZ loader:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/Windows%20Loaders/DAZ%20Loader/v2.2.2/Daz_Loader_v2.2.2_setup.exe) Version 2.2.2 of the Windows Activator by DAZ. Can activate Windows 7 and Vista. Make sure the indicator at the top right is green. Otherwise, your version may be infected.
