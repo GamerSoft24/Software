@@ -11,7 +11,7 @@ This is **where** I will be *storing all* of ***my and some of Okmeque1's*** Pyt
 ## VBSoft:
 This is **where** I will be *storing all* of ***my*** VBS (Windows Visual Basic Script) codes and programs.
 
-***WARNING!*** The VBS codes are *more towards **pranks*** but Windows might detect it as a virus. Be careful though as the [`/VBSoft/Deadly`](https://github.com/GamerSoft24/Software/tree/Main/VBSoft/Deadly) folder, the codes there are actually ***deadly*** and can *crash you RAM* in just a **few seconds running.** 
+***WARNING!*** The VBS codes are *more towards **pranks*** but Windows might detect it as a virus. Be careful though as the [`/VBSoft/Deadly`](https://github.com/GamerSoft24/Software/tree/Main/VBSoft/Deadly) folder, the codes there are actually ***deadly*** and can *crash your RAM* in just a **few seconds running.** 
 
 *For* **direct access**, [click here!](https://github.com/GamerSoft24/Software/tree/Main/VBSoft)
 
