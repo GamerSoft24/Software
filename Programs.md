@@ -137,6 +137,12 @@ All versions of 360Chrome or/and 360AFChrome can run on 32-bit Windows computers
 
 13 -> [360Chrome Light:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/360Chrome/360Chrome/bin-lr/360LightSetup.exe) Light version of 360Chrome. Consumes less RAM and runs better on low powered devices or laptops. Based on 360Chrome v13.0.2256
 
+[**360 Safety Suite:**](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360%20Safety)
+
+1 -> [Extreme Explorer:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360%20Safety/Extreme%20Explorer/v13.5/360ChromeEESetup_v13.5.exe) 360EE v13.5.2044. This browser may or may not have telemetry, if you want 0 telemetry, use 360Chrome or 360AFChrome that is **NOT** from the safety suite.
+
+2 -> [Security Assistant:](https://github.com/GamerSoft24/Software/blob/Main/InstallerSoft/Windows/360%20Safety/Security%20Assistant/v13/360SecurityAssistSetup_v13.exe) Security assistant. Ask [@GamerSoft](https://github.com/GamerSoft24] of what it is.
+
 [**7-Zip:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/7-Zip)
 
 1 -> [7-Zip v22.01:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/7-Zip/v22.01) Version 22.01 of the 7-Zip file manager. Can unzip .zip, .rar and .7z formats. Use the 32-bit exe if your system is not x64 compatible.
