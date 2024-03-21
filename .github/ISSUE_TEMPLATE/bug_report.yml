@@ -39,13 +39,13 @@ body:
         - Safari
         - Microsoft Edge
         - Opera or Opera GX
-        - 360Chrome (non installersoft)
+        - 360Chrome (Not from /InstallerSoft/.../360Chrome/)
         - 360Chrome (Humming Owl Version)
         - 360Chrome (bin-lr)
         - 360Chrome (bin-hb)
-        - 360AFChrome (non installersoft)
+        - 360AFChrome (Not from /InstallerSoft/.../360Chrome/)
         - 360AFChrome (bin-2036r1af)
-        - 360AFChrome (bin-af/9)
+        - 360AFChrome (bin-af or af9)
         - 360AFChrome (bin-af5)
         - 360AFChrome (A1_1030rx)
         - 360AFChrome (A1_2036)
@@ -57,9 +57,7 @@ body:
         - Mypal
         - ArcticFox
         - Supermium
-        - Any of the above using Software360AIO.BAT browser loader
-        - Any of the above using the 360Loader.bat included in all 360(AF)Chrome versions.
-        - None of the above.
+        - None of the above :(
   - type: textarea
     id: logs
     attributes:
