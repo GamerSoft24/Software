@@ -105,7 +105,7 @@
 
 ### [Windows:](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows)
 
-**WARNING! Any programs not listed specifically having a 32-bit (x86/x32) version may not run on a 32-bit Windows computer.**
+**WARNING! Any programs not listed specifically having a 32-bit [(x86)](https://stackoverflow.com/questions/29974425/why-is-windows-32-bit-called-windows-x86-and-not-windows-x32) version may not run on a 32-bit Windows computer.**
 
 [**360Chrome or/and 360AFChrome:**](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft/Windows/360Chrome)
 
