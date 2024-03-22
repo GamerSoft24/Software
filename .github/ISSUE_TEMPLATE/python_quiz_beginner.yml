@@ -6,6 +6,9 @@ assignees:
   - SutoEXEC
   - Okmeque1
 body:
+  - type: markdown
+    attributes:
+      value: "Thanks for taking the time to complete this quiz!"
   - type: input
     id: contact
     attributes:
