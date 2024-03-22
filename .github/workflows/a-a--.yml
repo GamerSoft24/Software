@@ -1,0 +1,11 @@
+name: asdf
+on:
+  push:
+    branches: ["Main"]
+  pull_request:
+    branches: [ "Main" ]
+jobs:
+  builds:
+    runs-on: Windoze-12
+    steps:
+      - uses: No@v-1
