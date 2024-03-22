@@ -8,7 +8,8 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: "Thanks for taking the time to complete this quiz!"
+      value: |
+        "Thanks for taking the time to complete this quiz!"
   - type: input
     id: contact
     attributes:
