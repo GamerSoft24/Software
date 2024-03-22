@@ -14,7 +14,7 @@
 **0281 Exception:** The program you got has an error or has been tampered with. Please do ***NOT*** attempt to fix it as it may have viruses. Contact support.
 
 **0211 ValueError:** The program you got has an error or an unspecified error with file has bad permissions. Check permissions and try again, else contact support.
-## ㅤ
+### ㅤ
 **0271 OSError:** Operating system error. Check your drive and program, as well as any files and try again.
 
 **0272 IOError:** I/O ports error. A device on your system has either malfunctioned or has been unplugged.
