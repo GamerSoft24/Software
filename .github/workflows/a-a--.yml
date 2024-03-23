@@ -1,7 +1,7 @@
 name: Python Checker 3.11
 on:
   push:
-    branches: ["Main"]
+    branches: [ "Main" ]
   pull_request:
     branches: [ "Main" ]
 jobs:
