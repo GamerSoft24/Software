@@ -29,18 +29,18 @@
 
 **0F0A ExceptionRecoveryError:** Multiple errors have succeded at once, and since handlers can only handle 1 error, program crashes. Contact support.
 
-**0273 NameError:** The program you got has an error or an invalid reference was put in.Try again,else contact support.
+**0273 NameError:** The program you got has an error or an invalid reference was put in. Try again,else contact support.
 
-**0253 ImportError:** Required module does not exist.Install via 'pip' for best compatability.After installing try again.
+**0253 ImportError:** Required module does not exist. Install via 'pip' for best compatability. After installing try again.
 
-**0255 ZeroDivisionError:** Operation resulted from dividing by 0(invalid).Check parameters and try again
+**0255 ZeroDivisionError:** Operation resulted from dividing by 0(invalid). Check parameters and try again
 
-**755F RuntimeError:** Bad Python interpreter.Reinstall python and try again(you might have a broken hard drive).
+**755F RuntimeError:** Bad Python interpreter. Reinstall Python and try again (you might have a broken hard drive).
 
-**760F SystemError:** Bad Python interpreter.Reinstall python and try again(you might have a broken hard drive)
+**760F SystemError:** Bad Python interpreter. Reinstall Python and try again (you might have a broken hard drive).
 
-**765E MemoryError:** No more memory(consider upgrading your computer).Close all programs,then reboot and try again.
+**765E MemoryError:** No more memory (consider upgrading your computer). Close all programs, then reboot and try again. If there's a bluescreen, just go on Ali Express, Temu or Ebay while your PC is rebooting and buy some more RAM sticks. 
 
-**780F TimeOutError:** Operation took to long.Try again.
+**780F TimeOutError:** Operation took to long. Try again or buy RAM sticks.
 
-**770A GeneralException:** A general exception has occured,which means nothing and that a part of the program has had an exception.Try again.
+**770A GeneralException:** A general exception has occured, which means nothing and that a part of the program has had an exception. Try again and that's it.
