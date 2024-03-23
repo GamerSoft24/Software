@@ -28,7 +28,7 @@ void setup() {
   }
   Serial.println("Please input your gestures:\n");
 }
-
+ 
 void loop() {
   // put your main code here, to run repeatedly:
   uint8_t data = 0, data1 = 0, error;
