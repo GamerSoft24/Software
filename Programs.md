@@ -37,7 +37,7 @@
 
 3 -> [SMS - Security Management System (security management system.py):](https://github.com/GamerSoft24/Software/blob/Main/PySoft/Utilities/security%20management%20system.py) This program can access programs that are useful in terms of security and protection of your personel data. More infos inside of program, option 1 in main menu.
 
-4 -> [Time Clock (time clock.py):]([url](https://github.com/GamerSoft24/Software/blob/Main/PySoft/Utilities/time%20clock.py)) Basically it's just a time clock.
+4 -> [Time Clock (time clock.py):]((https://github.com/GamerSoft24/Software/blob/Main/PySoft/Utilities/time%20clock.py)) Basically it's just a time clock.
 
 ## [VBSoft](https://github.com/GamerSoft24/Software/tree/Main/VBSoft)
 
