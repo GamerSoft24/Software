@@ -7,6 +7,10 @@
 
 2 -> [Basic Calculator (basic calculator.py):](https://github.com/GamerSoft24/Software/blob/Main/PySoft/Calculators/basic%20calculator.py) More basic than the advanced calculator above.
 
+3 -> [Pence to Pound converter (pence to pound converter.py):](https://github.com/GamerSoft24/Software/blob/Main/PySoft/Calculators/pence%20to%20pound%20converter.py) Pence to pound converter. What more do you need to know?
+
+4 -> [Temperature Converter (temperature converter.py):](https://github.com/GamerSoft24/Software/blob/Main/PySoft/Calculators/temperature%20converter.py) A temperature converter to help you talkwith people who don't use celsius and use instead fahrenheit or Kelvin to name a few.
+
 ### [Editors:](https://github.com/GamerSoft24/Software/tree/Main/PySoft/Editors)
 
 1 -> [GUI Text Editor (gui-text editor.py):](https://github.com/GamerSoft24/Software/blob/Main/PySoft/Editors/gui-text%20editor.py) A text editor in Python.
