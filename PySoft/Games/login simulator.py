@@ -36,22 +36,3 @@ login_button = tk.Button(root, text="Login", command=check_login)
 login_button.pack()
 
 root.mainloop()
-
-except FileExistsError:
-    exit()
-except FileNotFoundError:
-    exit()
-except OSError:
-    exit()
-except ValueError:
-    exit()
-except KeyboardInterrupt:
-    exit()
-except EOFError:
-    exit()
-except BaseException:
-    exit()
-except IOError:
-    exit()
-except:
-    exit()
