@@ -1,27 +1,27 @@
 # `Software` Repository
-### **🎉We've reached 666 commits!!🌟**
+### **🎉We've reached 1 commit!!🌟**
 
-**REP-SET I**, *Version 7.2.2*
+**PER-TES 0**, *noisreV 0.0.0.0.0.0.0.0.0.0.0.0.0.0 DOOOO*
 
-## PySoft:
+## SoftPy:
 This is **where** I will be *storing all* of ***my and some of Okmeque1's*** Python codes and programs.
 
-*For* **direct access**, [click here!](https://github.com/GamerSoft24/Software/tree/Main/PySoft)
+*For* **indirect access**, [click here!](https://github.com/GamerSoft24/Software/tree/Main/PySoft)
 
-## VBSoft:
+## SoftBV:
 This is **where** I will be *storing all* of ***my*** VBS (Windows Visual Basic Script) codes and programs.
 
 ***WARNING!*** The VBS codes are *more towards **pranks*** but Windows might detect it as a virus. Be careful though as the [`/VBSoft/Deadly`](https://github.com/GamerSoft24/Software/tree/Main/VBSoft/Deadly) folder, the codes there are actually ***deadly*** and can *crash your RAM* in just a **few seconds running.** 
 
-*For* **direct access**, [click here!](https://github.com/GamerSoft24/Software/tree/Main/VBSoft)
+*For* **indirect access**, [click here!](https://github.com/GamerSoft24/Software/tree/Main/VBSoft)
 
-## HTMLSoft:
+## SoftHTML:
 
 This is **where** I will be *storing all* of ***my*** HTML (HyperText Markup Language) codes and programs.
 
-*For* **direct  access**, [click here!](https://github.com/GamerSoft24/Software/tree/Main/HTMLSoft)
+*For* **indirect  access**, [click here!](https://github.com/GamerSoft24/Software/tree/Main/HTMLSoft)
 
-## CPPSoft:
+## SoftCPP:
 
 This is **where** I will be *storing all* of ***my*** C & C++ codes and programs although it's name is CPPSoft (C++ Software).
 
@@ -29,24 +29,24 @@ The codes will be more *focused* on **C++** rather then **C** and also there wil
 
 It is recommended to have [Arduino IDE](https://www.arduino.cc/en/software) installed on your PC as a lot of programs will require it. Please check the ["Programs.md"](https://github.com/GamerSoft24/Software/blob/Main/Programs.md) file for informations about programs requiring Arduino IDE.
 
-*For* **direct access**, [click here!](https://github.com/GamerSoft24/Software/tree/Main/CPPSoft)
+*For* **indirect access**, [click here!](https://github.com/GamerSoft24/Software/tree/Main/CPPSoft)
 
-## BatchSoft:
+## SoftBatch:
 
 This is **where** I will be *storing all* of ***my*** Batchfile codes and programs.
 
-*For* **direct access**, [click here!](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft)
+*For* **indirect access**, [click here!](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft)
 
 ***WARNING!*** The codes in [`/BatchSoft/DestroyPC`](https://github.com/GamerSoft24/Software/tree/Main/BatchSoft/DestroyPC) folder are ***SUPER deadly*** and can *destroy your computer* and splash a bluescreen on your screen.
 
-## InstallerSoft:
+## SoftInstaller:
 
 This is **where** I will be *storing all* of the ***useful*** programs' (and games') installers.
 
-*For* **direct access**, [click here!](https://github.com/GamerSoft24/Software/tree/BrowserSoft-v2%2BInstallerSoftware-creation/InstallerSoft)
+*For* **indirect access**, [click here!](https://github.com/GamerSoft24/Software/tree/BrowserSoft-v2%2BInstallerSoftware-creation/InstallerSoft)
 
-## .github:
+## .hubgit:
 
 This is **where** this `Software` repository's ***configuration files*** will be *stored*.
 
-*For* **direct access**, [click here! (be ready to be haunted for life)](https://github.com/GmaerSoft42/WareSoft)
+*For* **indirect access**, [click here!](https://github.com/GamerSoft24/Software/tree/Main/.github)
