@@ -49,4 +49,4 @@ This is **where** I will be *storing all* of the ***useful*** programs' (and gam
 
 This is **where** this `Software` repository's ***configuration files*** will be *stored*.
 
-*For* **direct access**, [click here!](https://github.com/GmaerSoft42/WareSoft)
+*For* **direct access**, [click here! (be ready to be haunted for life)](https://github.com/GmaerSoft42/WareSoft)
