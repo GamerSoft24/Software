@@ -43,7 +43,7 @@ This is **where** I will be *storing all* of ***my*** Batchfile codes and progra
 
 This is **where** I will be *storing all* of the ***useful*** programs' (and games') installers.
 
-*For* **direct access**, [click here!](https://github.com/GamerSoft24/Software/tree/BrowserSoft-v2%2BInstallerSoftware-creation/InstallerSoft)
+*For* **direct access**, [click here!](https://github.com/GamerSoft24/Software/tree/Main/InstallerSoft)
 
 ## .github:
 
